@@ -9,7 +9,8 @@ tags = ['cloud foundations', 'AWS', 'certification']
 
 ![Banner How To Get Started With AWS](/img/HowToGetStartedWithAWS.jpg)
 
-Who hasn’t felt a stomach full of butterflies before diving into something completely new? 🦋
+🦋 Who hasn’t felt a stomach full of butterflies before diving into something completely new? 🦋
+
 That was me when I realized I needed to learn about Cloud Computing to excel in my career, without a clue where to start.
 
 If you're in the same boat, an absolute beginner like I was when I first started, I strongly recommend taking a quick detour to this article first: [Cloud Computing: What it is and why should tech beginners learn it?](https://dev.to/aws-builders/cloud-computing-why-should-tech-beginners-learn-it-2khe). It’ll give you some background on why Cloud Computing is worth your time.
