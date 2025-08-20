@@ -1,5 +1,5 @@
 +++
-date = '2024-10-16T23:34:17+02:00'
+date = '2024-11-05T23:34:17+02:00'
 draft = false
 title = 'Reflections on AWS re:Invent 2024: Why You Don’t Need to Be Senior to Make a Difference in Tech'
 tags = ['career growth']
@@ -13,11 +13,11 @@ My first AWS re:Invent has truly been remarkable and filled with unforgettable m
 
 To start, I couldn’t hold back my tears during the APJC Community Builders meetup when I received beautiful words of appreciation and recognition from Shafraz Rahim , AWS Community Manager for the APJC region. Shafraz is someone I deeply admire, and his recognition meant the world to me.
 
-However, the biggest surprise came later during the EMEA Community Builders meeting, where I received an award for my work advocating for women in tech and inclusion. I never imagined receiving such recognition just four months after moving to Sweden.
+However, the biggest surprise came later during the EMEA Community Builders meeting, where I received an award for my work advocating for women in tech and inclusion delivered by Gunnar Grosch, principal AWS Developer Relations - responsible for the Nordics, and Thembile Martis, Community Manager for EMEA. I never imagined receiving such recognition just four months after moving to Sweden.
 
 At first, I struggled with the all-too-familiar imposter syndrome and typical self-doubt many women face, questioning if I deserved this honor. Then, I realized that doubting myself wouldn’t be helpful. Embracing this moment was vital, not for me, but to empower other amazing women worldwide.
 
-Instead, I want to share the steps I’ve taken to contribute to inclusivity and women in tech—steps you, too, can take to encourage more women:
+Instead, I want to share the steps I’ve taken to contribute to inclusivity and women in tech. Steps you, too, can take to encourage more women:
 
 ![AWS APJ meetup slide](/img/apjmeetup.jpg)
 
