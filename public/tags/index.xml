@@ -9,7 +9,47 @@
     <managingEditor>suzanamelodev@gmail.com (Suzana Melo)</managingEditor>
     <webMaster>suzanamelodev@gmail.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 23:34:17 +0200</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Career Change</title>
+      <link>//localhost:1313/tags/career-change/</link>
+      <pubDate>Thu, 21 Sep 2023 23:34:17 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/career-change/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Career Growth</title>
+      <link>//localhost:1313/tags/career-growth/</link>
+      <pubDate>Thu, 21 Sep 2023 23:34:17 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/career-growth/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>//localhost:1313/tags/programming/</link>
+      <pubDate>Thu, 03 Sep 2020 14:24:19 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>//localhost:1313/tags/react/</link>
+      <pubDate>Thu, 03 Sep 2020 14:24:19 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/react/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
