@@ -18,7 +18,7 @@
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
       <guid>//localhost:1313/posts/loan-calculator/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/loan-calculator/featured-ReactHooks.png" />
     </item>
     
   </channel>

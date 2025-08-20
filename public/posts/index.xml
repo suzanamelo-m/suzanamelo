@@ -18,7 +18,17 @@
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
       <guid>//localhost:1313/posts/the-challenge-of-starting-in-tech/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/the-challenge-of-starting-in-tech/featured-DevDay.jpeg" />
+    </item>
+    
+    <item>
+      <title>How I prepared myself for the AWS Cloud Practitioner Certificate</title>
+      <link>//localhost:1313/posts/cloud-practitioner-certificate/</link>
+      <pubDate>Tue, 30 May 2023 16:43:30 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/posts/cloud-practitioner-certificate/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/cloud-practitioner-certificate/featured-AWSCloudCertification.jpeg" />
     </item>
     
     <item>
@@ -28,7 +38,7 @@
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
       <guid>//localhost:1313/posts/loan-calculator/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/loan-calculator/featured-ReactHooks.png" />
     </item>
     
   </channel>

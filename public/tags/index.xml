@@ -32,6 +32,36 @@
     </item>
     
     <item>
+      <title>Aws</title>
+      <link>//localhost:1313/tags/aws/</link>
+      <pubDate>Tue, 30 May 2023 16:43:30 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/aws/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Certification</title>
+      <link>//localhost:1313/tags/certification/</link>
+      <pubDate>Tue, 30 May 2023 16:43:30 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/certification/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Foundations</title>
+      <link>//localhost:1313/tags/cloud-foundations/</link>
+      <pubDate>Tue, 30 May 2023 16:43:30 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/cloud-foundations/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Programming</title>
       <link>//localhost:1313/tags/programming/</link>
       <pubDate>Thu, 03 Sep 2020 14:24:19 +0200</pubDate>
@@ -47,6 +77,16 @@
       <pubDate>Thu, 03 Sep 2020 14:24:19 +0200</pubDate>
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
       <guid>//localhost:1313/tags/react/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>//localhost:1313/tags/tutorial/</link>
+      <pubDate>Thu, 03 Sep 2020 14:24:19 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/tutorial/</guid>
       <description></description>
       
     </item>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certification on Suzana Melo</title>
+    <link>//localhost:1313/tags/certification/</link>
+    <description>Recent content in Certification on Suzana Melo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>suzanamelodev@gmail.com (Suzana Melo)</managingEditor>
+    <webMaster>suzanamelodev@gmail.com (Suzana Melo)</webMaster>
+    <copyright>© 2025 Suzana Melo</copyright>
+    <lastBuildDate>Tue, 30 May 2023 16:43:30 +0200</lastBuildDate><atom:link href="//localhost:1313/tags/certification/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How I prepared myself for the AWS Cloud Practitioner Certificate</title>
+      <link>//localhost:1313/posts/cloud-practitioner-certificate/</link>
+      <pubDate>Tue, 30 May 2023 16:43:30 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/posts/cloud-practitioner-certificate/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/cloud-practitioner-certificate/featured-AWSCloudCertification.jpeg" />
+    </item>
+    
+  </channel>
+</rss>
