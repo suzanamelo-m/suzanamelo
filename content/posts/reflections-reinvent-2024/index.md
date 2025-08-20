@@ -2,7 +2,7 @@
 date = '2024-11-05T23:34:17+02:00'
 draft = false
 title = 'Reflections on AWS re:Invent 2024: Why You Don’t Need to Be Senior to Make a Difference in Tech'
-tags = ['career growth']
+tags = ['career growth', 'AWS', 'volunteering']
 +++
 
 # Reflections on AWS re:Invent 2024: Why You Don’t Need to Be Senior to Make a Difference in Tech

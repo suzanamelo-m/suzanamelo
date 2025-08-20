@@ -2,7 +2,7 @@
 date = '2025-02-03T23:34:17+02:00'
 draft = false
 title = 'How to get started with AWS (for absolute beginners)'
-tags = ['cloud foundations', 'aws', 'certification']
+tags = ['cloud foundations', 'AWS', 'certification']
 +++
 
 # How to get started with AWS (for absolute beginners)
