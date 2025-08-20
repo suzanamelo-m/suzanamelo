@@ -2,7 +2,7 @@
 date = '2020-09-03T14:24:19+02:00'
 draft = false
 title = 'Building a Loan Calculator using React Hooks'
-tags = ['react', 'programming']
+tags = ['react', 'programming', 'tutorial']
 +++
 
 # Building a Loan Calculator using React Hooks
