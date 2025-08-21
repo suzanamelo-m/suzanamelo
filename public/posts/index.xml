@@ -9,7 +9,17 @@
     <managingEditor>suzanamelodev@gmail.com (Suzana Melo)</managingEditor>
     <webMaster>suzanamelodev@gmail.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Mon, 09 Jun 2025 23:34:17 +0200</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jun 2025 23:34:17 +0200</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How the AWS All Builders Welcome Grant Changed My Life Forever And Why You Should Apply</title>
+      <link>//localhost:1313/posts/aws-all-builders-welcome-grant-2024/</link>
+      <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/posts/aws-all-builders-welcome-grant-2024/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/aws-all-builders-welcome-grant-2024/featured-grant-2024.jpg" />
+    </item>
     
     <item>
       <title>My Favorite AWS re:Invent Guides that Literally Saved My Life in Las Vegas and My Golden Advice</title>
