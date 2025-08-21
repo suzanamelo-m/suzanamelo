@@ -22,7 +22,7 @@ And trust me, there are no words big enough to explain just how massive this eve
 - Unlimited networking opportunities, including meetups and community activities with people from all over the world
 - And so much more...
 
-![Dr Werner Vogels keynote](/img/Reinvent2024Keynote.jpg "Dr Werner Vogels delivering an epic keynote")
+![Dr Werner Vogels keynote](/img/Reinvent2024Keynote.jpg "Dr Werner Vogels (Chief technology officer of Amazon) delivering an epic keynote")
 
 I would have been totally lost without the advice I received from people who had already experienced this organized chaos. These were the guides that literally saved me, and made my first re:Invent not only survivable but truly unforgettable:
 
@@ -60,7 +60,7 @@ Coming from someone who had never been to the desert before, I’m forever thank
 
 👉 Read it [here](https://www.linkedin.com/in/palomalataliza/)
 
-![Eric Johnson Serverless session](/img/EricJohnson.jpg "Eric Johnson Serverless session at AWS re:Invent")
+![Eric Johnson Serverless session](/img/EricJohnson.jpg "Eric Johnson's Serverless session at AWS re:Invent")
 
 ✨ **My Personal Tip: Build Your Schedule Around the Venues**
 

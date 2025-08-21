@@ -5,7 +5,7 @@ title = 'Turning 48: Not a Fairytale, But Worth Every Step - My Path in Tech & B
 tags = ['career change', 'career growth']
 +++
 
-![Cloud Computing Talk In Vienna](/img/CloudComputingSpeak.jpeg)
+![Cloud Computing Talk In Vienna](/img/CloudComputingSpeak.jpeg "Speaking at the AWS Women's User Group Vienna's kick-off meetup")
 
 On March 29, I turned 48, grateful, fulfilled, and with so many incredible things to celebrate! 🎉
 
@@ -57,7 +57,7 @@ Because:
 
 ❤️ Volunteering connects me with people who fight battles even tougher than mine. If I stop, who will be there for them?
 
-❤️ I surround myself with people who inspire me. People who believe in me even when I doubt myself, Lucio Moraes, Michelle Amaral, CPHR Candidate, Mariana Braga, Derek Bingham, Donna Edwards, Jimmy Dahlqvist, 🦄 Marcus Bladh, Linda Mohamed, Julia Furst Morgado, Linda Tierney, Anja Woracek, Sahan Dissanayake, Endah Bongo-Awah and many more who keep me going.
+❤️ I surround myself with people who inspire me. People who believe in me even when I doubt myself, Lucio Moraes, Michelle Amaral, CPHR Candidate, Mariana Braga, Derek Bingham, Donna Edwards, Jimmy Dahlqvist, Marcus Bladh, Linda Mohamed, Julia Furst Morgado, Linda Tierney, Anja Woracek, Sahan Dissanayake, Endah Bongo-Awah and many more who keep me going.
 
 ❤️ I’ve been lucky to work in companies with incredible mentors who saw the value in my diverse background and helped me thrive, like Richard Sentino, Ella Cane, Callie Beswick, Matthew Young, Claudynn Lee, Mila Dymnikova, and so many others. Yes, those companies exist; it’s a game-changing experience, and I know I can find another place like that.
 

@@ -29,7 +29,7 @@ AWS Skill Builder is part of AWS Training and Certification, offering a range of
 
 To sign in and access the AWS Skill Builder resources, it is recommended by AWS that you create an **AWS Builder ID**, a free AWS personal profile that allows access to specific tools and services. You can read more about this credential [here](https://docs.aws.amazon.com/signin/latest/userguide/sign-in-aws_builder_id.html).
 
-Once signed in to the AWS Skill Build, you can explore courses tailored to different learning pathways: Cloud Role, Product Domain, Certification preparation exams, and many more. But for now, let’s focus only on the Cloud Essentials Badge—your starting point.
+Once signed in to the AWS Skill Builder, you can explore courses tailored to different learning pathways: Cloud Role, Product Domain, Certification preparation exams, and many more. But for now, let’s focus only on the Cloud Essentials Badge—your starting point.
 
 ## Cloud Essentials Badge 🥇
 
