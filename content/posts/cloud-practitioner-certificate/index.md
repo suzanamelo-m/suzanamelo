@@ -5,8 +5,6 @@ title = 'How I prepared myself for the AWS Cloud Practitioner Certificate'
 tags = ['cloud foundations', 'AWS', 'certification']
 +++
 
-# How I prepared myself for the AWS Cloud Practitioner Certificate
-
 ![AWS Cloud Practitioner Certificate](/img/AWSCloudCertification.jpeg)
 
 Once you choose a technology life, Cloud is inevitable. ☁️

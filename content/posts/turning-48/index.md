@@ -5,8 +5,6 @@ title = 'Turning 48: Not a Fairytale, But Worth Every Step - My Path in Tech & B
 tags = ['career change', 'career growth']
 +++
 
-# Turning 48: Not a Fairytale, But Worth Every Step - My Path in Tech & Beyond
-
 ![Cloud Computing Talk In Vienna](/img/CloudComputingSpeak.jpeg)
 
 On March 29, I turned 48, grateful, fulfilled, and with so many incredible things to celebrate! 🎉

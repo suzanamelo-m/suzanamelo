@@ -5,8 +5,6 @@ title = 'How to get started with AWS (for absolute beginners)'
 tags = ['cloud foundations', 'AWS', 'certification']
 +++
 
-# How to get started with AWS (for absolute beginners)
-
 ![Banner How To Get Started With AWS](/img/HowToGetStartedWithAWS.jpg)
 
 🦋 Who hasn’t felt a stomach full of butterflies before diving into something completely new? 🦋

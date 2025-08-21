@@ -5,8 +5,6 @@ title = 'Building a Loan Calculator using React Hooks'
 tags = ['react', 'programming', 'tutorial']
 +++
 
-# Building a Loan Calculator using React Hooks
-
 ![React Hooks ](/img/ReactHooks.png)
 
 Are you just starting with React? Are you wondering what you can build that’s simple and achievable? Well, so was I, and so I wrote this article to share my experience and learning with you.

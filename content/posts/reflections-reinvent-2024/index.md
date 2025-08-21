@@ -5,8 +5,6 @@ title = 'Reflections on AWS re:Invent 2024: Why You Don’t Need to Be Senior to
 tags = ['career growth', 'AWS', 'volunteering']
 +++
 
-# Reflections on AWS re:Invent 2024: Why You Don’t Need to Be Senior to Make a Difference in Tech
-
 ![AWS EMEA award](/img/EMEAaward.jpg)
 
 My first AWS re:Invent has truly been remarkable and filled with unforgettable moments.

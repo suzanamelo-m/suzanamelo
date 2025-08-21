@@ -1,11 +1,9 @@
 +++
 date = '2023-09-21T23:34:17+02:00'
 draft = false
-title = 'The Challenge of Starting in Tech'
+title = 'The Challenge of "Starting" in Tech'
 tags = ['career change', 'career growth']
 +++
-
-# The challenge of “starting” in Tech
 
 ![Dev Day Aotearoa 2023](/img/DevDay2023.jpg)
 

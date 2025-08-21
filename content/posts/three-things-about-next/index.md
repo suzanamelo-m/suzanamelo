@@ -5,8 +5,6 @@ title = 'Three things I loved most about Next.js 13.4 so far'
 tags = ['react', 'nextjs', 'programming']
 +++
 
-# Three things I loved most about Next.js 13.4 so far
-
 ![Next JS](/img/nextjs.png)
 
 Next.js was first launched in October 2016 by Vercel (formerly Zeit), years before I started programming. However, I only started learning it about a month ago when I needed to develop an application as part of a technical challenge using the famous “React framework”.

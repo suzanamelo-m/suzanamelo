@@ -5,8 +5,6 @@ title = 'Cloud Computing: What it is and why tech beginners should learn it?'
 tags = ['cloud foundations', 'AWS']
 +++
 
-# Cloud Computing: What it is and why tech beginners should learn it?
-
 ![Cloud Computing](/img/CloudComputing.jpeg)
 
 Cloud is everywhere, and we often do not even notice it, but it's part of our lives, whether we are aware of it or not.

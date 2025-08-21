@@ -5,8 +5,6 @@ title = 'Upskill and Accelerate Your Career by Volunteering'
 tags = ['volunteer', 'career growth']
 +++
 
-# Upskill and Accelerate Your Career by Volunteering
-
 ![ReDi School Class](/img/ReDiClass.jpg)
 
 When you think of volunteering, what is the first thing that comes to your mind? 🤔
