@@ -9,7 +9,17 @@
     <managingEditor>suzanamelodev@gmail.com (Suzana Melo)</managingEditor>
     <webMaster>suzanamelodev@gmail.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Sun, 30 Mar 2025 23:34:17 +0200</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jun 2025 23:34:17 +0200</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Favorite AWS re:Invent Guides that Literally Saved My Life in Las Vegas and My Golden Advice</title>
+      <link>//localhost:1313/posts/my-favorite-reinvent-guides-2024/</link>
+      <pubDate>Mon, 09 Jun 2025 23:34:17 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/posts/my-favorite-reinvent-guides-2024/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/my-favorite-reinvent-guides-2024/featured-reinvent.jpg" />
+    </item>
     
     <item>
       <title>Turning 48: Not a Fairytale, But Worth Every Step - My Path in Tech &amp; Beyond</title>

@@ -9,7 +9,27 @@
     <managingEditor>suzanamelodev@gmail.com (Suzana Melo)</managingEditor>
     <webMaster>suzanamelodev@gmail.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Sun, 30 Mar 2025 23:34:17 +0200</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jun 2025 23:34:17 +0200</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS</title>
+      <link>//localhost:1313/tags/aws/</link>
+      <pubDate>Mon, 09 Jun 2025 23:34:17 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/aws/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Re:Invent</title>
+      <link>//localhost:1313/tags/reinvent/</link>
+      <pubDate>Mon, 09 Jun 2025 23:34:17 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/reinvent/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Career Change</title>
@@ -27,16 +47,6 @@
       <pubDate>Sun, 30 Mar 2025 23:34:17 +0200</pubDate>
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
       <guid>//localhost:1313/tags/career-growth/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AWS</title>
-      <link>//localhost:1313/tags/aws/</link>
-      <pubDate>Mon, 03 Feb 2025 23:34:17 +0200</pubDate>
-      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
-      <guid>//localhost:1313/tags/aws/</guid>
       <description></description>
       
     </item>
