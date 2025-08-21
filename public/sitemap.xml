@@ -15,13 +15,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/aws-for-absolute-beginners/</loc>
-    <lastmod>2025-02-03T23:34:17+02:00</lastmod>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-03-30T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>//localhost:1313/posts/turning-48/</loc>
+    <lastmod>2025-03-30T23:34:17+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/aws-for-absolute-beginners/</loc>
     <lastmod>2025-02-03T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
