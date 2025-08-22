@@ -2,7 +2,7 @@
 date = '2024-10-16T23:34:17+02:00'
 draft = false
 title = 'Upskill and Accelerate Your Career by Volunteering'
-tags = ['volunteer', 'career growth']
+tags = ['volunteering', 'career growth']
 +++
 
 ![ReDi School Class](/img/ReDiClass.jpg)
