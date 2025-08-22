@@ -92,6 +92,36 @@
     </item>
     
     <item>
+      <title>Programming</title>
+      <link>//localhost:1313/tags/programming/</link>
+      <pubDate>Fri, 18 Aug 2023 23:34:17 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>//localhost:1313/tags/tutorial/</link>
+      <pubDate>Fri, 18 Aug 2023 23:34:17 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/tutorial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web3</title>
+      <link>//localhost:1313/tags/web3/</link>
+      <pubDate>Fri, 18 Aug 2023 23:34:17 +0200</pubDate>
+      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
+      <guid>//localhost:1313/tags/web3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Nextjs</title>
       <link>//localhost:1313/tags/nextjs/</link>
       <pubDate>Thu, 08 Jun 2023 23:34:17 +0200</pubDate>
@@ -102,31 +132,11 @@
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>//localhost:1313/tags/programming/</link>
-      <pubDate>Thu, 08 Jun 2023 23:34:17 +0200</pubDate>
-      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
-      <guid>//localhost:1313/tags/programming/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>React</title>
       <link>//localhost:1313/tags/react/</link>
       <pubDate>Thu, 08 Jun 2023 23:34:17 +0200</pubDate>
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
       <guid>//localhost:1313/tags/react/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>//localhost:1313/tags/tutorial/</link>
-      <pubDate>Thu, 03 Sep 2020 14:24:19 +0200</pubDate>
-      <author>suzanamelodev@gmail.com (Suzana Melo)</author>
-      <guid>//localhost:1313/tags/tutorial/</guid>
       <description></description>
       
     </item>
