@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Career Change on Suzana Melo&#39;s Blog - Empower Through Tech</title>
-    <link>/tags/career-change/</link>
+    <link>http://localhost:1313/tags/career-change/</link>
     <description>Recent content in Career Change on Suzana Melo&#39;s Blog - Empower Through Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>suzanamelodev@gmail.com (Suzana Melo)</managingEditor>
     <webMaster>suzanamelodev@gmail.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Sun, 30 Mar 2025 23:34:17 +0200</lastBuildDate><atom:link href="/tags/career-change/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Mar 2025 23:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/career-change/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Turning 48: Not a Fairytale, But Worth Every Step - My Path in Tech &amp; Beyond</title>
-      <link>/posts/turning-48/</link>
+      <link>http://localhost:1313/posts/turning-48/</link>
       <pubDate>Sun, 30 Mar 2025 23:34:17 +0200</pubDate>
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
-      <guid>/posts/turning-48/</guid>
+      <guid>http://localhost:1313/posts/turning-48/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/turning-48/featured-turning-48.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/turning-48/featured-turning-48.jpeg" />
     </item>
     
     <item>
       <title>The Challenge of &#34;Starting&#34; in Tech</title>
-      <link>/posts/the-challenge-of-starting-in-tech/</link>
+      <link>http://localhost:1313/posts/the-challenge-of-starting-in-tech/</link>
       <pubDate>Thu, 21 Sep 2023 23:34:17 +0200</pubDate>
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
-      <guid>/posts/the-challenge-of-starting-in-tech/</guid>
+      <guid>http://localhost:1313/posts/the-challenge-of-starting-in-tech/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/the-challenge-of-starting-in-tech/featured-DevDay.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-challenge-of-starting-in-tech/featured-DevDay.jpeg" />
     </item>
     
   </channel>
