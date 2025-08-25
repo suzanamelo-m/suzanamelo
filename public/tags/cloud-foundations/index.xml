@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Foundations on Suzana Melo&#39;s Blog - Empower Through Tech</title>
-    <link>http://localhost:1313/tags/cloud-foundations/</link>
+    <link>https://suzanamelo.com/tags/cloud-foundations/</link>
     <description>Recent content in Cloud Foundations on Suzana Melo&#39;s Blog - Empower Through Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>suzanamelodev@gmail.com (Suzana Melo)</managingEditor>
     <webMaster>suzanamelodev@gmail.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Mon, 03 Feb 2025 23:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/cloud-foundations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Feb 2025 23:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/cloud-foundations/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How to get started with AWS (for absolute beginners)</title>
-      <link>http://localhost:1313/posts/aws-for-absolute-beginners/</link>
+      <link>https://suzanamelo.com/posts/aws-for-absolute-beginners/</link>
       <pubDate>Mon, 03 Feb 2025 23:34:17 +0200</pubDate>
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/aws-for-absolute-beginners/</guid>
+      <guid>https://suzanamelo.com/posts/aws-for-absolute-beginners/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aws-for-absolute-beginners/featured-HowToGetStartedWithAWS.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/aws-for-absolute-beginners/featured-HowToGetStartedWithAWS.jpg" />
     </item>
     
     <item>
       <title>Cloud Computing: What it is and why tech beginners should learn it?</title>
-      <link>http://localhost:1313/posts/cloud-computing-what-it-is/</link>
+      <link>https://suzanamelo.com/posts/cloud-computing-what-it-is/</link>
       <pubDate>Tue, 24 Oct 2023 23:34:17 +0200</pubDate>
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/cloud-computing-what-it-is/</guid>
+      <guid>https://suzanamelo.com/posts/cloud-computing-what-it-is/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cloud-computing-what-it-is/featured-CloudComputing.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/cloud-computing-what-it-is/featured-CloudComputing.jpeg" />
     </item>
     
     <item>
       <title>How I prepared myself for the AWS Cloud Practitioner Certificate</title>
-      <link>http://localhost:1313/posts/cloud-practitioner-certificate/</link>
+      <link>https://suzanamelo.com/posts/cloud-practitioner-certificate/</link>
       <pubDate>Tue, 30 May 2023 16:43:30 +0200</pubDate>
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/cloud-practitioner-certificate/</guid>
+      <guid>https://suzanamelo.com/posts/cloud-practitioner-certificate/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cloud-practitioner-certificate/featured-AWSCloudCertification.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/cloud-practitioner-certificate/featured-AWSCloudCertification.jpeg" />
     </item>
     
   </channel>
