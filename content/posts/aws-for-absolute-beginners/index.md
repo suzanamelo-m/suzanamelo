@@ -11,7 +11,8 @@ tags = ['cloud foundations', 'AWS', 'certification']
 
 That was me when I realized I needed to learn about Cloud Computing to excel in my career, without a clue where to start.
 
-If you're in the same boat, an absolute beginner like I was when I first started, I strongly recommend taking a quick detour to this article first: [Cloud Computing: What it is and why should tech beginners learn it?](https://dev.to/aws-builders/cloud-computing-why-should-tech-beginners-learn-it-2khe). It’ll give you some background on why Cloud Computing is worth your time.
+If you're in the same boat, an absolute beginner like I was when I first started, I strongly recommend taking a quick detour to this article first: ["Cloud Computing: What it is and why should tech beginners learn it?"](https://suzanamelo.com/posts/cloud-computing-what-it-is/.<br>
+It’ll give you some background on why Cloud Computing is worth your time.
 
 Back already? Or just eager to jump in? Awesome! Grab a seat, fasten your seatbelt, and let’s fly into the Cloud! ⛅️
 
@@ -19,13 +20,13 @@ Back already? Or just eager to jump in? Awesome! Grab a seat, fasten your seatbe
 
 With so many paths to the Cloud, it's easy to feel overwhelmed. But trust me, it doesn’t have to be. The first lesson I learned through my learning journey, and that I recommend to you, is not to skip steps. Building a solid foundation will give you the base you need to go higher.
 
-As an absolute beginner, I lacked background and struggled to understand key definitions, products, and services. It was when the Cloud Essentials course on the AWS Skill Builder platform came in handy. 🥰
+As an absolute beginner, I lacked background and struggled to understand key definitions, products, and services. It was when the Cloud Essentials course on the [AWS Skill Builder](https://skillbuilder.aws/) platform came in handy. 🥰
 
 ## AWS Skill Builder ⚒️
 
 ![AWS Skill Builder](/img/AWSSkillBuilder.png)
 
-AWS Skill Builder is part of AWS Training and Certification, offering a range of courses across various cloud specialties. While many labs and trainings are accessible by paying a monthly subscription of $29 USD, thankfully, the Cloud Foundations resources are completely free. 🙌🏻
+[AWS Skill Builder](https://skillbuilder.aws/) is part of AWS Training and Certification, offering a range of courses across various cloud specialties. While many labs and trainings are paid, thankfully, the Cloud Foundations resources are completely free. 🙌🏻
 
 To sign in and access the AWS Skill Builder resources, it is recommended by AWS that you create an **AWS Builder ID**, a free AWS personal profile that allows access to specific tools and services. You can read more about this credential [here](https://docs.aws.amazon.com/signin/latest/userguide/sign-in-aws_builder_id.html).
 
@@ -57,22 +58,24 @@ The package in the Cloud Essentials Badge also includes an assessment to earn th
 
 Now that you have all the theory that you need, why not practice with real case scenarios and problems to solve?
 
-AWS Cloud Quest is a 3D role-playing game to help you build practical AWS Cloud skills in an interactive and fun way. AWS Cloud Quest offers different tracks tailored for a variety of Cloud roles, but for beginners, start with the Cloud Practitioner role. The goal is to solve real-life Cloud challenges and gain hands-on experience while exploring AWS services.
+[AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/) is a 3D role-playing game to help you build practical AWS Cloud skills in an interactive and fun way. AWS Cloud Quest offers different tracks tailored for a variety of Cloud roles, but for beginners, start with the [Cloud Practitioner](https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT) role. The goal is to solve real-life Cloud challenges and gain hands-on experience while exploring AWS services.
 
-Best part? It’s free and rewards you with another badge once you've completed all role assignments. One more achievement for your CV! 🔥
+Best part?<br>
+It’s free and rewards you with another badge once you've completed all role assignments.<br>
+One more achievement for your CV! 🔥
 
 ## AWS Cloud Certification 👩🏻‍💻
 
 ![AWS Cloud Certification](/img/AWSCloudCertification.jpeg)
 
-By this stage, you’ll be on your way to your first AWS Cloud Certification, the AWS Cloud Practitioner. This cert validates your foundational Cloud knowledge and opens doors for deeper learning in specialized AWS domains.
+By this stage, you’ll be on your way to your first AWS Cloud Certification, the [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/). This cert validates your foundational Cloud knowledge and opens doors for deeper learning in specialized AWS domains.
 
 📌 Want to know how I prepared for my first Cloud certification?
-I shared my study tips and experience in this article: [How I Prepared for the AWS Cloud Practitioner Certificate](https://dev.to/suzanamelomoraes/how-i-prepared-myself-for-the-aws-cloud-practitioner-certificate-5a1f).
+I shared my study tips and experience in this article: [How I Prepared for the AWS Cloud Practitioner Certificate](https://suzanamelo.com/posts/cloud-practitioner-certificate/).
 
 📌 In my GitHub repository, you can find more resources to start your journey in this list: [Free AWS training courses](https://github.com/suzanamelomoraes/AWSfree).
 
-## Summary 📝
+## Summary
 
 After reading this article, I hope there is no longer any reason to feel your stomach full of butterflies about starting your Cloud journey! 🦋
 
@@ -80,15 +83,18 @@ Now you know you can learn AWS for free and online from wherever you are, study 
 
 Happy learning and to infinity and beyond! ❤️☁️🚀
 
-## Resources:
+## 📝 Resources:
 
-[AWS Skill Builder](https://skillbuilder.aws/)
-Cloud Essentials - [Knowledge Badge Readiness Path](https://explore.skillbuilder.aws/learn/learning-plans/82/cloud-essentials-knowledge-badge-readiness-path)
-[AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
-[Free AWS training courses](https://github.com/suzanamelomoraes/AWSfree).
+📌 [AWS Skill Builder](https://skillbuilder.aws/)
+
+📌 Cloud Essentials - [Knowledge Badge Readiness Path](https://explore.skillbuilder.aws/learn/learning-plans/82/cloud-essentials-knowledge-badge-readiness-path)
+
+📌 [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
+
+📌 [Free AWS training courses](https://github.com/suzanamelomoraes/AWSfree)
 
 ### Related articles:
 
-[Cloud Computing: What it is and why tech beginners should learn it?](https://dev.to/aws-builders/cloud-computing-why-should-tech-beginners-learn-it-2khe)
+📌 [Cloud Computing: What it is and why tech beginners should learn it?](https://suzanamelo.com/posts/cloud-computing-what-it-is/)
 
-[How I Prepared for the AWS Cloud Practitioner Certificate](https://dev.to/suzanamelomoraes/how-i-prepared-myself-for-the-aws-cloud-practitioner-certificate-5a1f)
+📌 [How I Prepared for the AWS Cloud Practitioner Certificate](https://suzanamelo.com/posts/cloud-practitioner-certificate/)

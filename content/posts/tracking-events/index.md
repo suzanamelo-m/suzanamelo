@@ -39,7 +39,7 @@ If you are reading this article in the future, Mini Digital App will already be 
 
 ## **Installation and use** 💻
 
-Based on the [Mini Digital Docs](https://docs.mini.digital/), there are two main ways to track an event using Mini Digital and send your event payload to the Mini Digital API endpoint: using the SDK or submitting the raw payload with the required fields from the schema to the Mini Digital endpoint by HTTP request. I will cover this last option in another article, but you can find all information you need in the [docs](https://docs.mini.digital/event-tracking-integration/http-api.html).
+Based on the Mini Digital Docs, there are two main ways to track an event using Mini Digital and send your event payload to the Mini Digital API endpoint: using the SDK or submitting the raw payload with the required fields from the schema to the Mini Digital endpoint by HTTP request. I will cover this last option in another article, but you can find all information you need in the docs.
 
 First, you must install the SDK using a package manager (either npm or yarn). To do that, run the following:
 
@@ -78,8 +78,6 @@ Once your initial set-up is done, it is time to think about what you want to tra
 The Analytics Event for the Mini Digital API Server expects a schema containing fields with properties to be supplied by the SDK consumer.
 
 Mini Digital SDK provides pre-defined core schemas designed to keep your data consistent. Some are mandatory to keep the minimum information necessary for accurate tracking. There are also options for you to customise the data you want to send.
-
-You can find more about Mini Digital Core Schema Properties [here](https://docs.mini.digital/core-schema/properties.html).
 
 I will cover all the aspects and properties of the schema in the upcoming articles. In this article, let’s focus on the minimum mandatory fields you must fulfil, especially the use cases and best places for each event category in your codebase.
 
@@ -124,7 +122,7 @@ This property refers to the area in the product or source where this event occur
 
 ### **Anonymous user - a quick highlight** 💡
 
-The cherry on top of Mini Digital is its anonymous user property by default, which significantly minimises your privacy policy and makes many web3 users feel relieved. This subject is so relevant that it deserves its own article, but there is an important aspect to cover here related to the two following properties of the [Core Schema](https://docs.mini.digital/core-schema/properties.html) that will inform the SDK about the user acting: `primaryIdentifier` and `anonymousUser`.
+The cherry on top of Mini Digital is its anonymous user property by default, which significantly minimises your privacy policy and makes many web3 users feel relieved. This subject is so relevant that it deserves its own article, but there is an important aspect to cover here related to the two following properties of the Core Schema that will inform the SDK about the user acting: `primaryIdentifier` and `anonymousUser`.
 
 `primaryIdentifier` and `anonymousUser` are marked as optional in the `AnalyticsEvent` interface. However, at least one needs to be supplied.
 

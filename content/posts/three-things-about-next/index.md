@@ -7,19 +7,23 @@ tags = ['react', 'nextjs', 'programming']
 
 ![Next JS](/img/nextjs.png)
 
-Next.js was first launched in October 2016 by Vercel (formerly Zeit), years before I started programming. However, I only started learning it about a month ago when I needed to develop an application as part of a technical challenge using the famous “React framework”.
+Next.js was first launched in October 2016 by [Vercel](https://vercel.com/) (formerly Zeit), years before I started programming. However, I only started learning it about a month ago when I needed to develop an application as part of a technical challenge using the famous “React framework”.<br>
 Its latest version, Next.js 13.4, brought a lot of upgrades and changes on top of what already exists.
+
 I don’t intend to delve deeply into those changes here - you can easily find plenty of good articles already discussing features, but I wanted to highlight what was my “love at first sight” from a newbie perspective, with no preference order.
 
 ### Learning curve 📚
 
 As an immigrant woman who changed careers and entered the software development field after my 40s with no technical background, learning technology remains very challenging, especially when it is something I see for the first time. Although my love for programming and learning new things makes the process more pleasant and easier, it does not necessarily make things easier.
+
 However, I was surprised by how much easier it was to understand Next.js' logic and structure, which is built on top of React, providing extra features that I found very handy. The documentation is also easier to follow and understand.
 
 ### New Project 💻
 
 Next 13.4 offers you TypeScript and TailwindCSS by default, which is fantastic. I’d decided to use TypeScript to build a side project, but you can also use JavaScript or JSX. It is up to you.
+
 I learned software development by doing a bootcamp that utilized JavaScript as its core programming language. Although I used TS for a few months in a startup I previously worked with, it is still very challenging for me, and I love it.
+
 To start to play around with the latest version of Next.js, run the following command to create a new project (you will also need to have Node.js 16.8 or later):
 
 `npx create-next-app@latest`
@@ -53,13 +57,15 @@ As per Next.js documentation.
 > In version 13, Next.js introduced a new App Router built on React Server Components, which supports shared layouts, nested routing, loading states, error handling, and more. The App Router works in a new directory named app. The app directory works alongside the pages directory to allow for incremental adoption.
 
 **What does it mean?**
+
 Creating a route in Next.js 13 is ridiculously simple.
 Inside the `app` directory/folder, you have a `page` file (in my case, _page.tsx_), which is your app homepage. Inside that main app directory, create a folder with the name of the route you want, and inside that `route/folder`, create a file called `page.tsx`.
 
 ![Main page file](/img/mainpagefile.png)
 
-Here, I created a route to an About page by creating a directory called `about` and a `page.tsx` inside it. In the `page.tsx` file, I included an arrow function component that returns a title and content.
-If you repeat these steps and go to _localhost:3000/about_, you will see the text content from the AboutPage component, as I did. And that is all you need to do. Easier like that!
+Here, I created a route to an About page by creating a directory called `about` and a `page.tsx` inside it. In the `page.tsx` file, I included an arrow function component that returns a title and content.<br>
+If you repeat these steps and go to _localhost:3000/about_, you will see the text content from the AboutPage component, as I did.<br>
+And that is all you need to do. Easier like that!
 
 ![About page](/img/about.png)
 
@@ -154,7 +160,7 @@ export default function AboutLayout({
 
 Your creativity (or the project requirements) is the limit. You can include a new font or metadata in your custom layout, or you may want a different container, a sidebar, or any other layout you need for your project.
 
-My thought on this feature is that I was guided by a fantastic senior to keep my CSS files at the same level as their respective files. Having everything in the main styles folder would quickly become very messy and make it harder to coordinate changes from a maintenance perspective in the future. Next.js, applying the same concept with the nested layout file, made a lot of sense.
+My thought on this feature is that I was guided by a fantastic senior to keep my CSS files at the same level as their respective files. Having everything in the main styles folder would quickly become very messy and make it harder to coordinate changes from a maintenance perspective in the future. Next.js, applying the same concept with the nested layout file, made a lot of sense.<br>
 You can read more about pages and routing on this [page](https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts) of Next.js docs.
 
 ## Love number 3: Server Components ❤️
@@ -172,10 +178,10 @@ NextJS 13 includes a Server Components feature by default, and as per its docume
 > “allowing you to render components on the server easily and reducing the amount of JavaScript sent to the client.”
 
 **What does it mean?**
-Servers can process JavaScript and create documents faster than a client.
+Servers can process JavaScript and create documents faster than a client.<br>
 For Server Side Rendering, your service response to the browser is the HTML of your page, ready to be rendered. It will start rendering the HTML from your server without waiting for all the JavaScript to be downloaded and executed, the opposite of what happens on the Client Side Rendering.
 
-I followed Next.js recommendations for fetching data in Server Components.
+I followed Next.js recommendations for fetching data in Server Components.<br>
 I tried simple data fetching, and I found it to be easier and straightforward.
 
 ✔️ Here is what I did:
@@ -196,9 +202,10 @@ It has downsides, and there is a lot to explore and learn from.
 - It also doesn’t support lifecycle methods, and you can’t use the `useEffect` hook, which is handy for a component where you need to keep re-rendering, e.g., a search component.
 - If you want to use the `useState` hook and make it interactive, you need to make it a Client Component by adding _‘use client’_ to the top of the component, but I’m going to leave this step for another day.
 
-Still, many developers in the community are already excited about these new features, as they can combine some of the interactive experiences of client-side apps with the improved performance of traditional server-rendered applications.
+Still, many developers in the community are already excited about these new features, as they can combine some of the interactive experiences of client-side apps with the improved performance of traditional server-rendered applications.<br>
 Server Components improve the initial page loading time, simplify data fetching, and improve access to databases and file systems.
 
 As I mentioned, these thoughts are from my perspective and take into account my ongoing learning process, which is constantly evolving.
 
-If you're already familiar with Next.js, I would love to hear your insights on the new features and what I can experiment with. If you are new to that, like me, I hope I've piqued your curiosity to try and share your thoughts. 🚀
+If you're already familiar with Next.js, I would love to hear your insights on the new features and what I can experiment with.<br>
+If you are new to that, like me, I hope I've piqued your curiosity to try and share your thoughts. 🚀

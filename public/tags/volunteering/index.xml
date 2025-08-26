@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Volunteering on Suzana Melo&#39;s Blog - Empower Through Tech</title>
-    <link>https://suzanamelo.com/tags/volunteering/</link>
+    <link>http://localhost:1313/tags/volunteering/</link>
     <description>Recent content in Volunteering on Suzana Melo&#39;s Blog - Empower Through Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>suzanamelodev@gmail.com (Suzana Melo)</managingEditor>
     <webMaster>suzanamelodev@gmail.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Tue, 05 Nov 2024 23:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/volunteering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Nov 2024 23:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/volunteering/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Reflections on AWS re:Invent 2024: Why You Don’t Need to Be Senior to Make a Difference in Tech</title>
-      <link>https://suzanamelo.com/posts/reflections-reinvent-2024/</link>
+      <link>http://localhost:1313/posts/reflections-reinvent-2024/</link>
       <pubDate>Tue, 05 Nov 2024 23:34:17 +0200</pubDate>
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/reflections-reinvent-2024/</guid>
+      <guid>http://localhost:1313/posts/reflections-reinvent-2024/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/reflections-reinvent-2024/featured-EMEAaward.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/reflections-reinvent-2024/featured-EMEAaward.jpg" />
     </item>
     
     <item>
       <title>Upskill and Accelerate Your Career by Volunteering</title>
-      <link>https://suzanamelo.com/posts/upskill-volunteering/</link>
+      <link>http://localhost:1313/posts/upskill-volunteering/</link>
       <pubDate>Wed, 16 Oct 2024 23:34:17 +0200</pubDate>
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/upskill-volunteering/</guid>
+      <guid>http://localhost:1313/posts/upskill-volunteering/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/upskill-volunteering/featured-ReDi.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/upskill-volunteering/featured-ReDi.jpg" />
     </item>
     
   </channel>

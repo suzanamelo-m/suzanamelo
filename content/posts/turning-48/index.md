@@ -19,13 +19,13 @@ Over the past year, I:
 
 ✨ Started volunteering at [ReDi School of Digital Integration](https://www.redi-school.org/redi-school-malmo), teaching digital skills to immigrants and refugees in Malmö.
 
-✨ Joined [Women In Tech Sweden](https://womenintech.se/) as a Social Media Specialist volunteer, where I was featured as a Member Highlight this March.
+✨ Joined [Women In Tech Sweden](https://womenintech.se/) as a Social Media Specialist volunteer, where I was featured as a [Member Highlight](https://womenintech.se/news/member-highlight-suzana-melo/) this March.
 
 ✨ Was accepted into the All Builders Welcome program, which not only took me to AWS re:Invent in Las Vegas but also gave me the chance to organize a Women in Tech bus trip and co-host a Women in Tech meetup alongside one of my biggest inspirations, AWS Hero Linda Mohamed. Plus, I received an AWS EMEA Award!
 
 ✨ Delivered talks in Gothenburg, Malmö, Vienna, and Berlin, and soon, I’ll be running a Women in Tech workshop in Milan on April 2nd (thanks Monica Colangelo 🥰).
 
-✨ Partnered with three incredible women - Martina Della Corte , Jagoda Cubrilo 💻 and Caroline Cah - to launch the [AWS Women’s User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/), and I’ll be giving my first talk in Stockholm soon, thanks to this fantastic initiative!
+✨ Partnered with three incredible women - Martina Della Corte , Jagoda Cubrilo and Caroline Cah - to launch the [AWS Women’s User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/), and I’ll be giving my first talk in Stockholm soon, thanks to this fantastic initiative!
 
 And that’s just scratching the surface! There are so many other moments I could share, but let’s keep it short.
 
@@ -63,8 +63,8 @@ Because:
 
 ❤️ I look back at my journey, read my recommendations, revisit the impact I’ve made in my past roles, and remind myself: A few years ago, I knew nothing about technology. Look how far I’ve come.
 
-It reinforces to me how many fantastic things I can accomplish. 🤩
-
-And if I can do it, so can you. 💪🏻
-
+It reinforces to me how many fantastic things I can accomplish. 🤩<br>
+And if I can do it, so can you. 💪🏻<br>
 Let’s see what I have to say on my 49s! 🚀
+
+> Note: This article was also published on [LinkedIn](https://www.linkedin.com/pulse/turning-48-fairytale-worth-every-step-my-path-tech-beyond-melo-q8gxc/)

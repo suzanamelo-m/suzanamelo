@@ -23,8 +23,7 @@ I did this project in vanilla JavaScript while doing a course from [Brad Travers
 
 I also wanted to demonstrate the React hooks API, which allows function components to have state and utilise lifecycle methods under the hood. In past versions of React, class components were the only way to manage state. This makes for a much better development experience 🤩.
 
-You can also find the code for this project here:
-<https://github.com/suzanamelomoraes/loan-calculator-react-hooks>
+You can also find the code for this project in my [GitHub Repository](https://github.com/suzanamelomoraes/loan-calculator-react-hooks).
 
 ### Shall we start? 👍
 

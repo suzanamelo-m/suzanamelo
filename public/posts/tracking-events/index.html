@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="true"><head>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="en">
@@ -22,7 +22,7 @@
   <meta name="keywords" content="Programming,Tutorial,Web3,">
   
   
-  <link rel="canonical" href="https://suzanamelo.com/posts/tracking-events/">
+  <link rel="canonical" href="http://localhost:1313/posts/tracking-events/">
   
   
   
@@ -95,7 +95,7 @@
   
 
   
-  <meta property="og:url" content="https://suzanamelo.com/posts/tracking-events/">
+  <meta property="og:url" content="http://localhost:1313/posts/tracking-events/">
   <meta property="og:site_name" content="Suzana Melo&#39;s Blog - Empower Through Tech">
   <meta property="og:title" content="Tracking events effectively in Web Browsers with Mini Digital">
   <meta property="og:locale" content="en">
@@ -106,14 +106,14 @@
     <meta property="article:tag" content="Programming">
     <meta property="article:tag" content="Tutorial">
     <meta property="article:tag" content="Web3">
-    <meta property="og:image" content="https://suzanamelo.com/posts/tracking-events/featured-ConnecWallet.png">
+    <meta property="og:image" content="http://localhost:1313/posts/tracking-events/featured-ConnecWallet.png">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="https://suzanamelo.com/posts/tracking-events/featured-ConnecWallet.png">
+  <meta name="twitter:image" content="http://localhost:1313/posts/tracking-events/featured-ConnecWallet.png">
   <meta name="twitter:title" content="Tracking events effectively in Web Browsers with Mini Digital">
-<meta name="twitter:image" content="https://suzanamelo.com/posts/tracking-events/featured-ConnecWallet.png">
-    <meta property="og:image" content="https://suzanamelo.com/posts/tracking-events/featured-ConnecWallet.png">
+<meta name="twitter:image" content="http://localhost:1313/posts/tracking-events/featured-ConnecWallet.png">
+    <meta property="og:image" content="http://localhost:1313/posts/tracking-events/featured-ConnecWallet.png">
   <script type="application/ld+json">
   [{
     "@context": "https://schema.org",
@@ -124,7 +124,7 @@
     
     
     "inLanguage": "en",
-    "url" : "https:\/\/suzanamelo.com\/posts\/tracking-events\/",
+    "url" : "http:\/\/localhost:1313\/posts\/tracking-events\/",
     "author" : {
       "@type": "Person",
       "name": "Suzana Melo"
@@ -138,7 +138,7 @@
     "keywords": ["Programming","Tutorial","Web3"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "2258"
+    "wordCount": "2247"
   }]
   </script>
 
@@ -576,7 +576,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2023-08-18T23:34:17&#43;02:00">18 August 2023</time><span class="px-2 text-primary-500">&middot;</span><span>2258 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">11 mins</span>
+      <time datetime="2023-08-18T23:34:17&#43;02:00">18 August 2023</time><span class="px-2 text-primary-500">&middot;</span><span>2247 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">11 mins</span>
     
 
     
@@ -731,13 +731,7 @@
     </span>        
     
 </h2>
-<p>Based on the <a
-  href="https://docs.mini.digital/"
-    target="_blank"
-  >Mini Digital Docs</a>, there are two main ways to track an event using Mini Digital and send your event payload to the Mini Digital API endpoint: using the SDK or submitting the raw payload with the required fields from the schema to the Mini Digital endpoint by HTTP request. I will cover this last option in another article, but you can find all information you need in the <a
-  href="https://docs.mini.digital/event-tracking-integration/http-api.html"
-    target="_blank"
-  >docs</a>.</p>
+<p>Based on the Mini Digital Docs, there are two main ways to track an event using Mini Digital and send your event payload to the Mini Digital API endpoint: using the SDK or submitting the raw payload with the required fields from the schema to the Mini Digital endpoint by HTTP request. I will cover this last option in another article, but you can find all information you need in the docs.</p>
 <p>First, you must install the SDK using a package manager (either npm or yarn). To do that, run the following:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">npm install @wunderbar-network/mini-digital-sdk
 </span></span></code></pre></div><p>or</p>
@@ -762,10 +756,6 @@
 <p>Once your initial set-up is done, it is time to think about what you want to track and, most importantly, where you will declare and send events to track the user behaviour you need.</p>
 <p>The Analytics Event for the Mini Digital API Server expects a schema containing fields with properties to be supplied by the SDK consumer.</p>
 <p>Mini Digital SDK provides pre-defined core schemas designed to keep your data consistent. Some are mandatory to keep the minimum information necessary for accurate tracking. There are also options for you to customise the data you want to send.</p>
-<p>You can find more about Mini Digital Core Schema Properties <a
-  href="https://docs.mini.digital/core-schema/properties.html"
-    target="_blank"
-  >here</a>.</p>
 <p>I will cover all the aspects and properties of the schema in the upcoming articles. In this article, let’s focus on the minimum mandatory fields you must fulfil, especially the use cases and best places for each event category in your codebase.</p>
 
 <h3 class="relative group"><strong>Mandatory properties</strong> ✅ 
@@ -813,10 +803,7 @@
     </span>        
     
 </h3>
-<p>The cherry on top of Mini Digital is its anonymous user property by default, which significantly minimises your privacy policy and makes many web3 users feel relieved. This subject is so relevant that it deserves its own article, but there is an important aspect to cover here related to the two following properties of the <a
-  href="https://docs.mini.digital/core-schema/properties.html"
-    target="_blank"
-  >Core Schema</a> that will inform the SDK about the user acting: <code>primaryIdentifier</code> and <code>anonymousUser</code>.</p>
+<p>The cherry on top of Mini Digital is its anonymous user property by default, which significantly minimises your privacy policy and makes many web3 users feel relieved. This subject is so relevant that it deserves its own article, but there is an important aspect to cover here related to the two following properties of the Core Schema that will inform the SDK about the user acting: <code>primaryIdentifier</code> and <code>anonymousUser</code>.</p>
 <p><code>primaryIdentifier</code> and <code>anonymousUser</code> are marked as optional in the <code>AnalyticsEvent</code> interface. However, at least one needs to be supplied.</p>
 <p>There is a third property that also plays a vital role in this relationship, which is <code>trackingId</code>.</p>
 <p>To understand the relationship between these three properties, let’s follow the behaviour of a user visiting a store website. In the first moment, when the user hits the store&rsquo;s landing page, and this event is tracked, you usually don’t know who the user is. This is when you include the <code>anonymousUser</code> property in your schema and set the field value as <code>true</code>.</p>
@@ -1268,7 +1255,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="https://suzanamelo.com/">
+  data-url="http://localhost:1313/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">
