@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nextjs on Suzana Melo&#39;s Blog - Empowering Through Tech</title>
-    <link>https://suzanamelo.com/tags/nextjs/</link>
+    <link>http://localhost:1313/tags/nextjs/</link>
     <description>Recent content in Nextjs on Suzana Melo&#39;s Blog - Empowering Through Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>suzanamelodev@gmail.com (Suzana Melo)</managingEditor>
     <webMaster>suzanamelodev@gmail.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Thu, 08 Jun 2023 23:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/nextjs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 23:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/nextjs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Three things I loved most about Next.js 13.4 so far</title>
-      <link>https://suzanamelo.com/posts/three-things-about-next/</link>
+      <link>http://localhost:1313/posts/three-things-about-next/</link>
       <pubDate>Thu, 08 Jun 2023 23:34:17 +0200</pubDate>
       <author>suzanamelodev@gmail.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/three-things-about-next/</guid>
+      <guid>http://localhost:1313/posts/three-things-about-next/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/three-things-about-next/featured-nextjs.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/three-things-about-next/featured-nextjs.png" />
     </item>
     
   </channel>
