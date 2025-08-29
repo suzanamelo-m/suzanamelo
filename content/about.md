@@ -9,7 +9,7 @@ draft = false
 
 ### Software Developer | Developer Relations | Women in Tech advocate
 
-### AWS Community Builder | AWS User Group leader (Malmö) | AWS Women's User Group leader (Sweden) | Women In Tech Sweden Social Media Specialist | Communicator
+### AWS Community Builder | AWS User Group leader (Malmö) | AWS Women's User Group leader (Sweden) | Women In Tech Sweden Social Media Specialist | Technologist Teacher Volunteer
 
 ---
 
@@ -27,11 +27,11 @@ With a Bachelor's degree in Communication and experience in various areas, such 
 
 This diverse skill set allows me to support teams across various areas and tasks effectively and has made me a collaborative team player with a flexible and resilient mindset. I have also been acknowledged for my ability to work successfully within teams to achieve business outcomes.
 
-Having a strong passion for learning and a love for everything I do are some skills I bring to the technology field.
+Having a strong passion for learning and a love for everything I do are some skills I bring to the technology field. ❤️
 
 ---
 
-## Skills
+## [Skills & Experience](https://www.linkedin.com/in/suzanamelomoraes/details/experience/)
 
 | Programming |       Cloud        |    Developer Relations |
 | ----------- | :----------------: | ---------------------: |
@@ -49,19 +49,21 @@ Having a strong passion for learning and a love for everything I do are some ski
 
 [Women In Tech Sweden](https://womenintech.se/) - Social Media Specialist - volunteer
 
-[ReDi School of Digital Integration](https://www.redi-school.org/redi-school-malmo) - Malmo - Technical Teacher Volunteer
+[ReDi School of Digital Integration](https://www.redi-school.org/redi-school-malmo) - Malmo - Technical Teacher - volunteer
 
 [AWS Women’s User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/) - organizer
-
-[Dev.to](https://dev.to/suzanamelomoraes) - published articles
 
 [AWS Community Builder](https://builder.aws.com/connect/community/community-builders)
 
 [AWS User Group Skåne meetup](https://www.meetup.com/aws-user-group-skane/) - co-organizer
 
+[Dev.to](https://dev.to/suzanamelomoraes) - published articles
+
+[LinkedIn](https://www.linkedin.com/in/suzanamelomoraes/recent-activity/articles/) - published articles
+
 ---
 
-## Certifications
+## [Certifications](https://www.linkedin.com/in/suzanamelomoraes/details/certifications/)
 
 **AWS Knowledge: Cloud Essentials** - AWS - Sep 2024
 
