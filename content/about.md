@@ -45,12 +45,6 @@ Having a strong passion for learning and a love for everything I do are some ski
 
 ---
 
-## Speaking
-
-[Sessionize](https://sessionize.com/suzana-melo/)
-
----
-
 ## Community Projects
 
 [Women In Tech Sweden](https://womenintech.se/) - Social Media Specialist - volunteer
