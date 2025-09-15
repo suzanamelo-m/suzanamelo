@@ -2,7 +2,7 @@
 date = '2025-06-24T23:34:17+02:00'
 draft = false
 title = 'How the AWS All Builders Welcome Grant Changed My Life Forever And Why You Should Apply'
-tags = ['AWS', 're:Invent']
+tags = ['AWS', 're:Invent', 'ABW Grant']
 +++
 
 ![AWS All Builders Welcome Grant friends](/img/ABW-grant-2024.jpg "Celebrating with other alumni friends from AWS All Builders Welcome Grant program")

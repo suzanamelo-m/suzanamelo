@@ -2,7 +2,7 @@
 date = '2023-10-24T23:34:17+02:00'
 draft = false
 title = 'Cloud Computing: What it is and why tech beginners should learn it?'
-tags = ['cloud foundations', 'AWS']
+tags = ['cloud foundations', 'AWS', 'cloud computing']
 +++
 
 ![Cloud Computing](/img/CloudComputing.jpeg)

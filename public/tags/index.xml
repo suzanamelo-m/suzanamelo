@@ -12,6 +12,16 @@
     <lastBuildDate>Tue, 24 Jun 2025 23:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>ABW Grant</title>
+      <link>http://localhost:1313/tags/abw-grant/</link>
+      <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
+      <author>suzanamelo@pm.me (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/abw-grant/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>AWS</title>
       <link>http://localhost:1313/tags/aws/</link>
       <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
@@ -27,6 +37,16 @@
       <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
       <author>suzanamelo@pm.me (Suzana Melo)</author>
       <guid>http://localhost:1313/tags/reinvent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Guide</title>
+      <link>http://localhost:1313/tags/guide/</link>
+      <pubDate>Mon, 09 Jun 2025 23:34:17 +0200</pubDate>
+      <author>suzanamelo@pm.me (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/guide/</guid>
       <description></description>
       
     </item>
@@ -77,6 +97,16 @@
       <pubDate>Tue, 05 Nov 2024 23:34:17 +0200</pubDate>
       <author>suzanamelo@pm.me (Suzana Melo)</author>
       <guid>http://localhost:1313/tags/volunteering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>http://localhost:1313/tags/cloud-computing/</link>
+      <pubDate>Tue, 24 Oct 2023 23:34:17 +0200</pubDate>
+      <author>suzanamelo@pm.me (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/cloud-computing/</guid>
       <description></description>
       
     </item>

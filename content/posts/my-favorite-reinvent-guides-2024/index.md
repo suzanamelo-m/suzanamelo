@@ -2,7 +2,7 @@
 date = '2025-06-09T23:34:17+02:00'
 draft = false
 title = 'My Favorite AWS re:Invent Guides that Literally Saved My Life in Las Vegas and My Golden Advice'
-tags = ['AWS', 're:Invent']
+tags = ['AWS', 're:Invent', 'guide']
 +++
 
 ![re:Invent 2024](/img/Reinvent2024.jpg)
