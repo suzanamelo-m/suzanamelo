@@ -32,7 +32,9 @@ By AWS Hero [Jimmy Dahlqvist](https://www.linkedin.com/in/dahlqvistjimmy/)
 
 Hands down, one of the most comprehensive guides out there, with no doubt. Jimmy covers everything from travel and activities tips, hotel advice, and weather prep to avoiding scams and mistakes, navigating sessions, and building your schedule.
 
-👉 Read Jimmy’s [guide](https://jimmydqv.com/reinvent-trick-2024/)
+👉 Read Jimmy’s [guide](https://jimmydqv.com/reinvent-trick-2024/)</br>
+👉 How to re:Invent, Episode 1 - [Vegas, Travel, and Accommodations](https://jimmydqv.com/how-to-reinvent-ep-1-vegas/) </br>
+👉 How to re:Invent, Episode 2 - [Session Planning](https://jimmydqv.com/how-to-reinvent-ep-2-sessions/) </br>
 
 🔹 **“Guide to AWS re:Invent – Tips & Tricks”**
 
@@ -59,6 +61,10 @@ By AWS Hero [Paloma Lataliza](https://www.linkedin.com/in/palomalataliza/) (arti
 Coming from someone who had never been to the desert before, I’m forever thankful for Paloma’s practical advice: lip balm, saline spray, sunscreen, moisturizer... She thought of everything. And hey, Google Translate is your friend!
 
 👉 Read it [here](https://www.linkedin.com/in/palomalataliza/)
+
+🌟 **BONUS:**
+
+👉 Plan all your sessions in advance and get ready not to miss your favorite topics using the [Unofficial AWS re:Invent Session Planner](https://reinvent-planner.cloud/) by AWS Hero [Raphael Manke](https://www.linkedin.com/in/raphael-manke/)
 
 ![Eric Johnson Serverless session](/img/EricJohnson.jpg "Eric Johnson's Serverless session at AWS re:Invent")
 
