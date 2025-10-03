@@ -35,10 +35,11 @@ Hands down, one of the most comprehensive guides out there, with no doubt. Jimmy
 👉 Read Jimmy’s [guide](https://jimmydqv.com/reinvent-trick-2024/)</br>
 👉 How to re:Invent, Episode 1 - [Vegas, Travel, and Accommodations](https://jimmydqv.com/how-to-reinvent-ep-1-vegas/) </br>
 👉 How to re:Invent, Episode 2 - [Session Planning](https://jimmydqv.com/how-to-reinvent-ep-2-sessions/) </br>
+👉 How to re:Invent, Episode 3 - [Reserved Seating](https://jimmydqv.com/how-to-reinvent-ep-3-reserved-seating/) </br>
 
 🔹 **“Guide to AWS re:Invent – Tips & Tricks”**
 
-By AWS Hero [Ran Isenberg](https://www.linkedin.com/in/ranbuilder/)
+By AWS Hero [Ran Isenberg](https://www.ranthebuilder.cloud/post/guide-to-aws-re-invent-2025-tips-tricks)
 
 Another fantastic guide with a great focus on how to get around and make the most of sessions. Bonus: Ran’s shopping and socializing tips are super handy!
 
