@@ -39,11 +39,11 @@ Hands down, one of the most comprehensive guides out there, with no doubt. Jimmy
 
 🔹 **“Guide to AWS re:Invent – Tips & Tricks”**
 
-By AWS Hero [Ran Isenberg](https://www.ranthebuilder.cloud/post/guide-to-aws-re-invent-2025-tips-tricks)
+By AWS Hero [Ran Isenberg](https://www.linkedin.com/in/ranbuilder/)
 
 Another fantastic guide with a great focus on how to get around and make the most of sessions. Bonus: Ran’s shopping and socializing tips are super handy!
 
-👉 Check it out [here](https://www.ranthebuilder.cloud/post/aws-re-invent-tips-tricks)
+👉 Check it out [here](https://www.ranthebuilder.cloud/post/guide-to-aws-re-invent-2025-tips-tricks)
 
 🔹 **“AWS re:Invent Guide for New Attendees (Part 1 & 2)”**
 
