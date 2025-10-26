@@ -55,6 +55,14 @@ This two-part guide goes deep into the logistics and content of the AWS re:Inven
 
 👉 [Part 2](https://medium.com/@raphaela.han/aws-re-invent-guide-for-the-new-attendees-part-2-conference-3c28077f2850) - Conference Content
 
+🔹 “Ultimate tips for attending AWS re:Invent 2025 – Tips, suggestions, and advice from a seasoned re:Inventor!”
+
+By AWS Community Builder [Angelo Mandato](https://www.linkedin.com/in/angelomandato/)
+
+A gold package of tips, suggestions, and advice covering sessions, what to pack, travel, food, events, and much more.
+
+👉 Check it out [here](https://angelo.mandato.com/2025/08/16/ultimate-tips-aws-re-invent-2025/)
+
 🔹 **“Minha Experiência no AWS re:Invent 2022”**
 
 By AWS Hero [Paloma Lataliza](https://www.linkedin.com/in/palomalataliza/) (article in Portuguese 🇧🇷)
