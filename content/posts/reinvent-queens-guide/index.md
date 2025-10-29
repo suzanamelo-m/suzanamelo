@@ -1,5 +1,5 @@
 +++
-date = '2025-10-28T23:34:17+02:00'
+date = '2025-10-29T19:34:17+02:00'
 draft = false
 title = 'The re:Invent Queens’ Guide: Tips You Should Know Before Landing in Vegas'
 tags = ['AWS', 're:Invent', 'guide']
