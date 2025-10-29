@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web3 on Suzana Melo&#39;s Blog - Empowering Through Tech</title>
-    <link>https://suzanamelo.com/tags/web3/</link>
+    <link>http://localhost:1313/tags/web3/</link>
     <description>Recent content in Web3 on Suzana Melo&#39;s Blog - Empowering Through Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>suzanamelo@pm.me (Suzana Melo)</managingEditor>
     <webMaster>suzanamelo@pm.me (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Fri, 18 Aug 2023 23:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/web3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 23:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/web3/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tracking events effectively in Web Browsers with Mini Digital</title>
-      <link>https://suzanamelo.com/posts/tracking-events/</link>
+      <link>http://localhost:1313/posts/tracking-events/</link>
       <pubDate>Fri, 18 Aug 2023 23:34:17 +0200</pubDate>
       <author>suzanamelo@pm.me (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/tracking-events/</guid>
+      <guid>http://localhost:1313/posts/tracking-events/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/tracking-events/featured-ConnecWallet.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tracking-events/featured-ConnecWallet.png" />
     </item>
     
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Computing on Suzana Melo&#39;s Blog - Empowering Through Tech</title>
-    <link>https://suzanamelo.com/tags/cloud-computing/</link>
+    <link>http://localhost:1313/tags/cloud-computing/</link>
     <description>Recent content in Cloud Computing on Suzana Melo&#39;s Blog - Empowering Through Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>suzanamelo@pm.me (Suzana Melo)</managingEditor>
     <webMaster>suzanamelo@pm.me (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Tue, 24 Oct 2023 23:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Oct 2023 23:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cloud Computing: What it is and why tech beginners should learn it?</title>
-      <link>https://suzanamelo.com/posts/cloud-computing-what-it-is/</link>
+      <link>http://localhost:1313/posts/cloud-computing-what-it-is/</link>
       <pubDate>Tue, 24 Oct 2023 23:34:17 +0200</pubDate>
       <author>suzanamelo@pm.me (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/cloud-computing-what-it-is/</guid>
+      <guid>http://localhost:1313/posts/cloud-computing-what-it-is/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/cloud-computing-what-it-is/featured-CloudComputing.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cloud-computing-what-it-is/featured-CloudComputing.jpeg" />
     </item>
     
   </channel>
