@@ -3,6 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://suzanamelo.com/posts/</loc>
+    <lastmod>2025-10-29T19:34:17+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://suzanamelo.com/</loc>
+    <lastmod>2025-10-29T19:34:17+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://suzanamelo.com/posts/reinvent-queens-guide/</loc>
+    <lastmod>2025-10-29T19:34:17+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://suzanamelo.com/about/</loc>
     <lastmod>2025-08-20T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
@@ -15,19 +33,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://suzanamelo.com/</loc>
-    <lastmod>2025-08-20T23:34:17+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://suzanamelo.com/posts/aws-all-builders-welcome-grant-2024/</loc>
-    <lastmod>2025-06-24T23:34:17+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://suzanamelo.com/posts/</loc>
     <lastmod>2025-06-24T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

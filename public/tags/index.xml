@@ -9,22 +9,12 @@
     <managingEditor>suzanamelo@pm.me (Suzana Melo)</managingEditor>
     <webMaster>suzanamelo@pm.me (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Tue, 24 Jun 2025 23:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>ABW Grant</title>
-      <link>https://suzanamelo.com/tags/abw-grant/</link>
-      <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
-      <author>suzanamelo@pm.me (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/abw-grant/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Wed, 29 Oct 2025 19:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AWS</title>
       <link>https://suzanamelo.com/tags/aws/</link>
-      <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
+      <pubDate>Wed, 29 Oct 2025 19:34:17 +0200</pubDate>
       <author>suzanamelo@pm.me (Suzana Melo)</author>
       <guid>https://suzanamelo.com/tags/aws/</guid>
       <description></description>
@@ -32,9 +22,19 @@
     </item>
     
     <item>
+      <title>Guide</title>
+      <link>https://suzanamelo.com/tags/guide/</link>
+      <pubDate>Wed, 29 Oct 2025 19:34:17 +0200</pubDate>
+      <author>suzanamelo@pm.me (Suzana Melo)</author>
+      <guid>https://suzanamelo.com/tags/guide/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Re:Invent</title>
       <link>https://suzanamelo.com/tags/reinvent/</link>
-      <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
+      <pubDate>Wed, 29 Oct 2025 19:34:17 +0200</pubDate>
       <author>suzanamelo@pm.me (Suzana Melo)</author>
       <guid>https://suzanamelo.com/tags/reinvent/</guid>
       <description></description>
@@ -42,11 +42,11 @@
     </item>
     
     <item>
-      <title>Guide</title>
-      <link>https://suzanamelo.com/tags/guide/</link>
-      <pubDate>Mon, 09 Jun 2025 23:34:17 +0200</pubDate>
+      <title>ABW Grant</title>
+      <link>https://suzanamelo.com/tags/abw-grant/</link>
+      <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
       <author>suzanamelo@pm.me (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/guide/</guid>
+      <guid>https://suzanamelo.com/tags/abw-grant/</guid>
       <description></description>
       
     </item>
