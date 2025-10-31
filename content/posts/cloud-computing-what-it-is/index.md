@@ -72,7 +72,15 @@ Now that we have a better understanding of how it all started, let's review some
 ![Cloud Computing Benefits](/img/BenefitsCloudComputing.png)
 
 Without Cloud Computing, businesses need to pay for servers and hardware in advance and start with more capacity than they need, wasting money. If the demand grows too fast, and they don't cope accordingly, they can suffer performance issues or failures. I even mentioned all the costs associated with managing facilities, hardware, and infrastructure.<br>
-Cloud Computing services allow you to choose the deployment model that best suits your business needs. It's self-service and on-demand. You pay only for what you use and use only what you need.<br>
+
+Cloud Computing services allow you to choose the deployment model that best suits your business needs. There are different ways to set up your Cloud environment depending on your goals.<br>
+**Public Clouds** are open to anyone and easy to access from anywhere online — great for scalability and cost efficiency.<br>
+**Private Clouds**, on the other hand, give you full control over your resources in a dedicated environment, perfect for businesses with strict security or compliance needs.<br>
+Some companies go for a **Hybrid Cloud**, mixing the best of both worlds — keeping sensitive data on-premises while still enjoying the flexibility of the public Cloud.<br>
+And finally, there’s the **Community Cloud**, where organizations with similar interests or requirements, like universities or government agencies, share resources in a secure space.
+
+One thing all of them must have in common: Be self-service and on-demand. You pay only for what you use and use only what you need.
+
 I know there is a lot of information to cover, but now we can better understand how versatile, accessible, and easy to adopt Cloud Computing is.<br>
 Cloud technology's agility and flexibility enable new ways of working, operating, and doing business.
 
