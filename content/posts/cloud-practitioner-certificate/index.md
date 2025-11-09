@@ -2,7 +2,7 @@
 date = '2023-05-30T16:43:30+02:00'
 draft = false
 title = 'How I prepared myself for the AWS Cloud Practitioner Certificate'
-tags = ['cloud foundations', 'AWS', 'certification']
+tags = ['cloud foundations', 'AWS', 'certification', 'Cloud Practitioner']
 +++
 
 ![AWS Cloud Practitioner Certificate](/img/AWSCloudCertification.jpeg)

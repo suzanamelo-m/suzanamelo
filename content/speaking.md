@@ -5,6 +5,8 @@ draft = false
 
 # Sessions
 
+![Suzana Melo Blog Logo](/img/suzana-melo-blog-logo.png)
+
 ## [From Procrastination to Publishing: How AWS Amplify Helped Me Finally Start Blogging](https://sessionize.com/s/suzana-melo/from-procrastination-to-publishing-how-aws-amplify/134642)
 
 _en_

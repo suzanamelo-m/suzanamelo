@@ -2,7 +2,7 @@
 date = '2025-02-03T23:34:17+02:00'
 draft = false
 title = 'How to get started with AWS (for absolute beginners)'
-tags = ['cloud foundations', 'AWS', 'certification']
+tags = ['cloud foundations', 'AWS', 'certification', 'Cloud Computing']
 +++
 
 ![Banner How To Get Started With AWS](/img/HowToGetStartedWithAWS.jpg)

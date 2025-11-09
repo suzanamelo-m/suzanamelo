@@ -22,7 +22,7 @@ My knowledge includes Next.js, TypeScript, JavaScript, React, and Node.js, with 
 As a strong advocate of diversity and inclusion, I actively work on initiatives that empower women and underrepresented groups in tech, mentor juniors and graduates, and drive tech community enablement across APAC, Europe, and the Americas.</br>
 I volunteer as a Social Media Specialist for [Women In Tech Sweden](https://womenintech.se/) and while living in Malmö, worked as a teacher at [ReDi School of Digital Integration](https://www.redi-school.org/redi-school-malmo), a non-profit focused on digital empowerment for women from migrant and refugee backgrounds.
 
-I'm an AWS Community Builder and AWS User Group Leader in Sweden, organizing the [AWS Women’s User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/) and co-organizing the [AWS User Group Skåne meetup](https://www.meetup.com/aws-user-group-skane/). When living in New Zealand, I founded and organized the Auckland AWS Tools and Programming meetup and co-organized for four years the Full-Stack Engineering - Auckland and Cloud Native & Platform Engineering Auckland.
+I'm an AWS Community Builder and AWS User Group Leader in Sweden, organizing the [AWS Women’s User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/) and co-organizing the [AWS User Group Stockholm](https://www.meetup.com/aws-stockholm/) and [AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/). When living in New Zealand, I founded and organized the [Auckland AWS Tools and Programming](https://www.meetup.com/auckland-aws-tools-meetup/) meetup and co-organized for four years the Full-Stack Engineering - Auckland and Cloud Native & Platform Engineering Auckland.
 
 With a Bachelor's degree in Communication and experience in various areas, such as journalism, public relations, management, and customer service, I bring a multifaceted background to the table.
 
@@ -54,7 +54,9 @@ Having a strong passion for learning and a love for everything I do are some ski
 
 [AWS Community Builder](https://builder.aws.com/connect/community/community-builders)
 
-[AWS User Group Skåne meetup](https://www.meetup.com/aws-user-group-skane/) - co-organizer
+[AWS User Group Stockholm](https://www.meetup.com/aws-user-group-skane/) - co-organizer
+
+[AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/) - co-organizer
 
 [Dev.to](https://dev.to/suzanamelomoraes) - published articles
 
