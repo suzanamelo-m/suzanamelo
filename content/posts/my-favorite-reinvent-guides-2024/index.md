@@ -36,6 +36,7 @@ Hands down, one of the most comprehensive guides out there, with no doubt. Jimmy
 👉 How to re:Invent, Episode 1 - [Vegas, Travel, and Accommodations](https://jimmydqv.com/how-to-reinvent-ep-1-vegas/) </br>
 👉 How to re:Invent, Episode 2 - [Session Planning](https://jimmydqv.com/how-to-reinvent-ep-2-sessions/) </br>
 👉 How to re:Invent, Episode 3 - [Reserved Seating](https://jimmydqv.com/how-to-reinvent-ep-3-reserved-seating/) </br>
+👉 How to re:Invent, Episode 3 - [Packing and Survival Tricks](https://jimmydqv.com/how-to-reinvent-ep-4-packing-and-survival/) </br>
 
 🔹 **“Guide to AWS re:Invent – Tips & Tricks”**
 
