@@ -2,7 +2,7 @@
 date = '2025-11-09T21:34:17+02:00'
 draft = false
 title = 'From Procrastination to Publishing: How AWS Amplify Helped Me Finally Start Blogging'
-tags = ['AWS', 'AWS Amplify', 'Hugo', 'Cloud Computing']
+tags = ['Tutorial', 'AWS Amplify', 'Hugo', 'Cloud Computing', 'AWS']
 +++
 
 ![AmplifyArticleBanner](/img/AmplifyArticleBanner.png)
