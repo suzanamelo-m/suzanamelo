@@ -2,183 +2,183 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suzana Melo&#39;s Blog - Empowering Through Tech</title>
-    <link>http://localhost:1313/</link>
+    <link>https://suzanamelo.com/</link>
     <description>Recent content on Suzana Melo&#39;s Blog - Empowering Through Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@suzanamelo.com (Suzana Melo)</managingEditor>
     <webMaster>hello@suzanamelo.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 18:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Dec 2025 18:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Reflections on AWS re:Invent 2025: Flying to the Cloud and Beyond</title>
-      <link>http://localhost:1313/posts/flying-to-the-cloud-and-beyond/</link>
+      <link>https://suzanamelo.com/posts/flying-to-the-cloud-and-beyond/</link>
       <pubDate>Mon, 08 Dec 2025 18:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/flying-to-the-cloud-and-beyond/</guid>
+      <guid>https://suzanamelo.com/posts/flying-to-the-cloud-and-beyond/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flying-to-the-cloud-and-beyond/featured-cloud-tattoo.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/flying-to-the-cloud-and-beyond/featured-cloud-tattoo.jpg" />
     </item>
     
     <item>
       <title>From Procrastination to Publishing: How AWS Amplify Helped Me Finally Start Blogging</title>
-      <link>http://localhost:1313/posts/amplify-blog/</link>
+      <link>https://suzanamelo.com/posts/amplify-blog/</link>
       <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/amplify-blog/</guid>
+      <guid>https://suzanamelo.com/posts/amplify-blog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/amplify-blog/featured-amplify-blog.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/amplify-blog/featured-amplify-blog.png" />
     </item>
     
     <item>
       <title>The re:Invent Queens’ Guide: Tips You Should Know Before Landing in Vegas</title>
-      <link>http://localhost:1313/posts/reinvent-queens-guide/</link>
+      <link>https://suzanamelo.com/posts/reinvent-queens-guide/</link>
       <pubDate>Wed, 29 Oct 2025 19:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/reinvent-queens-guide/</guid>
+      <guid>https://suzanamelo.com/posts/reinvent-queens-guide/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/reinvent-queens-guide/featured-queens.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/reinvent-queens-guide/featured-queens.png" />
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://suzanamelo.com/about/</link>
       <pubDate>Wed, 20 Aug 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://suzanamelo.com/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/speaking/</link>
+      <link>https://suzanamelo.com/speaking/</link>
       <pubDate>Wed, 20 Aug 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/speaking/</guid>
+      <guid>https://suzanamelo.com/speaking/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>How the AWS All Builders Welcome Grant Changed My Life Forever And Why You Should Apply</title>
-      <link>http://localhost:1313/posts/aws-all-builders-welcome-grant-2024/</link>
+      <link>https://suzanamelo.com/posts/aws-all-builders-welcome-grant-2024/</link>
       <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/aws-all-builders-welcome-grant-2024/</guid>
+      <guid>https://suzanamelo.com/posts/aws-all-builders-welcome-grant-2024/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aws-all-builders-welcome-grant-2024/featured-grant-2024.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/aws-all-builders-welcome-grant-2024/featured-grant-2024.jpg" />
     </item>
     
     <item>
       <title>My Favorite AWS re:Invent Guides that Literally Saved My Life in Las Vegas and My Golden Advice</title>
-      <link>http://localhost:1313/posts/my-favorite-reinvent-guides-2024/</link>
+      <link>https://suzanamelo.com/posts/my-favorite-reinvent-guides-2024/</link>
       <pubDate>Mon, 09 Jun 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/my-favorite-reinvent-guides-2024/</guid>
+      <guid>https://suzanamelo.com/posts/my-favorite-reinvent-guides-2024/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/my-favorite-reinvent-guides-2024/featured-reinvent.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/my-favorite-reinvent-guides-2024/featured-reinvent.jpg" />
     </item>
     
     <item>
       <title>Turning 48: Not a Fairytale, But Worth Every Step - My Path in Tech &amp; Beyond</title>
-      <link>http://localhost:1313/posts/turning-48/</link>
+      <link>https://suzanamelo.com/posts/turning-48/</link>
       <pubDate>Sun, 30 Mar 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/turning-48/</guid>
+      <guid>https://suzanamelo.com/posts/turning-48/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/turning-48/featured-turning-48.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/turning-48/featured-turning-48.jpeg" />
     </item>
     
     <item>
       <title>How to get started with AWS (for absolute beginners)</title>
-      <link>http://localhost:1313/posts/aws-for-absolute-beginners/</link>
+      <link>https://suzanamelo.com/posts/aws-for-absolute-beginners/</link>
       <pubDate>Mon, 03 Feb 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/aws-for-absolute-beginners/</guid>
+      <guid>https://suzanamelo.com/posts/aws-for-absolute-beginners/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aws-for-absolute-beginners/featured-HowToGetStartedWithAWS.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/aws-for-absolute-beginners/featured-HowToGetStartedWithAWS.jpg" />
     </item>
     
     <item>
       <title>Reflections on AWS re:Invent 2024: Why You Don’t Need to Be Senior to Make a Difference in Tech</title>
-      <link>http://localhost:1313/posts/reflections-reinvent-2024/</link>
+      <link>https://suzanamelo.com/posts/reflections-reinvent-2024/</link>
       <pubDate>Tue, 05 Nov 2024 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/reflections-reinvent-2024/</guid>
+      <guid>https://suzanamelo.com/posts/reflections-reinvent-2024/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/reflections-reinvent-2024/featured-EMEAaward.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/reflections-reinvent-2024/featured-EMEAaward.jpg" />
     </item>
     
     <item>
       <title>Upskill and Accelerate Your Career by Volunteering</title>
-      <link>http://localhost:1313/posts/upskill-volunteering/</link>
+      <link>https://suzanamelo.com/posts/upskill-volunteering/</link>
       <pubDate>Wed, 16 Oct 2024 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/upskill-volunteering/</guid>
+      <guid>https://suzanamelo.com/posts/upskill-volunteering/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/upskill-volunteering/featured-ReDi.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/upskill-volunteering/featured-ReDi.jpg" />
     </item>
     
     <item>
       <title>Cloud Computing: What it is and why tech beginners should learn it?</title>
-      <link>http://localhost:1313/posts/cloud-computing-what-it-is/</link>
+      <link>https://suzanamelo.com/posts/cloud-computing-what-it-is/</link>
       <pubDate>Tue, 24 Oct 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/cloud-computing-what-it-is/</guid>
+      <guid>https://suzanamelo.com/posts/cloud-computing-what-it-is/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cloud-computing-what-it-is/featured-CloudComputing.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/cloud-computing-what-it-is/featured-CloudComputing.jpeg" />
     </item>
     
     <item>
       <title>The Challenge of &#34;Starting&#34; in Tech</title>
-      <link>http://localhost:1313/posts/the-challenge-of-starting-in-tech/</link>
+      <link>https://suzanamelo.com/posts/the-challenge-of-starting-in-tech/</link>
       <pubDate>Thu, 21 Sep 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/the-challenge-of-starting-in-tech/</guid>
+      <guid>https://suzanamelo.com/posts/the-challenge-of-starting-in-tech/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-challenge-of-starting-in-tech/featured-DevDay.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/the-challenge-of-starting-in-tech/featured-DevDay.jpeg" />
     </item>
     
     <item>
       <title>Tracking events effectively in Web Browsers with Mini Digital</title>
-      <link>http://localhost:1313/posts/tracking-events/</link>
+      <link>https://suzanamelo.com/posts/tracking-events/</link>
       <pubDate>Fri, 18 Aug 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/tracking-events/</guid>
+      <guid>https://suzanamelo.com/posts/tracking-events/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/tracking-events/featured-ConnecWallet.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/tracking-events/featured-ConnecWallet.png" />
     </item>
     
     <item>
       <title>Three things I loved most about Next.js 13.4 so far</title>
-      <link>http://localhost:1313/posts/three-things-about-next/</link>
+      <link>https://suzanamelo.com/posts/three-things-about-next/</link>
       <pubDate>Thu, 08 Jun 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/three-things-about-next/</guid>
+      <guid>https://suzanamelo.com/posts/three-things-about-next/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/three-things-about-next/featured-nextjs.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/three-things-about-next/featured-nextjs.png" />
     </item>
     
     <item>
       <title>How I prepared myself for the AWS Cloud Practitioner Certificate</title>
-      <link>http://localhost:1313/posts/cloud-practitioner-certificate/</link>
+      <link>https://suzanamelo.com/posts/cloud-practitioner-certificate/</link>
       <pubDate>Tue, 30 May 2023 16:43:30 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/cloud-practitioner-certificate/</guid>
+      <guid>https://suzanamelo.com/posts/cloud-practitioner-certificate/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cloud-practitioner-certificate/featured-AWSCloudCertification.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/cloud-practitioner-certificate/featured-AWSCloudCertification.jpeg" />
     </item>
     
     <item>
       <title>Building a Loan Calculator using React Hooks</title>
-      <link>http://localhost:1313/posts/loan-calculator/</link>
+      <link>https://suzanamelo.com/posts/loan-calculator/</link>
       <pubDate>Thu, 03 Sep 2020 14:24:19 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/loan-calculator/</guid>
+      <guid>https://suzanamelo.com/posts/loan-calculator/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/loan-calculator/featured-ReactHooks.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/loan-calculator/featured-ReactHooks.png" />
     </item>
     
   </channel>
