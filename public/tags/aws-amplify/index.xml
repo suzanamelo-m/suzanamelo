@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWS Amplify on Suzana Melo&#39;s Blog - Empowering Through Tech</title>
-    <link>https://suzanamelo.com/tags/aws-amplify/</link>
+    <link>http://localhost:1313/tags/aws-amplify/</link>
     <description>Recent content in AWS Amplify on Suzana Melo&#39;s Blog - Empowering Through Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@suzanamelo.com (Suzana Melo)</managingEditor>
     <webMaster>hello@suzanamelo.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Sun, 09 Nov 2025 21:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/aws-amplify/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Nov 2025 21:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/aws-amplify/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>From Procrastination to Publishing: How AWS Amplify Helped Me Finally Start Blogging</title>
-      <link>https://suzanamelo.com/posts/amplify-blog/</link>
+      <link>http://localhost:1313/posts/amplify-blog/</link>
       <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/amplify-blog/</guid>
+      <guid>http://localhost:1313/posts/amplify-blog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/amplify-blog/featured-amplify-blog.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/amplify-blog/featured-amplify-blog.png" />
     </item>
     
   </channel>

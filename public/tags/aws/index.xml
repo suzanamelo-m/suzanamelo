@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWS on Suzana Melo&#39;s Blog - Empowering Through Tech</title>
-    <link>https://suzanamelo.com/tags/aws/</link>
+    <link>http://localhost:1313/tags/aws/</link>
     <description>Recent content in AWS on Suzana Melo&#39;s Blog - Empowering Through Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@suzanamelo.com (Suzana Melo)</managingEditor>
     <webMaster>hello@suzanamelo.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Sun, 09 Nov 2025 21:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Nov 2025 21:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>From Procrastination to Publishing: How AWS Amplify Helped Me Finally Start Blogging</title>
-      <link>https://suzanamelo.com/posts/amplify-blog/</link>
+      <link>http://localhost:1313/posts/amplify-blog/</link>
       <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/amplify-blog/</guid>
+      <guid>http://localhost:1313/posts/amplify-blog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/amplify-blog/featured-amplify-blog.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/amplify-blog/featured-amplify-blog.png" />
     </item>
     
     <item>
       <title>The re:Invent Queens’ Guide: Tips You Should Know Before Landing in Vegas</title>
-      <link>https://suzanamelo.com/posts/reinvent-queens-guide/</link>
+      <link>http://localhost:1313/posts/reinvent-queens-guide/</link>
       <pubDate>Wed, 29 Oct 2025 19:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/reinvent-queens-guide/</guid>
+      <guid>http://localhost:1313/posts/reinvent-queens-guide/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/reinvent-queens-guide/featured-queens.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/reinvent-queens-guide/featured-queens.png" />
     </item>
     
     <item>
       <title>How the AWS All Builders Welcome Grant Changed My Life Forever And Why You Should Apply</title>
-      <link>https://suzanamelo.com/posts/aws-all-builders-welcome-grant-2024/</link>
+      <link>http://localhost:1313/posts/aws-all-builders-welcome-grant-2024/</link>
       <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/aws-all-builders-welcome-grant-2024/</guid>
+      <guid>http://localhost:1313/posts/aws-all-builders-welcome-grant-2024/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/aws-all-builders-welcome-grant-2024/featured-grant-2024.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aws-all-builders-welcome-grant-2024/featured-grant-2024.jpg" />
     </item>
     
     <item>
       <title>My Favorite AWS re:Invent Guides that Literally Saved My Life in Las Vegas and My Golden Advice</title>
-      <link>https://suzanamelo.com/posts/my-favorite-reinvent-guides-2024/</link>
+      <link>http://localhost:1313/posts/my-favorite-reinvent-guides-2024/</link>
       <pubDate>Mon, 09 Jun 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/my-favorite-reinvent-guides-2024/</guid>
+      <guid>http://localhost:1313/posts/my-favorite-reinvent-guides-2024/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/my-favorite-reinvent-guides-2024/featured-reinvent.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/my-favorite-reinvent-guides-2024/featured-reinvent.jpg" />
     </item>
     
     <item>
       <title>How to get started with AWS (for absolute beginners)</title>
-      <link>https://suzanamelo.com/posts/aws-for-absolute-beginners/</link>
+      <link>http://localhost:1313/posts/aws-for-absolute-beginners/</link>
       <pubDate>Mon, 03 Feb 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/aws-for-absolute-beginners/</guid>
+      <guid>http://localhost:1313/posts/aws-for-absolute-beginners/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/aws-for-absolute-beginners/featured-HowToGetStartedWithAWS.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aws-for-absolute-beginners/featured-HowToGetStartedWithAWS.jpg" />
     </item>
     
     <item>
       <title>Reflections on AWS re:Invent 2024: Why You Don’t Need to Be Senior to Make a Difference in Tech</title>
-      <link>https://suzanamelo.com/posts/reflections-reinvent-2024/</link>
+      <link>http://localhost:1313/posts/reflections-reinvent-2024/</link>
       <pubDate>Tue, 05 Nov 2024 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/reflections-reinvent-2024/</guid>
+      <guid>http://localhost:1313/posts/reflections-reinvent-2024/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/reflections-reinvent-2024/featured-EMEAaward.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/reflections-reinvent-2024/featured-EMEAaward.jpg" />
     </item>
     
     <item>
       <title>Cloud Computing: What it is and why tech beginners should learn it?</title>
-      <link>https://suzanamelo.com/posts/cloud-computing-what-it-is/</link>
+      <link>http://localhost:1313/posts/cloud-computing-what-it-is/</link>
       <pubDate>Tue, 24 Oct 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/cloud-computing-what-it-is/</guid>
+      <guid>http://localhost:1313/posts/cloud-computing-what-it-is/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/cloud-computing-what-it-is/featured-CloudComputing.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cloud-computing-what-it-is/featured-CloudComputing.jpeg" />
     </item>
     
     <item>
       <title>How I prepared myself for the AWS Cloud Practitioner Certificate</title>
-      <link>https://suzanamelo.com/posts/cloud-practitioner-certificate/</link>
+      <link>http://localhost:1313/posts/cloud-practitioner-certificate/</link>
       <pubDate>Tue, 30 May 2023 16:43:30 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/posts/cloud-practitioner-certificate/</guid>
+      <guid>http://localhost:1313/posts/cloud-practitioner-certificate/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/cloud-practitioner-certificate/featured-AWSCloudCertification.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cloud-practitioner-certificate/featured-AWSCloudCertification.jpeg" />
     </item>
     
   </channel>
