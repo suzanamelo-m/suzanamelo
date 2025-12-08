@@ -9,7 +9,7 @@ draft = false
 
 ### Software Developer | Developer Relations | Women in Tech advocate
 
-### AWS Cloud Practitioner | AWS Community Builder | AWS Women's User Group leader (Sweden) | AWS User Group leader (Malmö) | Women In Tech Sweden Social Media Specialist
+### AWS Cloud Practitioner | AWS Community Builder | AWS Women's User Group leader (Sweden) | AWS User Group leader (Stockholm & Malmö) | Women In Tech Sweden Social Media Specialist
 
 ---
 
