@@ -2,191 +2,191 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Suzana Melo&#39;s Blog - Empowering Through Tech</title>
-    <link>https://suzanamelo.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Suzana Melo&#39;s Blog - Empowering Through Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@suzanamelo.com (Suzana Melo)</managingEditor>
     <webMaster>hello@suzanamelo.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Sun, 09 Nov 2025 21:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>AWS</title>
-      <link>https://suzanamelo.com/tags/aws/</link>
-      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/aws/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AWS Amplify</title>
-      <link>https://suzanamelo.com/tags/aws-amplify/</link>
-      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/aws-amplify/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cloud Computing</title>
-      <link>https://suzanamelo.com/tags/cloud-computing/</link>
-      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/cloud-computing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>https://suzanamelo.com/tags/hugo/</link>
-      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/hugo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>https://suzanamelo.com/tags/tutorial/</link>
-      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/tutorial/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Guide</title>
-      <link>https://suzanamelo.com/tags/guide/</link>
-      <pubDate>Wed, 29 Oct 2025 19:34:17 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/guide/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Re:Invent</title>
-      <link>https://suzanamelo.com/tags/reinvent/</link>
-      <pubDate>Wed, 29 Oct 2025 19:34:17 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/reinvent/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ABW Grant</title>
-      <link>https://suzanamelo.com/tags/abw-grant/</link>
-      <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/abw-grant/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Mon, 08 Dec 2025 18:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Career Change</title>
-      <link>https://suzanamelo.com/tags/career-change/</link>
-      <pubDate>Sun, 30 Mar 2025 23:34:17 +0200</pubDate>
+      <link>http://localhost:1313/tags/career-change/</link>
+      <pubDate>Mon, 08 Dec 2025 18:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/career-change/</guid>
+      <guid>http://localhost:1313/tags/career-change/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Career Growth</title>
-      <link>https://suzanamelo.com/tags/career-growth/</link>
-      <pubDate>Sun, 30 Mar 2025 23:34:17 +0200</pubDate>
+      <link>http://localhost:1313/tags/career-growth/</link>
+      <pubDate>Mon, 08 Dec 2025 18:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/career-growth/</guid>
+      <guid>http://localhost:1313/tags/career-growth/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Re:Invent</title>
+      <link>http://localhost:1313/tags/reinvent/</link>
+      <pubDate>Mon, 08 Dec 2025 18:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/reinvent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>http://localhost:1313/tags/aws/</link>
+      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AWS Amplify</title>
+      <link>http://localhost:1313/tags/aws-amplify/</link>
+      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/aws-amplify/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>http://localhost:1313/tags/cloud-computing/</link>
+      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/cloud-computing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Guide</title>
+      <link>http://localhost:1313/tags/guide/</link>
+      <pubDate>Wed, 29 Oct 2025 19:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/guide/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ABW Grant</title>
+      <link>http://localhost:1313/tags/abw-grant/</link>
+      <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/abw-grant/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Certification</title>
-      <link>https://suzanamelo.com/tags/certification/</link>
+      <link>http://localhost:1313/tags/certification/</link>
       <pubDate>Mon, 03 Feb 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/certification/</guid>
+      <guid>http://localhost:1313/tags/certification/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cloud Foundations</title>
-      <link>https://suzanamelo.com/tags/cloud-foundations/</link>
+      <link>http://localhost:1313/tags/cloud-foundations/</link>
       <pubDate>Mon, 03 Feb 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/cloud-foundations/</guid>
+      <guid>http://localhost:1313/tags/cloud-foundations/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Volunteering</title>
-      <link>https://suzanamelo.com/tags/volunteering/</link>
+      <link>http://localhost:1313/tags/volunteering/</link>
       <pubDate>Tue, 05 Nov 2024 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/volunteering/</guid>
+      <guid>http://localhost:1313/tags/volunteering/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Programming</title>
-      <link>https://suzanamelo.com/tags/programming/</link>
+      <link>http://localhost:1313/tags/programming/</link>
       <pubDate>Fri, 18 Aug 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/programming/</guid>
+      <guid>http://localhost:1313/tags/programming/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web3</title>
-      <link>https://suzanamelo.com/tags/web3/</link>
+      <link>http://localhost:1313/tags/web3/</link>
       <pubDate>Fri, 18 Aug 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/web3/</guid>
+      <guid>http://localhost:1313/tags/web3/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nextjs</title>
-      <link>https://suzanamelo.com/tags/nextjs/</link>
+      <link>http://localhost:1313/tags/nextjs/</link>
       <pubDate>Thu, 08 Jun 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/nextjs/</guid>
+      <guid>http://localhost:1313/tags/nextjs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>React</title>
-      <link>https://suzanamelo.com/tags/react/</link>
+      <link>http://localhost:1313/tags/react/</link>
       <pubDate>Thu, 08 Jun 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/react/</guid>
+      <guid>http://localhost:1313/tags/react/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cloud Practitioner</title>
-      <link>https://suzanamelo.com/tags/cloud-practitioner/</link>
+      <link>http://localhost:1313/tags/cloud-practitioner/</link>
       <pubDate>Tue, 30 May 2023 16:43:30 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/tags/cloud-practitioner/</guid>
+      <guid>http://localhost:1313/tags/cloud-practitioner/</guid>
       <description></description>
       
     </item>
