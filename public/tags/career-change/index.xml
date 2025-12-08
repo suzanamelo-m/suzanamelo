@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Career Change on Suzana Melo&#39;s Blog - Empowering Through Tech</title>
-    <link>http://localhost:1313/tags/career-change/</link>
+    <link>https://suzanamelo.com/tags/career-change/</link>
     <description>Recent content in Career Change on Suzana Melo&#39;s Blog - Empowering Through Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@suzanamelo.com (Suzana Melo)</managingEditor>
     <webMaster>hello@suzanamelo.com (Suzana Melo)</webMaster>
     <copyright>© 2025 Suzana Melo</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 18:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/career-change/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Dec 2025 18:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/career-change/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Reflections on AWS re:Invent 2025: Flying to the Cloud and Beyond</title>
-      <link>http://localhost:1313/posts/flying-to-the-cloud-and-beyond/</link>
+      <link>https://suzanamelo.com/posts/flying-to-the-cloud-and-beyond/</link>
       <pubDate>Mon, 08 Dec 2025 18:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/flying-to-the-cloud-and-beyond/</guid>
+      <guid>https://suzanamelo.com/posts/flying-to-the-cloud-and-beyond/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/flying-to-the-cloud-and-beyond/featured-cloud-tattoo.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/flying-to-the-cloud-and-beyond/featured-cloud-tattoo.jpg" />
     </item>
     
     <item>
       <title>Turning 48: Not a Fairytale, But Worth Every Step - My Path in Tech &amp; Beyond</title>
-      <link>http://localhost:1313/posts/turning-48/</link>
+      <link>https://suzanamelo.com/posts/turning-48/</link>
       <pubDate>Sun, 30 Mar 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/turning-48/</guid>
+      <guid>https://suzanamelo.com/posts/turning-48/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/turning-48/featured-turning-48.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/turning-48/featured-turning-48.jpeg" />
     </item>
     
     <item>
       <title>The Challenge of &#34;Starting&#34; in Tech</title>
-      <link>http://localhost:1313/posts/the-challenge-of-starting-in-tech/</link>
+      <link>https://suzanamelo.com/posts/the-challenge-of-starting-in-tech/</link>
       <pubDate>Thu, 21 Sep 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/the-challenge-of-starting-in-tech/</guid>
+      <guid>https://suzanamelo.com/posts/the-challenge-of-starting-in-tech/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-challenge-of-starting-in-tech/featured-DevDay.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/posts/the-challenge-of-starting-in-tech/featured-DevDay.jpeg" />
     </item>
     
   </channel>
