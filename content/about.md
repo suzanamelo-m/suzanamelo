@@ -43,8 +43,8 @@ Having a strong passion for learning and a love for everything I do are some ski
 | React       |      DynamoDB      |        Public Speaking |
 | Node.js     |         S3         |   Community Management |
 | JavaScript  | Amazon Rekognition |  Training Facilitation |
-| ElectroDB   | Cloud Foundations  |                        |
-| Jest        |  AI Fundamentals   |                        |
+| ElectroDB   | Cloud Foundations  |       Content Creation |
+| Jest        |  AI Fundamentals   |          Event Hosting |
 
 ---
 
@@ -54,11 +54,13 @@ Having a strong passion for learning and a love for everything I do are some ski
 
 [AWS Women’s User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/) - organizer
 
-[AWS Community Builder](https://builder.aws.com/connect/community/community-builders)
+[AWS Community Day Baltic](https://awsbaltic.eu/) - co-organizer
 
 [AWS User Group Stockholm](https://www.meetup.com/aws-user-group-skane/) - co-organizer
 
 [AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/) - co-organizer
+
+[AWS Community Builder](https://builder.aws.com/connect/community/community-builders) - EMEA | APAC | LATAM
 
 [Dev.to](https://dev.to/suzanamelomoraes) - published articles
 
