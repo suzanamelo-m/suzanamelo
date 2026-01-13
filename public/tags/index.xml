@@ -9,7 +9,37 @@
     <managingEditor>hello@suzanamelo.com (Suzana Melo)</managingEditor>
     <webMaster>hello@suzanamelo.com (Suzana Melo)</webMaster>
     <copyright>© 2026 Suzana Melo</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 18:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 23:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Career Growth</title>
+      <link>http://localhost:1313/tags/career-growth/</link>
+      <pubDate>Wed, 31 Dec 2025 23:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/career-growth/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Learnings</title>
+      <link>http://localhost:1313/tags/learnings/</link>
+      <pubDate>Wed, 31 Dec 2025 23:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/learnings/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Life Reflections</title>
+      <link>http://localhost:1313/tags/life-reflections/</link>
+      <pubDate>Wed, 31 Dec 2025 23:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/life-reflections/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Career Change</title>
@@ -17,16 +47,6 @@
       <pubDate>Mon, 08 Dec 2025 18:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
       <guid>http://localhost:1313/tags/career-change/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Career Growth</title>
-      <link>http://localhost:1313/tags/career-growth/</link>
-      <pubDate>Mon, 08 Dec 2025 18:34:17 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/tags/career-growth/</guid>
       <description></description>
       
     </item>
