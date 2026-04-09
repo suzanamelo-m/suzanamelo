@@ -9,7 +9,7 @@ draft = false
 
 ### Software Developer | Developer Relations | Women in Tech advocate
 
-### AWS Cloud Practitioner | AWS Community Builder | AWS Women's User Group leader (Sweden) | AWS User Group leader (Malmö) | Women In Tech Sweden Social Media Specialist
+### AWS Cloud Practitioner | AWS Community Builder | AWS Women's User Group & AWS User Group leader (Sweden)
 
 ---
 
@@ -19,14 +19,15 @@ I am a full-stack developer and developer relations with a solid background in c
 
 My knowledge includes Next.js, TypeScript, JavaScript, React, and Node.js, with additional experience with Vue.js, React Native, GraphQL, APIs, and AWS serverless services (AWS Lambdas, S3, and DynamoDB). I am also a certified AWS Cloud Practitioner.
 
-As a strong advocate of diversity and inclusion, I actively work on initiatives that empower women and underrepresented groups in tech, mentor juniors and graduates, and drive tech community enablement across APAC, Europe, and the Americas.</br>
-I volunteer as a Social Media Specialist for [Women In Tech Sweden](https://womenintech.se/), and while living in Malmö, I worked as a teacher at [ReDi School of Digital Integration](https://www.redi-school.org/redi-school-malmo), a non-profit focused on digital empowerment for women from migrant and refugee backgrounds.
+As a strong advocate for diversity and inclusion, I actively work on initiatives that empower women and underrepresented groups in tech, mentor juniors and graduates, and drive tech community enablement across APAC, Europe, and the Americas.</br>
 
 As an AWS Community Builder, I mentor and collaborate with **_Mulheres na Nuvem_** in Brazil and continue to contribute to AWS User Groups in New Zealand and Australia through online talks, mentorship, and community support.
 
 In EMEA, I’m a co-organizer of [AWS Community Day Baltic](https://awsbaltic.eu/), and AWS User Group Leader in Sweden, where I am a founder and organizer of the [AWS Women’s User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/), and co-organizer of the [AWS User Group Stockholm](https://www.meetup.com/aws-stockholm/), and [AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/). While living in New Zealand, I founded and organized the [Auckland AWS Tools and Programming](https://www.meetup.com/auckland-aws-tools-meetup/) and, for 4 years, co-organized the Full-Stack Engineering - Auckland and Cloud Native & Platform Engineering Auckland meetups.
 
-With a Bachelor's degree in Communication and experience across journalism, public relations, management, and customer service, I bring a multifaceted background to the table.
+In Sweden, I volunteered as a Social Media Specialist for [Women In Tech Sweden](https://womenintech.se/), and worked as a teacher at [ReDi School of Digital Integration](https://www.redi-school.org/redi-school-malmo), a non-profit focused on digital empowerment for women from migrant and refugee backgrounds.
+
+With a Bachelor's degree in Communication and experience across journalism, public relations, management, and customer service, I bring a multifaceted background.
 
 This diverse skill set enables me to support teams across a range of areas and tasks, making me a collaborative team player with a flexible, resilient mindset. I have also been acknowledged for my ability to work successfully within teams to achieve business outcomes.
 
@@ -50,8 +51,6 @@ Having a strong passion for learning and a love for everything I do are some ski
 
 ## Community & Advocacy
 
-[Women In Tech Sweden](https://womenintech.se/) - Social Media Specialist - volunteer
-
 [AWS Women’s User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/) - organizer
 
 [AWS Community Day Baltic](https://awsbaltic.eu/) - co-organizer
@@ -62,6 +61,8 @@ Having a strong passion for learning and a love for everything I do are some ski
 
 [AWS Community Builder](https://builder.aws.com/connect/community/community-builders) - EMEA | APAC | LATAM
 
+[Women In Tech Sweden](https://womenintech.se/) - Social Media Specialist - volunteer
+
 [Dev.to](https://dev.to/suzanamelomoraes) - published articles
 
 [LinkedIn](https://www.linkedin.com/in/suzanamelomoraes/recent-activity/articles/) - published articles
@@ -69,6 +70,12 @@ Having a strong passion for learning and a love for everything I do are some ski
 ---
 
 ## [Certifications](https://www.linkedin.com/in/suzanamelomoraes/details/certifications/)
+
+**AWS Cloud Quest: Generative AI Practitioner** - Training Badge - Apr 2026
+
+**AI Python for Beginners** - DeepLearning.AI - Feb 2026
+
+**Al Fluency Framework & Foundations** - Anthropic - Feb 2026
 
 **AWS Knowledge: Cloud Essentials** - AWS - Sep 2024
 
