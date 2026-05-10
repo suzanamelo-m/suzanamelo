@@ -5,7 +5,7 @@ draft = false
 
 # Suzana Melo
 
-![Suzana Melo](/img/SuzanaMM.png)
+![Suzana Melo](/img/suzana-about.png)
 
 ### Full-stack engineer building toward AI. I write about Cloud, AWS, and AI for people who don't see themselves in tech yet — career changers, women, beginners, and immigrants like me.
 
