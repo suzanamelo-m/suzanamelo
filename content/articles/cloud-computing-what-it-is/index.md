@@ -113,10 +113,10 @@ You don't need to wait to be a tech expert to start learning about the Cloud. Bu
 Now, you know a bit more about what Cloud Computing is, how it started, and the advantages of adopting this powerful technology. The flexibility, versatility, security, and cost savings are just a few of the benefits that make Cloud Computing so attractive to a diverse range of businesses, and this is why this technology is irreversible.
 
 📌 Ready to take your first steps into this exciting area?
-Check out my article [How to get started with AWS (for absolute beginners)](https://suzanamelo.com/posts/aws-for-absolute-beginners/).
+Check out my article [How to get started with AWS (for absolute beginners)](https://suzanamelo.com/articles/aws-for-absolute-beginners/).
 
 📌 Want to know how I prepared for my first Cloud certification?
-I shared my study tips and experience in this article: [How I Prepared for the AWS Cloud Practitioner Certificate](https://suzanamelo.com/posts/cloud-practitioner-certificate/).
+I shared my study tips and experience in this article: [How I Prepared for the AWS Cloud Practitioner Certificate](https://suzanamelo.com/articles/cloud-practitioner-certificate/).
 
 📌 In my GitHub repository, you can find more resources to start your journey in this list: [Free AWS training courses](https://github.com/suzanamelomoraes/AWSfree).
 

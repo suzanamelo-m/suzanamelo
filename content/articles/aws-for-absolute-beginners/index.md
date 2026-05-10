@@ -11,7 +11,7 @@ tags = ['cloud foundations', 'AWS', 'certification', 'Cloud Computing']
 
 That was me when I realized I needed to learn about Cloud Computing to excel in my career, without a clue where to start.
 
-If you're in the same boat, an absolute beginner like I was when I first started, I strongly recommend taking a quick detour to this article first: ["Cloud Computing: What it is and why should tech beginners learn it?"](https://suzanamelo.com/posts/cloud-computing-what-it-is/.<br>
+If you're in the same boat, an absolute beginner like I was when I first started, I strongly recommend taking a quick detour to this article first: ["Cloud Computing: What it is and why should tech beginners learn it?"](https://suzanamelo.com/articles/cloud-computing-what-it-is/).<br>
 It’ll give you some background on why Cloud Computing is worth your time.
 
 Back already? Or just eager to jump in? Awesome! Grab a seat, fasten your seatbelt, and let’s fly into the Cloud! ⛅️
@@ -71,7 +71,7 @@ One more achievement for your CV! 🔥
 By this stage, you’ll be on your way to your first AWS Cloud Certification, the [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/). This cert validates your foundational Cloud knowledge and opens doors for deeper learning in specialized AWS domains.
 
 📌 Want to know how I prepared for my first Cloud certification?
-I shared my study tips and experience in this article: [How I Prepared for the AWS Cloud Practitioner Certificate](https://suzanamelo.com/posts/cloud-practitioner-certificate/).
+I shared my study tips and experience in this article: [How I Prepared for the AWS Cloud Practitioner Certificate](https://suzanamelo.com/articles/cloud-practitioner-certificate/).
 
 📌 In my GitHub repository, you can find more resources to start your journey in this list: [Free AWS training courses](https://github.com/suzanamelomoraes/AWSfree).
 
@@ -95,6 +95,6 @@ Happy learning and to infinity and beyond! ❤️☁️🚀
 
 ### Related articles:
 
-📌 [Cloud Computing: What it is and why tech beginners should learn it?](https://suzanamelo.com/posts/cloud-computing-what-it-is/)
+📌 [Cloud Computing: What it is and why tech beginners should learn it?](https://suzanamelo.com/articles/cloud-computing-what-it-is/)
 
-📌 [How I Prepared for the AWS Cloud Practitioner Certificate](https://suzanamelo.com/posts/cloud-practitioner-certificate/)
+📌 [How I Prepared for the AWS Cloud Practitioner Certificate](https://suzanamelo.com/articles/cloud-practitioner-certificate/)

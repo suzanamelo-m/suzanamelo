@@ -109,7 +109,7 @@ There were so many magical highlights at re:Invent, and I’m forever grateful f
 
 ![ABW Grant Collage - unforgettable moments](/img/ABW-grant-2024-Collage1.jpg "Community and User Group moments at AWS re:Invent 2024 thanks to the re:Invent ABW Grant")
 
-If you're curious about what AWS re:Invent 2024 was like for me, I shared my thoughts in this [post](https://www.linkedin.com/posts/suzanamelomoraes_theres-no-way-i-can-wrap-up-my-first-%F0%9D%97%94%F0%9D%97%AA%F0%9D%97%A6-activity-7272010922397720576-b8ma/) and the article "[Reflections on AWS re:Invent 2024: Why You Don’t Need to Be Senior to Make a Difference in Tech](https://suzanamelo.com/posts/reflections-reinvent-2024/).
+If you're curious about what AWS re:Invent 2024 was like for me, I shared my thoughts in this [post](https://www.linkedin.com/posts/suzanamelomoraes_theres-no-way-i-can-wrap-up-my-first-%F0%9D%97%94%F0%9D%97%AA%F0%9D%97%A6-activity-7272010922397720576-b8ma/) and the article "[Reflections on AWS re:Invent 2024: Why You Don’t Need to Be Senior to Make a Difference in Tech](https://suzanamelo.com/articles/reflections-reinvent-2024/).
 
 ## Helpful Resources to Craft Your Application 📝
 

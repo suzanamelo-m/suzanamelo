@@ -7,7 +7,7 @@ tags = ['career change', 'career growth']
 
 ![Dev Day Aotearoa 2023](/img/DevDay2023.jpg " Panel discussion: Beyond the Code: Essential Skills for Success in Software Development")
 
-Still buzzing about the fantastic discussion **_“Beyond the Code: Essential Skills for Success in Software Development”_**, I was invited to participate in the [Dev Day Aotearoa](https://www.linkedin.com/company/devdaynz/posts/) conference a week ago.
+Still buzzing about the fantastic discussion **_“Beyond the Code: Essential Skills for Success in Software Development”_**, I was invited to participate in the [Dev Day Aotearoa](https://www.linkedin.com/company/devdaynz/articles/) conference a week ago.
 
 Incidentally, the message delivered, mainly to graduates and junior developers, was not so different from my speech at the Migrants in Tech meetup event last month. Both talks focused on a central point that both audiences are handling at that moment of their lives: the challenge of the **“start”**.
 

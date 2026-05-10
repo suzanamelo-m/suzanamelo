@@ -26,7 +26,7 @@ I joined the [AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane
 
 **2️⃣ Volunteer your time to teach or mentor.**
 
-I volunteer as a tech teacher at [ReDI School of Digital Integration Malmö](https://www.redi-school.org/redi-school-malmo), helping women with immigrant and refugee backgrounds gain digital skills. I can’t emphasize enough how rewarding volunteering is. You gain so much more than you give! I wrote an article about how volunteering can accelerate your career. Check it out [here](https://suzanamelo.com/posts/upskill-volunteering/).
+I volunteer as a tech teacher at [ReDI School of Digital Integration Malmö](https://www.redi-school.org/redi-school-malmo), helping women with immigrant and refugee backgrounds gain digital skills. I can’t emphasize enough how rewarding volunteering is. You gain so much more than you give! I wrote an article about how volunteering can accelerate your career. Check it out [here](https://suzanamelo.com/articles/upskill-volunteering/).
 
 **3️⃣ Join Women in Tech initiatives.**
 

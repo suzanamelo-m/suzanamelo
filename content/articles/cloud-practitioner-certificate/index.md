@@ -12,7 +12,7 @@ Once you choose a technology life, Cloud is inevitable. ☁️
 The hottest trend in the information technology field is Cloud Computing, and you will bump into it. It is a matter of time.
 This happened to me in my second job as a developer (I changed careers into software development around two years ago, after my 40s, and having no tech background). After almost a year of mainly handling components in React in a frontend environment, with minimal contact with the deployment circle, I started to work as a full-stack developer in a startup, and the stack included AWS.
 
-If you're in the same boat, an absolute beginner like I was when I first started, I recommend taking a quick detour to this article first: [Cloud Computing: What it is and why should tech beginners learn it?](https://suzanamelo.com/posts/cloud-computing-what-it-is/).
+If you're in the same boat, an absolute beginner like I was when I first started, I recommend taking a quick detour to this article first: [Cloud Computing: What it is and why should tech beginners learn it?](https://suzanamelo.com/articles/cloud-computing-what-it-is/).
 
 #### AWS
 
@@ -47,7 +47,7 @@ Fortunately, I got all the support from the AWS CloudUp for Hāpori Wāhine Prog
 Being surrounded by a supportive and incredible team of women makes an immensely positive impact on your journey. However, you can definitely prepare yourself well and for free to take the exam and get the certification beautifully. Essentially, the content of the bootcamp lies in what is already provided by AWS on their pages.
 
 I completed the [AWS Cloud Practitioner Essentials course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials) and other free courses offered at the [AWS training and certification page](https://explore.skillbuilder.aws/learn/signin). I also checked out some of the resources listed at the end of this article.
-You can find more details of the AWS Cloud Practitioner Essentials course in this article [How to get started with AWS (for absolute beginners)](https://suzanamelo.com/posts/aws-for-absolute-beginners/). The [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) webpage already include valuable resources.
+You can find more details of the AWS Cloud Practitioner Essentials course in this article [How to get started with AWS (for absolute beginners)](https://suzanamelo.com/articles/aws-for-absolute-beginners/). The [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) webpage already include valuable resources.
 
 Once you delve into the content, understanding what problem each service solves and its corresponding use cases is vital. My exam included many questions simulating a customer's necessity, and I needed to choose the best service to sort that demand.
 
@@ -134,5 +134,5 @@ and its [YouTube video](https://www.youtube.com/watch?v=SOTamWNgDKc)<br>
 
 ### Fundamentals
 
-📌 [Cloud Computing: What it is and why should tech beginners learn it?](https://suzanamelo.com/posts/cloud-computing-what-it-is/)<br>
-📌 [How to get started with AWS (for absolute beginners)](https://suzanamelo.com/posts/aws-for-absolute-beginners/)
+📌 [Cloud Computing: What it is and why should tech beginners learn it?](https://suzanamelo.com/articles/cloud-computing-what-it-is/)<br>
+📌 [How to get started with AWS (for absolute beginners)](https://suzanamelo.com/articles/aws-for-absolute-beginners/)

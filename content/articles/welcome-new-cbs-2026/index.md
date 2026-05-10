@@ -160,7 +160,7 @@ Think of it this way: you have 12 more months to create great content and contri
 
 AWS looks closely at quality, accuracy, consistency, and impact. Don't hesitate to reach out to CBs in your region and ask for mentorship on your content creation journey. We want you here with us. 🫂
 
-Check out my article **_["Everything you need to know before applying to the AWS Community Builder Program — and my golden advice"](https://suzanamelo.com/posts/aws-cb-applications-2026/)_** for guidance on making the most of the next 12 months, and see you soon — this year or in the next.
+Check out my article **_["Everything you need to know before applying to the AWS Community Builder Program — and my golden advice"](https://suzanamelo.com/articles/aws-cb-applications-2026/)_** for guidance on making the most of the next 12 months, and see you soon — this year or in the next.
 
 ---
 
