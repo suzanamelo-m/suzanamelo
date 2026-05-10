@@ -11,14 +11,9 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
+  name = "Articles"
   pageRef = "posts"
   weight = 10
-
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
 
 [[main]]
   name = "About"
@@ -29,6 +24,11 @@
   name = "Speaking"
   pageRef = "speaking"
   weight = 20
+
+[[main]]
+  name = "Topics"
+  pageRef = "tags"
+  weight = 30
 
 #[[main]]
 #  name = "Parent"
