@@ -13,12 +13,12 @@
     
     <item>
       <title>Kindness: The Lesson I’m Taking From 2025 Into 2026</title>
-      <link>http://localhost:1313/posts/kindness/</link>
+      <link>http://localhost:1313/articles/kindness/</link>
       <pubDate>Wed, 31 Dec 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/kindness/</guid>
+      <guid>http://localhost:1313/articles/kindness/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/kindness/featured-kindness.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/kindness/featured-kindness.jpeg" />
     </item>
     
   </channel>

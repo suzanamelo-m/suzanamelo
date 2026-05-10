@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/welcome-new-cbs-2026/</loc>
+    <loc>http://localhost:1313/articles/</loc>
     <lastmod>2026-03-05T08:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/articles/welcome-new-cbs-2026/</loc>
     <lastmod>2026-03-05T08:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -21,32 +21,44 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/aws-cb-applications-2026/</loc>
+    <loc>http://localhost:1313/articles/aws-cb-applications-2026/</loc>
     <lastmod>2026-01-13T08:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/kindness/</loc>
+    <loc>http://localhost:1313/articles/kindness/</loc>
     <lastmod>2025-12-31T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/flying-to-the-cloud-and-beyond/</loc>
+    <loc>http://localhost:1313/articles/flying-to-the-cloud-and-beyond/</loc>
     <lastmod>2025-12-08T18:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/amplify-blog/</loc>
+    <loc>http://localhost:1313/articles/amplify-blog/</loc>
     <lastmod>2025-11-09T21:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/reinvent-queens-guide/</loc>
+    <loc>http://localhost:1313/articles/reinvent-queens-guide/</loc>
     <lastmod>2025-10-29T19:34:17+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/community/</loc>
+    <lastmod>2025-08-20T23:34:19+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/speaking/</loc>
+    <lastmod>2025-08-20T23:34:18+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,79 +69,73 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/speaking/</loc>
-    <lastmod>2025-08-20T23:34:17+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/aws-all-builders-welcome-grant-2024/</loc>
+    <loc>http://localhost:1313/articles/aws-all-builders-welcome-grant-2024/</loc>
     <lastmod>2025-06-24T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/my-favorite-reinvent-guides-2024/</loc>
+    <loc>http://localhost:1313/articles/my-favorite-reinvent-guides-2024/</loc>
     <lastmod>2025-06-09T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/turning-48/</loc>
+    <loc>http://localhost:1313/articles/turning-48/</loc>
     <lastmod>2025-03-30T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/aws-for-absolute-beginners/</loc>
+    <loc>http://localhost:1313/articles/aws-for-absolute-beginners/</loc>
     <lastmod>2025-02-03T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/reflections-reinvent-2024/</loc>
+    <loc>http://localhost:1313/articles/reflections-reinvent-2024/</loc>
     <lastmod>2024-11-05T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/upskill-volunteering/</loc>
+    <loc>http://localhost:1313/articles/upskill-volunteering/</loc>
     <lastmod>2024-10-16T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/cloud-computing-what-it-is/</loc>
+    <loc>http://localhost:1313/articles/cloud-computing-what-it-is/</loc>
     <lastmod>2023-10-24T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/the-challenge-of-starting-in-tech/</loc>
+    <loc>http://localhost:1313/articles/the-challenge-of-starting-in-tech/</loc>
     <lastmod>2023-09-21T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/tracking-events/</loc>
+    <loc>http://localhost:1313/articles/tracking-events/</loc>
     <lastmod>2023-08-18T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/three-things-about-next/</loc>
+    <loc>http://localhost:1313/articles/three-things-about-next/</loc>
     <lastmod>2023-06-08T23:34:17+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/cloud-practitioner-certificate/</loc>
+    <loc>http://localhost:1313/articles/cloud-practitioner-certificate/</loc>
     <lastmod>2023-05-30T16:43:30+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/loan-calculator/</loc>
+    <loc>http://localhost:1313/articles/loan-calculator/</loc>
     <lastmod>2020-09-03T14:24:19+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

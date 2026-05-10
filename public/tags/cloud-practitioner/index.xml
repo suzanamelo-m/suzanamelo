@@ -13,12 +13,12 @@
     
     <item>
       <title>How I prepared myself for the AWS Cloud Practitioner Certificate</title>
-      <link>http://localhost:1313/posts/cloud-practitioner-certificate/</link>
+      <link>http://localhost:1313/articles/cloud-practitioner-certificate/</link>
       <pubDate>Tue, 30 May 2023 16:43:30 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/cloud-practitioner-certificate/</guid>
+      <guid>http://localhost:1313/articles/cloud-practitioner-certificate/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/cloud-practitioner-certificate/featured-AWSCloudCertification.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/cloud-practitioner-certificate/featured-AWSCloudCertification.jpeg" />
     </item>
     
   </channel>
