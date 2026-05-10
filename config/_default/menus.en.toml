@@ -11,14 +11,9 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Articles"
+  pageRef = "articles"
   weight = 10
-
-[[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
 
 [[main]]
   name = "About"
@@ -28,7 +23,18 @@
 [[main]]
   name = "Speaking"
   pageRef = "speaking"
-  weight = 20
+  weight = 30
+
+[[main]]
+  name = "Community"
+  pageRef = "community"
+  weight = 40
+
+[[main]]
+  name = "Topics"
+  parent = "Articles"
+  pageRef = "tags"
+  weight = 50
 
 #[[main]]
 #  name = "Parent"
@@ -70,7 +76,7 @@
 
 
  [[footer]]
-   name = "Tags"
+   name = "Browse by topic"
    pageRef = "tags"
    weight = 10
 

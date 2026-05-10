@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guide on Suzana Melo&#39;s Blog - Empowering Through Tech</title>
+    <title>Guide on Suzana Melo - Empowering Through Tech &lt;/br&gt; Cloud, AWS &amp; AI for career changers and beginners</title>
     <link>http://localhost:1313/tags/guide/</link>
-    <description>Recent content in Guide on Suzana Melo&#39;s Blog - Empowering Through Tech</description>
+    <description>Recent content in Guide on Suzana Melo - Empowering Through Tech &lt;/br&gt; Cloud, AWS &amp; AI for career changers and beginners</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@suzanamelo.com (Suzana Melo)</managingEditor>
@@ -13,22 +13,22 @@
     
     <item>
       <title>The re:Invent Queens’ Guide: Tips You Should Know Before Landing in Vegas</title>
-      <link>http://localhost:1313/posts/reinvent-queens-guide/</link>
+      <link>http://localhost:1313/articles/reinvent-queens-guide/</link>
       <pubDate>Wed, 29 Oct 2025 19:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/reinvent-queens-guide/</guid>
+      <guid>http://localhost:1313/articles/reinvent-queens-guide/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/reinvent-queens-guide/featured-queens.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/reinvent-queens-guide/featured-queens.png" />
     </item>
     
     <item>
       <title>My Favorite AWS re:Invent Guides that Literally Saved My Life in Las Vegas and My Golden Advice</title>
-      <link>http://localhost:1313/posts/my-favorite-reinvent-guides-2024/</link>
+      <link>http://localhost:1313/articles/my-favorite-reinvent-guides-2024/</link>
       <pubDate>Mon, 09 Jun 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/posts/my-favorite-reinvent-guides-2024/</guid>
+      <guid>http://localhost:1313/articles/my-favorite-reinvent-guides-2024/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/my-favorite-reinvent-guides-2024/featured-reinvent.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/my-favorite-reinvent-guides-2024/featured-reinvent.jpg" />
     </item>
     
   </channel>

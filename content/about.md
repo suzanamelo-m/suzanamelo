@@ -5,71 +5,60 @@ draft = false
 
 # Suzana Melo
 
-![Suzana Melo](/img/SuzanaMM.png)
+![Suzana Melo](/img/suzana-about.png)
 
-### Software Developer | Developer Relations | Women in Tech advocate
-
-### AWS Cloud Practitioner | AWS Community Builder | AWS Women's User Group & AWS User Group leader (Sweden)
+### Full-stack engineer building toward AI. I write about Cloud, AWS, and AI for people who don't see themselves in tech yet — career changers, women, beginners, and immigrants like me.
 
 ---
 
-## About
+If you're wondering whether it's too late to move into tech, maybe thinking you're too old, too far behind, or too different from the people already there, this place is for you.
 
-I am a full-stack developer and developer relations with a solid background in communication and people skills.
+I moved to New Zealand with no English. I worked as a cleaner, a supermarket checkout operator, and a driver. I built my English one shift at a time, rebuilt my confidence from scratch, and eventually did a coding bootcamp in my 40s. Then I shipped production code for startups, taught AI fundamentals to women from migrant and refugee backgrounds, spoke at AWS re:Invent, and founded and support communities for women in cloud computing across three continents.
 
-My knowledge includes Next.js, TypeScript, JavaScript, React, and Node.js, with additional experience with Vue.js, React Native, GraphQL, APIs, and AWS serverless services (AWS Lambdas, S3, and DynamoDB). I am also a certified AWS Cloud Practitioner.
-
-As a strong advocate for diversity and inclusion, I actively work on initiatives that empower women and underrepresented groups in tech, mentor juniors and graduates, and drive tech community enablement across APAC, Europe, and the Americas.</br>
-
-As an AWS Community Builder, I mentor and collaborate with **_Mulheres na Nuvem_** in Brazil and continue to contribute to AWS User Groups in New Zealand and Australia through online talks, mentorship, and community support.
-
-In EMEA, I’m a co-organizer of [AWS Community Day Baltic](https://awsbaltic.eu/), and AWS User Group Leader in Sweden, where I am a founder and organizer of the [AWS Women’s User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/), and co-organizer of the [AWS User Group Stockholm](https://www.meetup.com/aws-stockholm/), and [AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/). While living in New Zealand, I founded and organized the [Auckland AWS Tools and Programming](https://www.meetup.com/auckland-aws-tools-meetup/) and, for 4 years, co-organized the Full-Stack Engineering - Auckland and Cloud Native & Platform Engineering Auckland meetups.
-
-In Sweden, I volunteered as a Social Media Specialist for [Women In Tech Sweden](https://womenintech.se/), and worked as a teacher at [ReDi School of Digital Integration](https://www.redi-school.org/redi-school-malmo), a non-profit focused on digital empowerment for women from migrant and refugee backgrounds.
-
-With a Bachelor's degree in Communication and experience across journalism, public relations, management, and customer service, I bring a multifaceted background.
-
-This diverse skill set enables me to support teams across a range of areas and tasks, making me a collaborative team player with a flexible, resilient mindset. I have also been acknowledged for my ability to work successfully within teams to achieve business outcomes.
-
-Having a strong passion for learning and a love for everything I do are some skills I bring to the technology field. ❤️
+That path wasn't linear. But it's the reason I write here. Because I've been exactly where you are, and I know what it takes to get through it.
 
 ---
 
-## [Skills & Experience](https://www.linkedin.com/in/suzanamelomoraes/details/experience/)
+My engineering background spans TypeScript, Node.js, React, Next.js, and AWS serverless with production experience across AI-powered platforms, APIs, and internal developer tooling. I'm now deepening that foundation in AI and machine learning: enrolled in a postgraduate specialization at PUC Minas and building applied AI projects, which I'll write about as I go.
 
-| Programming |       Cloud        |    Developer Relations |
-| ----------- | :----------------: | ---------------------: |
-| TypeScript  |      Amplify       |      Technical Writing |
-| Next.js     |      Lambdas       | Software Documentation |
-| React       |      DynamoDB      |        Public Speaking |
-| Node.js     |         S3         |   Community Management |
-| JavaScript  | Amazon Rekognition |  Training Facilitation |
-| ElectroDB   | Cloud Foundations  |       Content Creation |
-| Jest        |  AI Fundamentals   |          Event Hosting |
+Before tech, I spent 20+ years as a journalist, editor, and media director in Brazil. I led teams, managed newsrooms under daily deadline pressure, and learned to explain complex things to large audiences. That background didn't disappear when I became an engineer, which is why I can write a technical article that reaches 14,000 readers or deliver an AI curriculum to non-technical learners in a second language.
 
 ---
 
-## Community & Advocacy
+Community is central to everything I do in tech. As an AWS Community Builder since 2023, I write articles, deliver talks, and mentor women entering cloud computing across EMEA, APAC, and LATAM. I co-organise AWS Community Day Baltic, and have founded and led developer communities in New Zealand and Sweden — including the AWS Women's User Group Sweden. Before that, while living in Auckland, I founded the Auckland AWS Tools and Programming meetup and co-organised the Full-Stack Engineering Auckland community for 4+ years.
 
-[AWS Women’s User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/) - organizer
+[See the full picture of my community work →](/community)
 
-[AWS Community Day Baltic](https://awsbaltic.eu/) - co-organizer
+---
 
-[AWS User Group Stockholm](https://www.meetup.com/aws-user-group-skane/) - co-organizer
+**Cloud & AWS Foundations** </br>
+Beginner-friendly guides to Cloud computing, AWS services, and how to start your cloud journey without a technical background.
+[link]
 
-[AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/) - co-organizer
+**AI for Beginners** </br>
+Practical introductions to AI and machine learning concepts — what they are, how they work, and how to start using them.
+[link]
 
-[AWS Community Builder](https://builder.aws.com/connect/community/community-builders) - EMEA | APAC | LATAM
+**Career Change & Growth** </br>
+Honest reflections on transitioning into tech, building confidence, and navigating the industry as an outsider.
+[link]
 
-[Women In Tech Sweden](https://womenintech.se/) - Social Media Specialist - volunteer
+**Building in Public** </br>
+What I'm currently building with AI tools, what breaks, and what I learn.
 
-[Dev.to](https://dev.to/suzanamelomoraes) - published articles
+---
 
-[LinkedIn](https://www.linkedin.com/in/suzanamelomoraes/recent-activity/articles/) - published articles
+If any of this sounds like where you are — [start here →](/articles)
 
 ---
 
 ## [Certifications](https://www.linkedin.com/in/suzanamelomoraes/details/certifications/)
+
+**Model Context Protocol Advanced Topics** - Anthropic - May 2026
+
+**Building with the Claude API** - Anthropic - May 2026
+
+**Claude Code in Action** - Anthropic - May 2026
 
 **AWS Cloud Quest: Generative AI Practitioner** - Training Badge - Apr 2026
 
@@ -81,19 +70,11 @@ Having a strong passion for learning and a love for everything I do are some ski
 
 **AWS Cloud Practitioner certificate** - AWS - Mar 2023
 
-**Graph Developer Associate** - Apollo GraphQL - Oct 2021
-
-**AWS CloudUp for Hāpori Wahine Program** - AWS - Sep 2022
-
-**Azure DevOps Fundamentals for Beginners** - Udemy - Mar 2022
-
-**Azure DevOps Boards for Project Managers/Analyst/Developers** - Udemy - Mar 2022
-
-**Introduction to Project Management** - University of Adelaide - Jan 2019
-
 ---
 
-## Education
+## [Education](https://www.linkedin.com/in/suzanamelo-m/details/education/)
+
+**Postgraduate Specialization (Lato Sensu), Artificial Intelligence and Machine Learning - PUC (Pontifícia Universidade Católica) Minas** - _Apr 2026 - Present_
 
 **Diploma, Web Development Training** - Dev Academy Aotearoa, Auckland, New Zealand - _Sep 2019 - Dec 2019_
 
