@@ -1,9 +1,9 @@
 +++
-date = '2025-08-20T23:34:17+02:00'
+date = '2025-08-20T23:34:18+02:00'
 draft = false
 +++
 
-# Sessions
+# Speaking & Workshops
 
 ![Suzana Melo Blog Logo](/img/suzana-melo-blog-logo.png)
 
@@ -87,5 +87,13 @@ Let's learn, share, and uplift each other because the cloud needs all of us!<br>
 _Level: Foundational (100)_
 
 > The session can be adjusted to fit between 40 minutes and 2 hours.
+
+---
+
+[Full speaking history and session abstracts →](https://sessionize.com/suzana-melo)
+
+---
+
+Book me at [Sessionize](https://sessionize.com/suzana-melo/)
 
 ---
