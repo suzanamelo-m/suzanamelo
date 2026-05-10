@@ -64,6 +64,6 @@ Through my AWS Community Builder work, I provide individual mentoring to women e
 ---
 
 If you'd like to invite me to speak at your event, co-organise something, or collaborate on a community initiative, I'd love to hear from you.</br>
-Book me at [Sessionize](https://sessionize.com/suzana-melo/) or Reach out at [hello@suzanamelo.com](mailto:hello@suzanamelo.com)
+Book me at [Sessionize](https://sessionize.com/suzana-melo/) or reach out at [hello@suzanamelo.com](mailto:hello@suzanamelo.com)
 
 ---
