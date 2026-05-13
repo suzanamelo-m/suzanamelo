@@ -5,6 +5,8 @@ draft = false
 
 # Community
 
+![Community work around the world](/img/community-page-collage.png)
+
 I wouldn't be here without the people who supported me when I was the one starting out: the community members who shared their knowledge, answered my questions, and made me feel like I belonged. Everything I do in community work is a way of passing that forward.
 
 I focus on the people who don't yet see themselves as belonging in tech: women, immigrants, career changers, and beginners. Because that was me. And because the industry is better when more of us are in it.
@@ -32,7 +34,7 @@ I founded this group to create an inclusive space for women and allies in cloud 
 **[AWS Community Day Baltic](https://awsbaltic.eu/) — Co-Organiser**
 _Sep 2025 – present · Gdynia, Poland_
 
-Co-organising this annual regional AWS conference. A full-day event covering cloud, AI, and technology with workshops, keynotes, and sessions from AWS professionals across the Baltics and EMEA. First edition held September 2025; next edition September 2026.
+Co-organising this annual regional AWS conference. A full-day event covering cloud, AI, and technology with workshops, keynotes, and sessions from AWS professionals across the Baltics and EMEA. First edition held September 2025; next edition 2027.
 
 **[AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/) — Co-Organiser**
 _Aug 2024 – present · Southern Sweden (contributing remotely)_
