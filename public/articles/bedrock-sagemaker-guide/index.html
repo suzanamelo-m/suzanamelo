@@ -101,8 +101,8 @@
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="articles">
-    <meta property="article:published_time" content="2026-05-18T21:34:17+02:00">
-    <meta property="article:modified_time" content="2026-05-18T21:34:17+02:00">
+    <meta property="article:published_time" content="2026-05-19T15:34:15+02:00">
+    <meta property="article:modified_time" content="2026-05-19T15:34:15+02:00">
     <meta property="article:tag" content="Tutorial">
     <meta property="article:tag" content="Amazon Bedrock">
     <meta property="article:tag" content="Amazon SageMaker">
@@ -132,15 +132,15 @@
       "name": "Suzana Melo"
     },
     "copyrightYear": "2026",
-    "dateCreated": "2026-05-18T21:34:17\u002b02:00",
-    "datePublished": "2026-05-18T21:34:17\u002b02:00",
+    "dateCreated": "2026-05-19T15:34:15\u002b02:00",
+    "datePublished": "2026-05-19T15:34:15\u002b02:00",
     
-    "dateModified": "2026-05-18T21:34:17\u002b02:00",
+    "dateModified": "2026-05-19T15:34:15\u002b02:00",
     
     "keywords": ["Tutorial","Amazon Bedrock","Amazon SageMaker","Generative AI","AWS"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "1318"
+    "wordCount": "2127"
   }]
   </script>
 
@@ -716,7 +716,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-05-18T21:34:17&#43;02:00">18 May 2026</time><span class="px-2 text-primary-500">&middot;</span><span>1318 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">7 mins</span>
+      <time datetime="2026-05-19T15:34:15&#43;02:00">19 May 2026</time><span class="px-2 text-primary-500">&middot;</span><span>2127 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">10 mins</span>
     
 
     
@@ -848,7 +848,7 @@
 <p>In this article, I&rsquo;ll give you a clear overview of both services, explain which one makes more sense to start with, and show you where you can get hands-on experience with both at no cost.</p>
 <hr>
 <p>📌 <strong>Before we go further:</strong> </br>
-if you&rsquo;re an absolute beginner to Cloud and AWS, I recommend reading <a
+If you&rsquo;re an absolute beginner to Cloud and AWS, I recommend reading <a
   href="https://suzanamelo.com/articles/aws-for-absolute-beginners/"
     target="_blank"
   >&ldquo;How to get started with AWS (for absolute beginners)&rdquo;</a> first and coming back when you&rsquo;re ready. These concepts will land much better with that foundation in place.</p>
@@ -868,7 +868,7 @@ if you&rsquo;re an absolute beginner to Cloud and AWS, I recommend reading <a
 <p>✨ Access to cutting-edge Foundation Models (FMs) (including Anthropic Claude and Meta Llama), with pre-trained, ready-to-use options<br>
 ✨ Features to tailor models to your specific needs, such as fine-tuning and Retrieval-Augmented Generation (RAG), which lets you connect models to your own data sources<br>
 ✨ Seamless integration with other AWS services</p>
-<p>But the similarities end there. They are also not competitors. Bedrock and SageMaker solve different problems and operate at very different levels of abstraction.</p>
+<p>But the similarities end there. They are not competitors. Bedrock and SageMaker solve different problems and operate at very different levels of abstraction.</p>
 <hr>
 
 <h2 class="relative group">Thinking in layers 
@@ -935,6 +935,7 @@ if you&rsquo;re an absolute beginner to Cloud and AWS, I recommend reading <a
 </ul>
 <p>The biggest advantage is speed: no infrastructure to manage, fast time to production, and you only pay for what you use (your API calls).</p>
 <p>Bedrock is ideal when you don&rsquo;t have ML expertise but want to build quickly (chatbots, AI features inside apps, rapid prototypes).</p>
+<p>Imagine a customer support assistant that answers questions from your product documentation, a content tool that drafts marketing copy on request, or an internal search feature that understands natural language instead of keywords. These are all problems Bedrock handles well. You describe what you want, pick a model, and start building.</p>
 <p><strong>If you find yourself thinking, <em>&ldquo;I just want to use AI, not build it,&rdquo;</em> Bedrock is your starting point.</strong></p>
 <hr>
 
@@ -977,12 +978,13 @@ if you&rsquo;re an absolute beginner to Cloud and AWS, I recommend reading <a
     target="_blank"
   >Amazon SageMaker AI</a> (formerly Amazon SageMaker) is a full machine learning platform with fully managed infrastructure, tools, and workflows. It gives you everything you need to:</p>
 <ul>
-<li>Prepare and process data</li>
+<li>Prepare and process their own datasets</li>
 <li>Train models from scratch</li>
-<li>Fine-tune existing models</li>
-<li>Deploy and monitor performance</li>
+<li>Fine-tune existing models with proprietary data</li>
+<li>Deploy, monitor, and manage model performance over time</li>
 </ul>
-<p>Where Bedrock is about speed and simplicity, SageMaker is all about control and customisation. You manage the full ML lifecycle, which means more power and more complexity. It&rsquo;s the right tool when you need custom ML pipelines, are working with proprietary datasets, or your team has dedicated ML expertise.</p>
+<p>Where Bedrock is about speed and simplicity, SageMaker is all about control and customisation. You manage the full ML lifecycle, which means more power and more complexity. It&rsquo;s worth mentioning that Bedrock does support fine-tuning for a limited set of models, but it&rsquo;s a managed, lightweight process (very useful for adjusting a model&rsquo;s tone or style). SageMaker gives you full control over the training process, including custom training scripts and complete access to model weights, which is what you need when the task genuinely requires it.</p>
+<p>It&rsquo;s the right tool when you need custom ML pipelines, are working with proprietary datasets, or your team has dedicated ML expertise. Picture a hospital building a readmission risk model on its own patient records, a manufacturer predicting equipment failures from sensor data, or a legal team training a classifier on thousands of labeled contracts. These are real-world problems SageMaker is built for, where an off-the-shelf model won&rsquo;t do, and full control over the training process matters.</p>
 <p><strong>If you find yourself thinking, <em>&ldquo;I need to understand exactly how my model works,&rdquo;</em> SageMaker is your platform.</strong></p>
 <hr>
 
@@ -996,7 +998,7 @@ if you&rsquo;re an absolute beginner to Cloud and AWS, I recommend reading <a
     
 </h2>
 <p>Yes, and in many real-world architectures, they do.</p>
-<p>A common pattern: use Bedrock to prototype quickly and validate whether an AI feature is worth building, then bring in SageMaker when you need to fine-tune, optimise, or take full control of the model. You&rsquo;re not choosing one forever. You&rsquo;re choosing which one fits the problem in front of you right now.</p>
+<p>A common pattern: use Bedrock to prototype quickly and validate whether an AI feature is worth building. Once you&rsquo;ve validated the idea, then bring in SageMaker when you need to fine-tune, optimise performance, or take full control of the model. You&rsquo;re not choosing one forever. You&rsquo;re choosing which one fits the problem in front of you right now.</p>
 <hr>
 
 <h2 class="relative group">Where to start as a beginner 
@@ -1076,8 +1078,8 @@ if you&rsquo;re an absolute beginner to Cloud and AWS, I recommend reading <a
   
 </figure>
 </p>
-<p>Skill Builder does have a paid subscription, but you don&rsquo;t need it to get started. All foundational course content is free — just enrol and learn. (If you see an invitation to subscribe when you first access the platform; you can safely skip it for everything covered here.)</p>
-<p>A great entry point is the <strong><a
+<p>📌 <strong>On the question of cost:</strong> Skill Builder has both free and paid content. The foundational courses are genuinely free, with no subscription needed. Some modules inside longer learning plans do require a paid subscription.</p>
+<p>A great entry point for your AI journey is the <strong><a
   href="https://skillbuilder.aws/learn/FKXM21R555/fundamentals-of-generative-ai/ZFX96NREH4"
     target="_blank"
   >Fundamentals of Generative AI</a></strong> — 3 hours of free content covering:</p>
@@ -1203,7 +1205,8 @@ if you&rsquo;re an absolute beginner to Cloud and AWS, I recommend reading <a
   
 </figure>
 </p>
-<p>Working through it, I found myself using not just Bedrock, but SageMaker and Amazon Q (AWS&rsquo;s AI assistant for development) across different challenges. By the end, the differences between the services stopped being abstract. They made sense in practice.</p>
+<p>What I liked most: I ended up working with not just Bedrock, but SageMaker and Amazon Q (AWS&rsquo;s AI assistant for development) across different challenges. The use cases were real — an HR assistant that filtered employee questions and pulled answers directly from the company handbook, and an enterprise tool that helped sales teams make sense of their own data. Building and running them changed how I understood these services.</p>
+<p>By the time I completed the quest, the differences between Bedrock and SageMaker stopped being abstract. They made sense in practice, in a way that just reading about them didn&rsquo;t fully achieve.</p>
 <p>
 
 
@@ -1231,12 +1234,73 @@ if you&rsquo;re an absolute beginner to Cloud and AWS, I recommend reading <a
 </p>
 <hr>
 
-<h2 class="relative group">Ready for the next step? Certification 
-    <div id="ready-for-the-next-step-certification" class="anchor"></div>
+<h2 class="relative group">More good resources out there 
+    <div id="more-good-resources-out-there" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#ready-for-the-next-step-certification" aria-label="Anchor">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#more-good-resources-out-there" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Skill Builder and Cloud Quest are my go-to starting points because they&rsquo;re free, structured, and built specifically for the AWS stack you&rsquo;ll eventually be working with. But they&rsquo;re not the only resources worth your time, and some of the best learning I&rsquo;ve done on generative AI foundations has happened elsewhere.</p>
+
+<h3 class="relative group">If you want to understand what generative AI actually is before you touch any tools 
+    <div id="if-you-want-to-understand-what-generative-ai-actually-is-before-you-touch-any-tools" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#if-you-want-to-understand-what-generative-ai-actually-is-before-you-touch-any-tools" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p><a
+  href="https://www.deeplearning.ai/courses/generative-ai-for-everyone"
+    target="_blank"
+  >Generative AI for Everyone</a> (<a
+  href="https://www.deeplearning.ai"
+    target="_blank"
+  >DeepLearning.AI</a>, free) — taught by AI pioneer <a
+  href="https://www.linkedin.com/in/andrewyng/"
+    target="_blank"
+  >Andrew Ng</a>, it covers how generative AI works, what it genuinely can and can&rsquo;t do, prompt engineering at a practical level, and how to think about real-world applications. No coding background required, no AWS account needed. I&rsquo;d put this alongside the Fundamentals of Generative AI course on Skill Builder. They complement each other rather than overlap.</p>
+
+<h3 class="relative group">If you want to build something before you feel &ldquo;ready&rdquo; 
+    <div id="if-you-want-to-build-something-before-you-feel-ready" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#if-you-want-to-build-something-before-you-feel-ready" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p><a
+  href="https://partyrock.aws/"
+    target="_blank"
+  >PartyRock</a> — an Amazon Bedrock playground where you can create AI-powered apps by describing what you want to build, no code required, with free daily usage. You don&rsquo;t even need an AWS account to start. It&rsquo;s the fastest way to develop real intuition about how foundation models behave, what prompts actually do, and where generative AI surprises you (for better and worse). Think of it as the place to play before Cloud Quest.</p>
+
+<h3 class="relative group">If you want a structured course that lives outside Skill Builder 
+    <div id="if-you-want-a-structured-course-that-lives-outside-skill-builder" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#if-you-want-a-structured-course-that-lives-outside-skill-builder" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p><a
+  href="https://www.coursera.org/learn/aws-generative-ai-essentials"
+    target="_blank"
+  >AWS Generative AI Essentials</a> (Coursera and edX, free to audit, launched January 2026) — practical and applied rather than theoretical. It covers Amazon Q Developer for IDE-integrated coding assistance, Amazon Bedrock, RAG with private data, security guardrails, and building AI agents. A good structured step-up once you&rsquo;ve worked through the Fundamentals course.</p>
+<p>📌 <strong>On cost — a consistent reminder across all three:</strong> PartyRock has a free daily usage allowance. Generative AI for Everyone is free on DeepLearning.AI&rsquo;s platform. AWS Generative AI Essentials is free to audit on Coursera and edX (a certificate costs extra, but you don&rsquo;t need it to learn the material).</p>
+<hr>
+
+<h2 class="relative group">Want to make it official? Certification is one option 
+    <div id="want-to-make-it-official-certification-is-one-option" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#want-to-make-it-official-certification-is-one-option" aria-label="Anchor">#</a>
     </span>        
     
 </h2>
@@ -1265,12 +1329,13 @@ if you&rsquo;re an absolute beginner to Cloud and AWS, I recommend reading <a
   
 </figure>
 </p>
-<p>Once you&rsquo;ve covered the fundamentals and want to make your knowledge official, the <strong><a
+<p>Once you&rsquo;ve covered the fundamentals, if you want to make your knowledge official, the <strong><a
   href="https://aws.amazon.com/pt/certification/certified-ai-practitioner/"
     target="_blank"
-  >AWS Certified AI Practitioner</a></strong> is the natural next step, and yes, Skill Builder has the preparation materials for that too.</p>
-<p>I haven&rsquo;t sat the exam yet, but when I do, I&rsquo;ll write up exactly how I prepared and what the experience was like.</p>
-<p>If you&rsquo;ve already been through it, I&rsquo;d love to hear from you. What do you wish you&rsquo;d known before you started? What would you tell someone who&rsquo;s just taking their first steps? Share your experience in the comments — your insight might be exactly what someone else needs to keep going. 💫</p>
+  >AWS Certified AI Practitioner</a></strong> is worth considering. Still, it&rsquo;s one path among several, not an obligatory next step, and yes, Skill Builder has the preparation materials for that too.</p>
+<p>That said, the broader generative AI certification landscape has grown significantly. If your interests point toward Google Cloud&rsquo;s stack, more developer-focused AI engineering, or perhaps toward AI for business and strategy rather than technical implementation, there are strong credentials in those directions too. The right certification is the one that aligns with where you&rsquo;re actually heading.</p>
+<p>I haven&rsquo;t taken the AWS AI Practitioner exam yet, but when I do, I&rsquo;ll write up exactly how I prepared and what the experience was like.</p>
+<p>If you&rsquo;ve already been through it, I&rsquo;d love to hear from you. What do you wish you&rsquo;d known before you started? What helped? What would you tell someone who&rsquo;s just taking their first steps? Share your experience — your insight might be exactly what someone else needs to keep going. 💫</p>
 <hr>
 
 <h2 class="relative group">Further reading &amp; resources 
@@ -1282,27 +1347,76 @@ if you&rsquo;re an absolute beginner to Cloud and AWS, I recommend reading <a
     </span>        
     
 </h2>
+
+<h3 class="relative group">AWS-specific: 
+    <div id="aws-specific" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#aws-specific" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
 <ul>
 <li><a
   href="https://aws.amazon.com/bedrock/"
     target="_blank"
-  >Amazon Bedrock</a></li>
+  >Amazon Bedrock</a> - the official service page. Good for a high-level overview and feature list; not a learning resource on its own.</li>
 <li><a
   href="https://aws.amazon.com/SageMaker/ai/"
     target="_blank"
-  >Amazon SageMaker AI</a></li>
+  >Amazon SageMaker AI</a> — same: useful for orientation, not for learning how to use it.</li>
 <li><a
   href="https://docs.aws.amazon.com/decision-guides/latest/bedrock-or-SageMaker/bedrock-or-SageMaker.html"
     target="_blank"
-  >Amazon Bedrock or Amazon SageMaker AI? — AWS Decision Guide</a></li>
+  >Amazon Bedrock or Amazon SageMaker AI? — AWS Decision Guide</a> — a more detailed comparison from AWS. Useful once you&rsquo;ve absorbed the basics from this article, it assumes some familiarity with the services.</li>
+<li><a
+  href="https://partyrock.aws/"
+    target="_blank"
+  >PartyRock</a> — the no-code Bedrock playground. Start here if you want to experiment with models before writing a single line of code.</li>
+</ul>
+
+<h3 class="relative group">Tutorials and hands-on: 
+    <div id="tutorials-and-hands-on" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#tutorials-and-hands-on" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
 <li><a
   href="https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln"
     target="_blank"
-  >Amazon Bedrock for Beginners — From First Prompt to AI Agent (Full Tutorial)</a></li>
+  >Amazon Bedrock for Beginners — From First Prompt to AI Agent (Full Tutorial)</a> — a hands-on tutorial that picks up where this article leaves off. Good next step if you want to start building immediately.</li>
 <li><a
   href="https://www.youtube.com/watch?v=FAgmR9VV0GQ"
     target="_blank"
-  >Amazon Bedrock for Beginners — From First Prompt to AI Agent (Full Tutorial on YouTube)</a></li>
+  >Amazon Bedrock for Beginners — From First Prompt to AI Agent (Full Tutorial on YouTube)</a> — if you prefer video.</li>
+</ul>
+
+<h3 class="relative group">Beyond the AWS stack: 
+    <div id="beyond-the-aws-stack" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#beyond-the-aws-stack" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><a
+  href="https://www.deeplearning.ai/courses/generative-ai-for-everyone"
+    target="_blank"
+  >Generative AI for Everyone</a> (<a
+  href="https://www.deeplearning.ai"
+    target="_blank"
+  >DeepLearning.AI</a>, free) — — the best non-AWS starting point for understanding generative AI conceptually. No coding required. Taught by Andrew Ng.</li>
+<li><a
+  href="https://www.coursera.org/learn/aws-generative-ai-essentials"
+    target="_blank"
+  >AWS Generative AI Essentials</a> (free to audit) — practical and applied; covers Bedrock, Amazon Q, RAG, and agents. A structured step up from Skill Builder&rsquo;s fundamentals content.</li>
 </ul>
 
           

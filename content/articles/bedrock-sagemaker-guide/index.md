@@ -1,5 +1,5 @@
 +++
-date = '2026-05-18T21:34:17+02:00'
+date = '2026-05-19T15:34:15+02:00'
 draft = false
 title = 'Bedrock vs SageMaker: a beginner’s guide to AWS AI — and where to start'
 tags = ['Tutorial', 'Amazon Bedrock', 'Amazon SageMaker', 'Generative AI', 'AWS']
@@ -16,7 +16,7 @@ In this article, I'll give you a clear overview of both services, explain which 
 ---
 
 📌 **Before we go further:** </br>
-if you're an absolute beginner to Cloud and AWS, I recommend reading ["How to get started with AWS (for absolute beginners)"](https://suzanamelo.com/articles/aws-for-absolute-beginners/) first and coming back when you're ready. These concepts will land much better with that foundation in place.
+If you're an absolute beginner to Cloud and AWS, I recommend reading ["How to get started with AWS (for absolute beginners)"](https://suzanamelo.com/articles/aws-for-absolute-beginners/) first and coming back when you're ready. These concepts will land much better with that foundation in place.
 
 ---
 
@@ -30,7 +30,7 @@ Either Bedrock or SageMaker gives you:
 ✨ Features to tailor models to your specific needs, such as fine-tuning and Retrieval-Augmented Generation (RAG), which lets you connect models to your own data sources  
 ✨ Seamless integration with other AWS services
 
-But the similarities end there. They are also not competitors. Bedrock and SageMaker solve different problems and operate at very different levels of abstraction.
+But the similarities end there. They are not competitors. Bedrock and SageMaker solve different problems and operate at very different levels of abstraction.
 
 ---
 
@@ -62,6 +62,8 @@ The biggest advantage is speed: no infrastructure to manage, fast time to produc
 
 Bedrock is ideal when you don't have ML expertise but want to build quickly (chatbots, AI features inside apps, rapid prototypes).
 
+Imagine a customer support assistant that answers questions from your product documentation, a content tool that drafts marketing copy on request, or an internal search feature that understands natural language instead of keywords. These are all problems Bedrock handles well. You describe what you want, pick a model, and start building.
+
 **If you find yourself thinking, _"I just want to use AI, not build it,"_ Bedrock is your starting point.**
 
 ---
@@ -72,12 +74,14 @@ Bedrock is ideal when you don't have ML expertise but want to build quickly (cha
 
 [Amazon SageMaker AI](https://aws.amazon.com/sagemaker/ai/) (formerly Amazon SageMaker) is a full machine learning platform with fully managed infrastructure, tools, and workflows. It gives you everything you need to:
 
-- Prepare and process data
+- Prepare and process their own datasets
 - Train models from scratch
-- Fine-tune existing models
-- Deploy and monitor performance
+- Fine-tune existing models with proprietary data
+- Deploy, monitor, and manage model performance over time
 
-Where Bedrock is about speed and simplicity, SageMaker is all about control and customisation. You manage the full ML lifecycle, which means more power and more complexity. It's the right tool when you need custom ML pipelines, are working with proprietary datasets, or your team has dedicated ML expertise.
+Where Bedrock is about speed and simplicity, SageMaker is all about control and customisation. You manage the full ML lifecycle, which means more power and more complexity. It's worth mentioning that Bedrock does support fine-tuning for a limited set of models, but it's a managed, lightweight process (very useful for adjusting a model's tone or style). SageMaker gives you full control over the training process, including custom training scripts and complete access to model weights, which is what you need when the task genuinely requires it.
+
+It's the right tool when you need custom ML pipelines, are working with proprietary datasets, or your team has dedicated ML expertise. Picture a hospital building a readmission risk model on its own patient records, a manufacturer predicting equipment failures from sensor data, or a legal team training a classifier on thousands of labeled contracts. These are real-world problems SageMaker is built for, where an off-the-shelf model won't do, and full control over the training process matters.
 
 **If you find yourself thinking, _"I need to understand exactly how my model works,"_ SageMaker is your platform.**
 
@@ -87,7 +91,7 @@ Where Bedrock is about speed and simplicity, SageMaker is all about control and 
 
 Yes, and in many real-world architectures, they do.
 
-A common pattern: use Bedrock to prototype quickly and validate whether an AI feature is worth building, then bring in SageMaker when you need to fine-tune, optimise, or take full control of the model. You're not choosing one forever. You're choosing which one fits the problem in front of you right now.
+A common pattern: use Bedrock to prototype quickly and validate whether an AI feature is worth building. Once you've validated the idea, then bring in SageMaker when you need to fine-tune, optimise performance, or take full control of the model. You're not choosing one forever. You're choosing which one fits the problem in front of you right now.
 
 ---
 
@@ -109,9 +113,9 @@ AWS offers a wide variety of free resources to get you started. My favourite pla
 
 ![Generative AI Learning Plans](/img/genai-learning-plans.png)
 
-Skill Builder does have a paid subscription, but you don't need it to get started. All foundational course content is free — just enrol and learn. (If you see an invitation to subscribe when you first access the platform; you can safely skip it for everything covered here.)
+📌 **On the question of cost:** Skill Builder has both free and paid content. The foundational courses are genuinely free, with no subscription needed. Some modules inside longer learning plans do require a paid subscription.
 
-A great entry point is the **[Fundamentals of Generative AI](https://skillbuilder.aws/learn/FKXM21R555/fundamentals-of-generative-ai/ZFX96NREH4)** — 3 hours of free content covering:
+A great entry point for your AI journey is the **[Fundamentals of Generative AI](https://skillbuilder.aws/learn/FKXM21R555/fundamentals-of-generative-ai/ZFX96NREH4)** — 3 hours of free content covering:
 
 - Fundamentals of ML and Generative AI
 - Applications of Foundation Models and Amazon Bedrock
@@ -155,28 +159,63 @@ Here you'll work through 10 real-world AI challenges. By the end, you'll know ho
 
 ![Cloud Quest - Create an Enterprise Knowledge Assistant](/img/enterprise-knowledge-assistant.png)
 
-Working through it, I found myself using not just Bedrock, but SageMaker and Amazon Q (AWS's AI assistant for development) across different challenges. By the end, the differences between the services stopped being abstract. They made sense in practice.
+What I liked most: I ended up working with not just Bedrock, but SageMaker and Amazon Q (AWS's AI assistant for development) across different challenges. The use cases were real — an HR assistant that filtered employee questions and pulled answers directly from the company handbook, and an enterprise tool that helped sales teams make sense of their own data. Building and running them changed how I understood these services.
+
+By the time I completed the quest, the differences between Bedrock and SageMaker stopped being abstract. They made sense in practice, in a way that just reading about them didn't fully achieve.
 
 ![Cloud Quest - AI Services with SageMaker](/img/ai-services-sagemaker.png)
 
 ---
 
-## Ready for the next step? Certification
+## More good resources out there
+
+Skill Builder and Cloud Quest are my go-to starting points because they're free, structured, and built specifically for the AWS stack you'll eventually be working with. But they're not the only resources worth your time, and some of the best learning I've done on generative AI foundations has happened elsewhere.
+
+### If you want to understand what generative AI actually is before you touch any tools
+
+[Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone) ([DeepLearning.AI](https://www.deeplearning.ai), free) — taught by AI pioneer [Andrew Ng](https://www.linkedin.com/in/andrewyng/), it covers how generative AI works, what it genuinely can and can't do, prompt engineering at a practical level, and how to think about real-world applications. No coding background required, no AWS account needed. I'd put this alongside the Fundamentals of Generative AI course on Skill Builder. They complement each other rather than overlap.
+
+### If you want to build something before you feel "ready"
+
+[PartyRock](https://partyrock.aws/) — an Amazon Bedrock playground where you can create AI-powered apps by describing what you want to build, no code required, with free daily usage. You don't even need an AWS account to start. It's the fastest way to develop real intuition about how foundation models behave, what prompts actually do, and where generative AI surprises you (for better and worse). Think of it as the place to play before Cloud Quest.
+
+### If you want a structured course that lives outside Skill Builder
+
+[AWS Generative AI Essentials](https://www.coursera.org/learn/aws-generative-ai-essentials) (Coursera and edX, free to audit, launched January 2026) — practical and applied rather than theoretical. It covers Amazon Q Developer for IDE-integrated coding assistance, Amazon Bedrock, RAG with private data, security guardrails, and building AI agents. A good structured step-up once you've worked through the Fundamentals course.
+
+📌 **On cost — a consistent reminder across all three:** PartyRock has a free daily usage allowance. Generative AI for Everyone is free on DeepLearning.AI's platform. AWS Generative AI Essentials is free to audit on Coursera and edX (a certificate costs extra, but you don't need it to learn the material).
+
+---
+
+## Want to make it official? Certification is one option
 
 ![AI Practitioner Foundational Badge](/img/ai-practitioner-certi.png)
 
-Once you've covered the fundamentals and want to make your knowledge official, the **[AWS Certified AI Practitioner](https://aws.amazon.com/pt/certification/certified-ai-practitioner/)** is the natural next step, and yes, Skill Builder has the preparation materials for that too.
+Once you've covered the fundamentals, if you want to make your knowledge official, the **[AWS Certified AI Practitioner](https://aws.amazon.com/pt/certification/certified-ai-practitioner/)** is worth considering. Still, it's one path among several, not an obligatory next step, and yes, Skill Builder has the preparation materials for that too.
 
-I haven't sat the exam yet, but when I do, I'll write up exactly how I prepared and what the experience was like.
+That said, the broader generative AI certification landscape has grown significantly. If your interests point toward Google Cloud's stack, more developer-focused AI engineering, or perhaps toward AI for business and strategy rather than technical implementation, there are strong credentials in those directions too. The right certification is the one that aligns with where you're actually heading.
 
-If you've already been through it, I'd love to hear from you. What do you wish you'd known before you started? What would you tell someone who's just taking their first steps? Share your experience in the comments — your insight might be exactly what someone else needs to keep going. 💫
+I haven't taken the AWS AI Practitioner exam yet, but when I do, I'll write up exactly how I prepared and what the experience was like.
+
+If you've already been through it, I'd love to hear from you. What do you wish you'd known before you started? What helped? What would you tell someone who's just taking their first steps? Share your experience — your insight might be exactly what someone else needs to keep going. 💫
 
 ---
 
 ## Further reading & resources
 
-- [Amazon Bedrock](https://aws.amazon.com/bedrock/)
-- [Amazon SageMaker AI](https://aws.amazon.com/SageMaker/ai/)
-- [Amazon Bedrock or Amazon SageMaker AI? — AWS Decision Guide](https://docs.aws.amazon.com/decision-guides/latest/bedrock-or-SageMaker/bedrock-or-SageMaker.html)
-- [Amazon Bedrock for Beginners — From First Prompt to AI Agent (Full Tutorial)](https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln)
-- [Amazon Bedrock for Beginners — From First Prompt to AI Agent (Full Tutorial on YouTube)](https://www.youtube.com/watch?v=FAgmR9VV0GQ)
+### AWS-specific:
+
+- [Amazon Bedrock](https://aws.amazon.com/bedrock/) - the official service page. Good for a high-level overview and feature list; not a learning resource on its own.
+- [Amazon SageMaker AI](https://aws.amazon.com/SageMaker/ai/) — same: useful for orientation, not for learning how to use it.
+- [Amazon Bedrock or Amazon SageMaker AI? — AWS Decision Guide](https://docs.aws.amazon.com/decision-guides/latest/bedrock-or-SageMaker/bedrock-or-SageMaker.html) — a more detailed comparison from AWS. Useful once you've absorbed the basics from this article, it assumes some familiarity with the services.
+- [PartyRock](https://partyrock.aws/) — the no-code Bedrock playground. Start here if you want to experiment with models before writing a single line of code.
+
+### Tutorials and hands-on:
+
+- [Amazon Bedrock for Beginners — From First Prompt to AI Agent (Full Tutorial)](https://dev.to/aws/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln) — a hands-on tutorial that picks up where this article leaves off. Good next step if you want to start building immediately.
+- [Amazon Bedrock for Beginners — From First Prompt to AI Agent (Full Tutorial on YouTube)](https://www.youtube.com/watch?v=FAgmR9VV0GQ) — if you prefer video.
+
+### Beyond the AWS stack:
+
+- [Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone) ([DeepLearning.AI](https://www.deeplearning.ai), free) — — the best non-AWS starting point for understanding generative AI conceptually. No coding required. Taught by Andrew Ng.
+- [AWS Generative AI Essentials](https://www.coursera.org/learn/aws-generative-ai-essentials) (free to audit) — practical and applied; covers Bedrock, Amazon Q, RAG, and agents. A structured step up from Skill Builder's fundamentals content.
