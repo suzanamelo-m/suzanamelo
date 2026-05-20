@@ -228,6 +228,28 @@
   
 
 
+  
+
+  <script
+    data-id="umami-script"
+    async
+    src="https://analytics.umami.is/script.js"
+    data-website-id="aba82e83-5ae7-4dd0-83d3-6f65aab3e8a0"></script>
+
+
+
+
+  <script type="text/javascript">
+    document.querySelector('script[data-id="umami-script"]').addEventListener("load", function () {
+      const type = document.head.querySelector('meta[property = "og:type"]').getAttribute("content");
+      let title = document.head.querySelector('meta[property = "og:title"]').getAttribute("content");
+      let url = document.head.querySelector('meta[property = "og:url"]').getAttribute("content");
+      umami.track(type + ":" + title, { url: url });
+    });
+  </script>
+
+
+
 
 
 
