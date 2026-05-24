@@ -118,7 +118,7 @@ Check out my article [How to get started with AWS (for absolute beginners)](http
 📌 Want to know how I prepared for my first Cloud certification?
 I shared my study tips and experience in this article: [How I Prepared for the AWS Cloud Practitioner Certificate](https://suzanamelo.com/articles/cloud-practitioner-certificate/).
 
-📌 In my GitHub repository, you can find more resources to start your journey in this list: [Free AWS training courses](https://github.com/suzanamelomoraes/AWSfree).
+📌 In my GitHub repository, you can find more resources to start your journey in this list: [Free AWS training courses](https://github.com/suzanamelo-m/AWSfree).
 
 Feedback and suggestions are always welcome. ❤️
 

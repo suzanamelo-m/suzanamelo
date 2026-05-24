@@ -73,7 +73,7 @@ By this stage, you’ll be on your way to your first AWS Cloud Certification, th
 📌 Want to know how I prepared for my first Cloud certification?
 I shared my study tips and experience in this article: [How I Prepared for the AWS Cloud Practitioner Certificate](https://suzanamelo.com/articles/cloud-practitioner-certificate/).
 
-📌 In my GitHub repository, you can find more resources to start your journey in this list: [Free AWS training courses](https://github.com/suzanamelomoraes/AWSfree).
+📌 In my GitHub repository, you can find more resources to start your journey in this list: [Free AWS training courses](https://github.com/suzanamelo-m/AWSfree).
 
 ## Summary
 
@@ -91,7 +91,7 @@ Happy learning and to infinity and beyond! ❤️☁️🚀
 
 📌 [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 
-📌 [Free AWS training courses](https://github.com/suzanamelomoraes/AWSfree)
+📌 [Free AWS training courses](https://github.com/suzanamelo-m/AWSfree)
 
 ### Related articles:
 
