@@ -69,7 +69,14 @@ Created content and managed social media to support the mission of inspiring and
 
 ## Mentoring
 
-Through my AWS Community Builder work, I provide individual mentoring to women entering cloud computing, helping people assess where to start, recommending learning paths, and supporting their first steps into the field. My focus is on people who feel like outsiders in tech, because that's exactly where I started.
+I mentor women entering cloud computing through two structured programs:
+[WIICA's CloudHER program](hhttps://wicafrica.org/) (supporting women across Africa) and
+[Escola da Nuvem](https://escoladanuvem.org/) (supporting underserved communities in Brazil).
+I also provide individual mentoring through my AWS Community Builder work —
+helping people assess where to start, recommending learning paths, and
+supporting their first steps into the field.
+
+My focus is always on people who feel like outsiders in tech, because that's exactly where I started.
 
 ---
 
