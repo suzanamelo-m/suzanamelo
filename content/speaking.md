@@ -9,7 +9,7 @@ draft = false
 
 ---
 
-# Sessions
+# Speaking
 
 ## [From Procrastination to Publishing: How AWS Amplify Helped Me Finally Start Blogging](https://sessionize.com/s/suzana-melo/from-procrastination-to-publishing-how-aws-amplify/134642)
 
@@ -77,7 +77,7 @@ _Level: Foundational (100)_
 
 ---
 
-# Workshop
+# Workshops
 
 ## [Empowering Women in Tech](https://sessionize.com/s/suzana-melo/workshop-empowering-women-in-tech/130912)
 
