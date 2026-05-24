@@ -23,7 +23,7 @@ I did this project in vanilla JavaScript while doing a course from [Brad Travers
 
 I also wanted to demonstrate the React hooks API, which allows function components to have state and utilise lifecycle methods under the hood. In past versions of React, class components were the only way to manage state. This makes for a much better development experience 🤩.
 
-You can also find the code for this project in my [GitHub Repository](https://github.com/suzanamelomoraes/loan-calculator-react-hooks).
+You can also find the code for this project in my [GitHub Repository](https://github.com/suzanamelo-m/loan-calculator-react-hooks).
 
 ### Shall we start? 👍
 
@@ -340,7 +340,7 @@ At this point, we can log the input values in the console, and our function will
 **Calculate the results**
 
 At this point, you should be able to receive the data from the user and see it in your console, If it’s not happening, don’t panic. Welcome to the world of software development!
-Breathe, review the steps and check my repository on [GitHub](https://github.com/suzanamelomoraes/loan-calculator-react-hooks) if you wish.
+Breathe, review the steps and check my repository on [GitHub](https://github.com/suzanamelo-m/loan-calculator-react-hooks) if you wish.
 
 Once we have the data, it’s time to calculate! But first, the calculation will generate new values, and we need to store them somewhere. So, to make the code more readable and easy to maintain let’s create another state to store these results, so they can be displayed in the UI.
 

@@ -52,7 +52,7 @@ If any of this sounds like where you are — [start here →](/articles)
 
 ---
 
-## [Certifications](https://www.linkedin.com/in/suzanamelomoraes/details/certifications/)
+## [Certifications](https://www.linkedin.com/in/suzanamelo-m/details/certifications/)
 
 **Model Context Protocol Advanced Topics** - Anthropic - May 2026
 

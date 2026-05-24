@@ -91,7 +91,7 @@ I have no regrets about the time I spent preparing for my AWS Cloud Practitioner
 
 AWS often promotes fantastic certification campaigns and sometimes even 100% discount vouchers. To keep an eye on these campaigns, follow AWS and AWS Technical Trainers on social media and [LinkedIn](https://www.linkedin.com/company/amazon-web-services/).<br>
 Once you receive your certificate, practice what you have learned and begin building cloud projects. There are many cool beginner projects on the Internet for you to start putting your hands on.<br>
-You can find additional resources to keep upskilling in the list of free AWS training courses available in my GitHub repository: [Free AWS training courses](https://github.com/suzanamelomoraes/AWSfree).
+You can find additional resources to keep upskilling in the list of free AWS training courses available in my GitHub repository: [Free AWS training courses](https://github.com/suzanamelo-m/AWSfree).
 
 I hope I have helped you succeed in your exam! 🚀
 
@@ -103,7 +103,7 @@ I hope I have helped you succeed in your exam! 🚀
 
 ### To study
 
-📌 [Free AWS training courses](https://github.com/suzanamelomoraes/AWSfree)<br>
+📌 [Free AWS training courses](https://github.com/suzanamelo-m/AWSfree)<br>
 📌 [Cloud Essentials - Knowledge Badge Readiness Path](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path?trk=584fad87-840e-461e-9281-280915222830&sc_channel=el)<br>
 📌 [AWS Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner)<br>
 📌 [Training events for free](https://aws.amazon.com/training/events/)<br>
