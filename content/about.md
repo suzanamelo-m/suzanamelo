@@ -31,17 +31,14 @@ Community is central to everything I do in tech. As an AWS Community Builder sin
 
 ---
 
-**Cloud & AWS Foundations** </br>
+**[Cloud & AWS Foundations](https://suzanamelo.com/tags/cloud-foundations/)** </br>
 Beginner-friendly guides to Cloud computing, AWS services, and how to start your cloud journey without a technical background.
 
-**AI for Beginners** </br>
+**[AI for Beginners](https://suzanamelo.com/tags/ai-for-beginners)** </br>
 Practical introductions to AI and machine learning concepts — what they are, how they work, and how to start using them.
 
-**Career Change & Growth** </br>
+**[Career Change & Growth](https://suzanamelo.com/tags/career-growth/)** </br>
 Honest reflections on transitioning into tech, building confidence, and navigating the industry as an outsider.
-
-**Building in Public** </br>
-What I'm currently building with AI tools, what breaks, and what I learn.
 
 ---
 
