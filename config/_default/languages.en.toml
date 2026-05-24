@@ -25,11 +25,10 @@ title = "Suzana Melo - Empowering Through Tech </br> Cloud, AWS & AI for career 
      { linkedin = "https://linkedin.com/in/suzanamelo-m" },
      { email = "mailto:hello@suzanamelo.com" },
      { link = "https://sessionize.com/suzana-melo/" },
-     { bluesky = "https://bsky.app/profile/suzanamelo.bsky.social" },
-     { x-twitter = "https://twitter.com/suzanamelojor" },
-     { instagram = "https://instagram.com/suzana.melo.m" },
      { github = "https://github.com/suzanamelo-m" },
+     { bluesky = "https://bsky.app/profile/suzanamelo.bsky.social" },
      { dev = "https://dev.to/suzanamelo" },
+     { instagram = "https://instagram.com/suzana.melo.m" },
     ]
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
