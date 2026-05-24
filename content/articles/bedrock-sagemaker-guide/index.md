@@ -2,7 +2,7 @@
 date = '2026-05-19T15:34:15+02:00'
 draft = false
 title = 'Bedrock vs SageMaker: a beginner’s guide to AWS AI — and where to start'
-tags = ['Tutorial', 'Amazon Bedrock', 'Amazon SageMaker', 'Generative AI', 'AWS']
+tags = ['Amazon Bedrock', 'Amazon SageMaker', 'Generative AI', 'AWS', 'AI for beginners']
 +++
 
 ![BedrockSagemaKerGuideBanner](/img/bedrock-sagemaker-banner.png)
