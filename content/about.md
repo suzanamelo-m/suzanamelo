@@ -33,15 +33,12 @@ Community is central to everything I do in tech. As an AWS Community Builder sin
 
 **Cloud & AWS Foundations** </br>
 Beginner-friendly guides to Cloud computing, AWS services, and how to start your cloud journey without a technical background.
-[link]
 
 **AI for Beginners** </br>
 Practical introductions to AI and machine learning concepts — what they are, how they work, and how to start using them.
-[link]
 
 **Career Change & Growth** </br>
 Honest reflections on transitioning into tech, building confidence, and navigating the industry as an outsider.
-[link]
 
 **Building in Public** </br>
 What I'm currently building with AI tools, what breaks, and what I learn.
