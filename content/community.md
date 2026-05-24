@@ -73,7 +73,7 @@ Created content and managed social media to support the mission of inspiring and
 I mentor women entering cloud computing through two structured programs:
 [WICA's CloudHER program](hhttps://wicafrica.org/) (supporting women across Africa) and
 [Escola da Nuvem](https://escoladanuvem.org/) (supporting underserved communities in Brazil).
-I also provide individual mentoring through my AWS Community Builder work —
+I also provide individual mentoring through my AWS Community Builder work,
 helping people assess where to start, recommending learning paths, and
 supporting their first steps into the field.
 
