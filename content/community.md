@@ -13,7 +13,7 @@ I focus on the people who don't yet see themselves as belonging in tech: women, 
 
 ---
 
-**14,000+ readers per article · 4,000+ session viewers across EMEA, APAC, and LATAM · AWS re:Invent 2024 speaker — Women in Tech Fireside Chat, Las Vegas**
+**14,000+ readers per article · 4,000+ session viewers across EMEA, APAC, and LATAM · AWS re:Invent 2024 speaker · Mentoring women in cloud across Africa, Brazil, and Sweden**
 
 [Full speaking history and session abstracts →](https://sessionize.com/suzana-melo)
 
