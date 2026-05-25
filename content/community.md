@@ -15,7 +15,7 @@ I focus on the people who don't yet see themselves as belonging in tech: women, 
 
 **14,000+ readers per article · 4,000+ session viewers across EMEA, APAC, and LATAM · AWS re:Invent 2024 speaker · Mentoring women in cloud across Africa, Brazil, and Sweden**
 
-[Full speaking history and session abstracts →](https://sessionize.com/suzana-melo)
+**Full speaking history and session abstracts →**[Speaking](/speaking)
 
 ---
 
@@ -43,7 +43,7 @@ trained 1,000+ women across 10 African countries. Over a 12-week structured cycl
 
 **[Escola da Nuvem](https://escoladanuvem.org) — AWS Cloud Practitioner Mentor** · _May 2026 – present · Remote (Brazil)_
 
-Volunteer mentor at Escola da Nuvem — a Brazilian non-profit that has placed 3,600+ students in employment through free cloud education.. I run four-week group mentoring cycles covering AWS fundamentals, exam strategy, and career guidance for students preparing for the AWS Certified Cloud Practitioner exam.
+Volunteer mentor at Escola da Nuvem — a Brazilian non-profit that has placed 3,600+ students in employment through free cloud education. I run four-week group mentoring cycles covering AWS fundamentals, exam strategy, and career guidance for students preparing for the AWS Certified Cloud Practitioner exam.
 
 **[AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/) — Co-Organiser**
 _Aug 2024 – present · Southern Sweden (contributing remotely)_
