@@ -12,6 +12,16 @@
     <lastBuildDate>Tue, 19 May 2026 15:34:15 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>AI for Beginners</title>
+      <link>http://localhost:1313/tags/ai-for-beginners/</link>
+      <pubDate>Tue, 19 May 2026 15:34:15 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/ai-for-beginners/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Amazon Bedrock</title>
       <link>http://localhost:1313/tags/amazon-bedrock/</link>
       <pubDate>Tue, 19 May 2026 15:34:15 +0200</pubDate>
@@ -47,16 +57,6 @@
       <pubDate>Tue, 19 May 2026 15:34:15 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
       <guid>http://localhost:1313/tags/generative-ai/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>http://localhost:1313/tags/tutorial/</link>
-      <pubDate>Tue, 19 May 2026 15:34:15 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/tags/tutorial/</guid>
       <description></description>
       
     </item>
@@ -157,6 +157,16 @@
       <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
       <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
       <description></description>
       
     </item>

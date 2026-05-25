@@ -25,30 +25,24 @@ Before tech, I spent 20+ years as a journalist, editor, and media director in Br
 
 ---
 
-Community is central to everything I do in tech. As an AWS Community Builder since 2023, I write articles, deliver talks, and mentor women entering cloud computing across EMEA, APAC, and LATAM. I co-organise AWS Community Day Baltic, and have founded and led developer communities in New Zealand and Sweden — including the AWS Women's User Group Sweden. Before that, while living in Auckland, I founded the Auckland AWS Tools and Programming meetup and co-organised the Full-Stack Engineering Auckland community for 4+ years.
+Community is central to everything I do in tech. As an AWS Community Builder since 2023, I write articles, deliver talks, and mentor women entering cloud computing across EMEA, APAC, and LATAM. I co-organise AWS Community Day Baltic, mentor women transitioning into cloud careers through Women Innovating in Cloud Africa and Escola da Nuvem in Brazil and have founded and led developer communities in New Zealand and Sweden — including the AWS Women's User Group Sweden. Before that, while living in Auckland, I founded the Auckland AWS Tools and Programming meetup and co-organised the Full-Stack Engineering Auckland community for 4+ years.
 
-[See the full picture of my community work →](/community)
+**See the full picture of my community work →** [Community](/community)
 
 ---
 
-**Cloud & AWS Foundations** </br>
+**[Cloud & AWS Foundations](https://suzanamelo.com/tags/cloud-foundations/)** </br>
 Beginner-friendly guides to Cloud computing, AWS services, and how to start your cloud journey without a technical background.
-[link]
 
-**AI for Beginners** </br>
+**[AI for Beginners](https://suzanamelo.com/tags/ai-for-beginners)** </br>
 Practical introductions to AI and machine learning concepts — what they are, how they work, and how to start using them.
-[link]
 
-**Career Change & Growth** </br>
+**[Career Change & Growth](https://suzanamelo.com/tags/career-growth/)** </br>
 Honest reflections on transitioning into tech, building confidence, and navigating the industry as an outsider.
-[link]
-
-**Building in Public** </br>
-What I'm currently building with AI tools, what breaks, and what I learn.
 
 ---
 
-If any of this sounds like where you are — [start here →](/articles)
+If any of this sounds like where you are → [start here](/articles)
 
 ---
 

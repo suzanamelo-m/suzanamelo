@@ -13,7 +13,7 @@ I focus on the people who don't yet see themselves as belonging in tech: women, 
 
 ---
 
-**14,000+ readers per article · 4,000+ session viewers across EMEA, APAC, and LATAM · AWS re:Invent 2024 speaker — Women in Tech Fireside Chat, Las Vegas**
+**14,000+ readers per article · 4,000+ session viewers across EMEA, APAC, and LATAM · AWS re:Invent 2024 speaker · Mentoring women in cloud across Africa, Brazil, and Sweden**
 
 [Full speaking history and session abstracts →](https://sessionize.com/suzana-melo)
 
@@ -36,7 +36,7 @@ _Mar 2025 – present · Sweden (contributing remotely)_
 
 I founded this group to create an inclusive space for women and allies in cloud computing at all experience levels. We run meetups, workshops, and networking events focused on AWS enablement. I continue to contribute and support the group from wherever I am in the world.
 
-**[Women Innovating with Cloud in Africa (WICA)](https://wicafrica.org) — Mentor · CloudHER Mentorship Program** · _May 2026 – present · Remote (Ghana)_
+**[Women Innovating in Cloud Africa (WIICA)](https://wicafrica.org) — Mentor · CloudHER Mentorship Program** · _May 2026 – present · Remote (Ghana)_
 
 Volunteer mentor in WIICA's CloudHER program — a pan-African initiative that has
 trained 1,000+ women across 10 African countries. Over a 12-week structured cycle, I provide career guidance, AWS learning path support, CV and LinkedIn reviews, and interview preparation. I previously delivered the closing talk at WIICA's 12-Week AWS Workshop Challenge in Accra, Ghana (December 2025).
@@ -71,7 +71,7 @@ Created content and managed social media to support the mission of inspiring and
 ## Mentoring
 
 I mentor women entering cloud computing through two structured programs:
-[WICA's CloudHER program](hhttps://wicafrica.org/) (supporting women across Africa) and
+[WIICA's CloudHER program](hhttps://wicafrica.org/) (supporting women across Africa) and
 [Escola da Nuvem](https://escoladanuvem.org/) (supporting underserved communities in Brazil).
 I also provide individual mentoring through my AWS Community Builder work,
 helping people assess where to start, recommending learning paths, and
