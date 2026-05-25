@@ -9,8 +9,6 @@ draft = false
 
 ---
 
-# Speaking
-
 ## [From Procrastination to Publishing: How AWS Amplify Helped Me Finally Start Blogging](https://sessionize.com/s/suzana-melo/from-procrastination-to-publishing-how-aws-amplify/134642)
 
 _en_
@@ -27,6 +25,9 @@ Key Takeaways:
 - Why done is better than perfect. Just ship it!
 
 _Level: Beginner to intermediate (200)_
+
+**Given at:** AWS Community Day Baltic (Gdynia, Sep 2025) ·
+AWS User Group Skåne (Mälmo, Sep 2025)
 
 ---
 
@@ -48,6 +49,8 @@ Pontos chaves:
 
 _Level: Foundational to intermediate (200)_
 
+**Apresentado em:** AWS Community Day Portugal (Lisboa, Set 2025)
+
 ---
 
 ## [A beginner's journey into Cloud and AWS: Why You Should Learn Cloud Computing and How to Get Started](https://sessionize.com/s/suzana-melo/a-beginners-journey-into-cloud-and-aws-why-you-sho/130811)
@@ -60,6 +63,11 @@ Research shows that 94% of all companies worldwide use cloud computing at some l
 While the many paths to the Cloud could look overwhelming, they don't have to be. If you're in the same boat, an absolute beginner like I was when I first started to learn about Cloud Computing, this talk is for you. Let's explore where you can begin to be part of this inevitable future and build your skills with AWS. Take a seat, fasten your seat belts, and let's fly to the Cloud.
 
 _Level: Foundational (100)_
+
+**Given at:** AWS Women's User Group Vienna (Mar 2025) ·
+AWS User Group Skåne (Malmö, Nov 2024) ·
+AWS Cloud Club Auckland (Jan 2024) ·
+AWS UG Aotearoa Community Day 2023 (Wellington, Sep 2023)
 
 ---
 
@@ -74,6 +82,18 @@ We'll cover must-know services for junior developers, including S3 - Cloud Objec
 Whether you're a recent graduate curious about your options or a junior developer eager to upskill but unsure where to start, this talk is for you! Let's demystify the cloud together.
 
 _Level: Foundational (100)_
+
+**Given at:** JuniorDev Auckland (Apr 2024)
+
+---
+
+## How to Kick-Start Your Cloud Career?
+
+_(Updated version of A Beginner's Journey into Cloud and AWS)_
+
+_Level: Foundational (100)_
+
+**Given at:** AWS Women's User Group Munich (Aug 2025)
 
 ---
 
@@ -92,12 +112,43 @@ _Level: Foundational (100)_
 
 > The session can be adjusted to fit between 40 minutes and 2 hours.
 
+**Given at:** AWS Community Day Italy 2025 (Milan, Apr 2025) ·
+AWS Community Day Nordics 2025 (Göteborg, Oct 2025)
+
 ---
 
-[Full speaking history and session abstracts →](https://sessionize.com/suzana-melo)
+# Featured Appearances
+
+**AWS re:Invent 2024** · Las Vegas, December 2024  
+_ACT177 — Women in Tech Fireside Chat & Meetup_  
+Featured speaker at AWS's largest global conference. Participated in a curated
+fireside chat on creating more inclusive environments, overcoming barriers to women's
+success in tech, and encouraging the next generation of women in cloud.
+
+**AWS Women's User Group Berlin** · Berlin, March 2025  
+_Empowerment Panel — Women's Day Special_  
+Panellist at a dedicated evening on learning, empowerment, and community for women
+in the AWS cloud space.
+
+**Moar Serverless 2024** · Orlando, May 2024  
+_Adding Serverless Content Moderation to Your Application with Only 3 Simple AWS Tools_
+
+**Serverless Days ANZ** · Auckland, May 2024  
+_Serverless Panel Discussion_  
+Shared insights as a junior developer working with serverless services — challenges,
+lessons learned, and how to get started with AWS Lambda and DynamoDB.
+
+**Full speaking history and session abstracts →** [Sessionize](https://sessionize.com/suzana-melo/)
 
 ---
 
-Book me at [Sessionize](https://sessionize.com/suzana-melo/)
+## Speaker Bio
+
+**[Suzana Melo](https://www.linkedin.com/in/suzanamelo-m/)** is a full-stack engineer and AWS Community Builder who transitioned into software development in her 40s after 20+ years as a journalist and media director. She has spoken at AWS re:Invent in Las Vegas, AWS Community Days across Europe and APAC, and user groups across three continents. Her writing on Cloud and AWS reaches 14,000+ readers. She is enrolled in a postgraduate specialization in AI and Machine Learning at PUC Minas and focuses on making cloud and AI accessible to career changers, women, and underrepresented groups.
+
+**Available for:** conference talks, workshops, panels, fireside chats.</br>
+**Topics:** Cloud and AWS for beginners, AI fundamentals, career change into tech, building inclusive communities.
+
+Book via [Sessionize](https://sessionize.com/suzana-melo/)
 
 ---
