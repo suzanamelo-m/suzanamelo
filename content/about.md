@@ -42,7 +42,7 @@ Honest reflections on transitioning into tech, building confidence, and navigati
 
 ---
 
-If any of this sounds like where you are — [start here →](/articles)
+If any of this sounds like where you are → [start here](/articles)
 
 ---
 
