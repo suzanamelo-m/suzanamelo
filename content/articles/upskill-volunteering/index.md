@@ -58,5 +58,3 @@ If you have other ideas for volunteering, share them in the comments. That way, 
 For those who have followed me in this article until the end, what are you waiting for to start? ❤️
 
 ![1st Day ReDi School](/img/1stDayReDi.jpg "My first day as a teacher volunteer at ReDi School of Digital Transformation in Malmö - Sweden")
-
-> Note: This article was also published on [LinkedIn](https://www.linkedin.com/pulse/upskill-accelerate-your-career-volunteering-suzana-melo-moraes-zyonc/).
