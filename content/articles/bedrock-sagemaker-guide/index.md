@@ -193,7 +193,7 @@ Skill Builder and Cloud Quest are my go-to starting points because they're free,
 
 Once you've covered the fundamentals, if you want to make your knowledge official, the **[AWS Certified AI Practitioner](https://aws.amazon.com/pt/certification/certified-ai-practitioner/)** is worth considering. Still, it's one path among several, not an obligatory next step, and yes, Skill Builder has the preparation materials for that too.
 
-That said, the broader generative AI certification landscape has grown significantly. If your interests point toward Google Cloud's stack, more developer-focused AI engineering, or perhaps toward AI for business and strategy rather than technical implementation, there are strong credentials in those directions too. The right certification is the one that aligns with where you're actually heading.
+That said, the broader generative AI certification landscape has grown significantly. If your interests point toward Google Cloud's stack, more developer-focused AI engineering, or perhaps toward AI for business and strategy rather than technical implementation, there are strong credentials in those directions too, such as the [Generative AI Leader](https://cloud.google.com/learn/certification/generative-ai-leader). The right certification is the one that aligns with where you're actually heading.
 
 I haven't taken the AWS AI Practitioner exam yet, but when I do, I'll write up exactly how I prepared and what the experience was like.
 
