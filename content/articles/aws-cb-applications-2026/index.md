@@ -9,7 +9,7 @@ tags = ['AWS', 'AWS Community Builders', 'AWS Community Programs']
 
 One of the most wonderful times of the year has started, and I couldn’t be more excited! 🎉
 
-Applications for the [AWS Community Builders](https://builder.aws.com/community/community-builders) program opened on January 7, and to help you craft an outstanding application for the 2026 intake, a group of incredible AWS Community Builders held sessions around the globe, and… in multiple languages! 🥰
+Applications for the [AWS Community Builders](https://builder.aws.com/community/community-builders) program opened for the 2026 intake on January 7, and to help you craft an outstanding application, a group of incredible AWS Community Builders held sessions around the globe, and… in multiple languages! 🥰
 
 ---
 
@@ -163,4 +163,4 @@ _(And a dream team of AWS Community Builders role models you definitely should f
 - [Becoming an AWS Community Builder: End-to-End Guide](https://builder.aws.com/content/37ul87MU4EJaATGhllRaOpLyH1V/becoming-an-aws-community-builder-end-to-end-guide) - Omshree Butani
 - [2026 AWS Community Builders - How to fill in the application form](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A7415399631855198208/) - Darya Petrashka
 
-> You can also find this [article](https://www.linkedin.com/pulse/everything-you-need-know-before-applying-aws-community-suzana-melo-sinyf/) on my [LinkedIn articles session](https://www.linkedin.com/in/suzanamelo-m/recent-activity/articles/), where all the incredible AWS Community Builders ans AWS employees mentioned here are tagged\*\*.
+> You can also find this [article](https://www.linkedin.com/pulse/everything-you-need-know-before-applying-aws-community-suzana-melo-sinyf/) on my [LinkedIn articles session](https://www.linkedin.com/in/suzanamelo-m/recent-activity/articles/), where all the incredible AWS Community Builders and AWS employees mentioned here are tagged\*\*.
