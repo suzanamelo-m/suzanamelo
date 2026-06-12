@@ -37,5 +37,3 @@ Learning software development is still hard, and I fight against impostor syndro
 I can't wait to hear yours! ❤️
 
 > PS: “Compare Yourself to who you Were Yesterday, not to who Someone Else is Today” is the 4th rule of Jordan Peterson in the book 12 Rules for Life: An Antidote to Chaos.
-
-> Note: This article was also published on [LinkedIn](https://www.linkedin.com/pulse/challenge-start-tech-suzana-melo-moraes/)
