@@ -52,6 +52,8 @@ If any of this sounds like where you are → [start here](/articles)
 
 **Building with the Claude API** - Anthropic - May 2026
 
+**AI Capabilities and Limitations** - Anthropic - May 2026
+
 **Claude Code in Action** - Anthropic - May 2026
 
 **AWS Cloud Quest: Generative AI Practitioner** - Training Badge - Apr 2026
