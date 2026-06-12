@@ -90,5 +90,3 @@ That's why I now carry a reminder on my arm:</br>
 
 And I know the journey will be lighter if we fly together.</br>
 Are you joining me? ✨
-
-> This article was also published on my [LinkedIn](https://www.linkedin.com/pulse/reflections-aws-reinvent-2025-flying-cloud-beyond-suzana-melo-xywqc/)

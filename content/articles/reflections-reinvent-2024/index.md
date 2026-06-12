@@ -50,5 +50,3 @@ Thank you, Derek Bingham, María Encinar, Thembile Martis, Gunnar Grosch, Mark P
 <br>
 <br>
 To everyone: let’s keep building together. There’s still so much to create, and I’m only just getting started! 💪✨
-
-> Note: This article was also published on [LinkedIn](https://www.linkedin.com/pulse/reflections-aws-reinvent-2024-why-you-dont-need-make-tech-suzana-4gjic)

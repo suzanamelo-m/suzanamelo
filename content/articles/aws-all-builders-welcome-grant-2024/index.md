@@ -7,11 +7,11 @@ tags = ['AWS', 're:Invent', 'ABW Grant']
 
 ![AWS All Builders Welcome Grant friends](/img/ABW-grant-2024.jpg "Celebrating with other alumni friends from AWS All Builders Welcome Grant program")
 
-The application for the [AWS All Builders Welcome (ABW) Grant](https://reinvent.awsevents.com/all-builders-welcome/) opens TODAY, 24 June 2025! 🎉
+The application for the **AWS All Builders Welcome (ABW) Grant** started on 24 June 2025, last year, and it's just about to open again for 2026! 🎉
 
 If you have less than five years of experience in the Cloud field, you seriously can’t miss this opportunity.
 
-I’ll never get tired of saying this: [AWS re:Invent](https://reinvent.awsevents.com/) is a once-in-a-lifetime experience. There’s no way to fully capture the magnitude of it in words. You simply have to live it.
+I’ll never get tired of saying this: **[AWS re:Invent](https://reinvent.awsevents.com/)** is a once-in-a-lifetime experience. There’s no way to fully capture the magnitude of it in words. You simply have to live it.
 
 As an AWS User Group Leader and Community Builder, I’d heard all the hype about re:Invent. But, let’s be honest: as exciting as it all sounded, it felt like a beautiful, but unreachable dream to my junior-developer bank account.
 
@@ -137,7 +137,3 @@ And if it doesn’t happen this year? That’s okay. You’ll be better prepared
 The ABW Grant gave me more than a ticket to an event. It gave me knowledge, community, confidence, and career support that I’ll never forget.
 
 If you're eligible, please don’t let this opportunity pass you by, and I hope to see you at **AWS re:Invent**! 🚀☁️❤️
-
-👉 Apply for the [AWS All Builders Welcome](https://reinvent.awsevents.com/all-builders-welcome/) program!
-
-> Note: This article was also published on [LinkedIn](https://www.linkedin.com/pulse/how-aws-all-builders-welcome-grant-changed-my-life-forever-melo-bvgdc/)

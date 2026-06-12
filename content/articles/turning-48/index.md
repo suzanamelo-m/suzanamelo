@@ -66,5 +66,3 @@ Because:
 It reinforces to me how many fantastic things I can accomplish. 🤩<br>
 And if I can do it, so can you. 💪🏻<br>
 Let’s see what I have to say on my 49s! 🚀
-
-> Note: This article was also published on [LinkedIn](https://www.linkedin.com/pulse/turning-48-fairytale-worth-every-step-my-path-tech-beyond-melo-q8gxc/)
