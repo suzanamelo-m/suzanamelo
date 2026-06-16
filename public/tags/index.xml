@@ -291,15 +291,5 @@
       
     </item>
     
-    <item>
-      <title>Beginners</title>
-      <link>http://localhost:1313/tags/beginners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/tags/beginners/</guid>
-      <description></description>
-      
-    </item>
-    
   </channel>
 </rss>
