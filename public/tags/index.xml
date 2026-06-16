@@ -9,7 +9,67 @@
     <managingEditor>hello@suzanamelo.com (Suzana Melo)</managingEditor>
     <webMaster>hello@suzanamelo.com (Suzana Melo)</webMaster>
     <copyright>© 2026 Suzana Melo</copyright>
-    <lastBuildDate>Tue, 19 May 2026 15:34:15 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jun 2026 21:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AWS</title>
+      <link>http://localhost:1313/tags/aws/</link>
+      <pubDate>Mon, 15 Jun 2026 21:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/aws/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AWS Amplify</title>
+      <link>http://localhost:1313/tags/aws-amplify/</link>
+      <pubDate>Mon, 15 Jun 2026 21:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/aws-amplify/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AWS CLI</title>
+      <link>http://localhost:1313/tags/aws-cli/</link>
+      <pubDate>Mon, 15 Jun 2026 21:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/aws-cli/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>http://localhost:1313/tags/cloud-computing/</link>
+      <pubDate>Mon, 15 Jun 2026 21:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/cloud-computing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>http://localhost:1313/tags/github/</link>
+      <pubDate>Mon, 15 Jun 2026 21:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>http://localhost:1313/tags/tutorial/</link>
+      <pubDate>Mon, 15 Jun 2026 21:34:17 +0200</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>AI for Beginners</title>
@@ -37,16 +97,6 @@
       <pubDate>Tue, 19 May 2026 15:34:15 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
       <guid>http://localhost:1313/tags/amazon-sagemaker/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AWS</title>
-      <link>http://localhost:1313/tags/aws/</link>
-      <pubDate>Tue, 19 May 2026 15:34:15 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/tags/aws/</guid>
       <description></description>
       
     </item>
@@ -132,41 +182,11 @@
     </item>
     
     <item>
-      <title>AWS Amplify</title>
-      <link>http://localhost:1313/tags/aws-amplify/</link>
-      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/tags/aws-amplify/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cloud Computing</title>
-      <link>http://localhost:1313/tags/cloud-computing/</link>
-      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/tags/cloud-computing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Hugo</title>
       <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
       <guid>http://localhost:1313/tags/hugo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>http://localhost:1313/tags/tutorial/</link>
-      <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
-      <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/tags/tutorial/</guid>
       <description></description>
       
     </item>
@@ -267,6 +287,16 @@
       <pubDate>Tue, 30 May 2023 16:43:30 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
       <guid>http://localhost:1313/tags/cloud-practitioner/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Beginners</title>
+      <link>http://localhost:1313/tags/beginners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hello@suzanamelo.com (Suzana Melo)</author>
+      <guid>http://localhost:1313/tags/beginners/</guid>
       <description></description>
       
     </item>
