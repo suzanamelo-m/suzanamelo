@@ -118,9 +118,10 @@ Some of its core components (depending on your setup) are:
 - **Access Key ID:** A unique, public identifier string (like a username).
 - **Secret Access Key:** A hidden string (like a password).
 
-If your terminal doesn't know your AWS identity, any command you try to run to manage your AWS services will fail. Here we will set up your credentials and create a profile name for them, so you can easily identify your projects and/or environments (you can learn more about profiles at the end of this article in the "Going further: managing multiple AWS environments" section).
+If your terminal doesn't know your AWS identity, any command you try to run to manage your AWS services will fail. Here we will set up your credentials and create a profile name for them, so you can easily identify your projects and/or environments (you can learn more about profiles at the end of this article in the _"Going further: managing multiple AWS environments"_ section).
 
-Using a named profile keeps credentials for different projects isolated. To create one:
+Using a named profile keeps credentials for different projects isolated.</br>
+To create one:
 
 **3a. Check existing credentials**
 
