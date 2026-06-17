@@ -32,7 +32,7 @@ to my new repo URL:
 https://github.com/suzanamelo-m/suzanamelo
 ```
 
-The CI/CD stopped, and no updates I made on my application are going live. I was pushing my changes to my remote repository at `https://github.com/suzanamelo-m/suzanamelo`, while AWS Amplify was still reading from the previous URL.
+The CI/CD stopped, and no updates I made on my application were going live. I was pushing my changes to my remote repository at `https://github.com/suzanamelo-m/suzanamelo`, while AWS Amplify was still reading from the previous URL.
 
 ---
 
