@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="dark"
-  data-auto-appearance="true"><head>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="en">
@@ -22,7 +22,7 @@
   <meta name="keywords" content="Tutorial,AWS Amplify,AWS,Cloud Computing,GitHub,AWS CLI,">
   
   
-  <link rel="canonical" href="https://suzanamelo.com/articles/amplify-github-fix/">
+  <link rel="canonical" href="http://localhost:1313/articles/amplify-github-fix/">
   
   
   
@@ -95,7 +95,7 @@
   
 
   
-  <meta property="og:url" content="https://suzanamelo.com/articles/amplify-github-fix/">
+  <meta property="og:url" content="http://localhost:1313/articles/amplify-github-fix/">
   <meta property="og:site_name" content="Suzana Melo - Empowering Through Tech Cloud, AWS & AI for career changers and beginners">
   <meta property="og:title" content="AWS Amplify builds broken after a GitHub rename? Here’s the fix the console can’t give you">
   <meta property="og:locale" content="en">
@@ -109,14 +109,14 @@
     <meta property="article:tag" content="Cloud Computing">
     <meta property="article:tag" content="GitHub">
     <meta property="article:tag" content="AWS CLI">
-    <meta property="og:image" content="https://suzanamelo.com/articles/amplify-github-fix/featured-amplify-github-fix.png">
+    <meta property="og:image" content="http://localhost:1313/articles/amplify-github-fix/featured-amplify-github-fix.png">
 
   
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="https://suzanamelo.com/articles/amplify-github-fix/featured-amplify-github-fix.png">
+  <meta name="twitter:image" content="http://localhost:1313/articles/amplify-github-fix/featured-amplify-github-fix.png">
   <meta name="twitter:title" content="AWS Amplify builds broken after a GitHub rename? Here’s the fix the console can’t give you">
-<meta name="twitter:image" content="https://suzanamelo.com/articles/amplify-github-fix/featured-amplify-github-fix.png">
-    <meta property="og:image" content="https://suzanamelo.com/articles/amplify-github-fix/featured-amplify-github-fix.png">
+<meta name="twitter:image" content="http://localhost:1313/articles/amplify-github-fix/featured-amplify-github-fix.png">
+    <meta property="og:image" content="http://localhost:1313/articles/amplify-github-fix/featured-amplify-github-fix.png">
   <script type="application/ld+json">
   [{
     "@context": "https://schema.org",
@@ -127,7 +127,7 @@
     
     
     "inLanguage": "en",
-    "url" : "https:\/\/suzanamelo.com\/articles\/amplify-github-fix\/",
+    "url" : "http:\/\/localhost:1313\/articles\/amplify-github-fix\/",
     "author" : {
       "@type": "Person",
       "name": "Suzana Melo"
@@ -141,7 +141,7 @@
     "keywords": ["Tutorial","AWS Amplify","AWS","Cloud Computing","GitHub","AWS CLI"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "2371"
+    "wordCount": "2437"
   }]
   </script>
 
@@ -733,7 +733,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-06-16T21:34:17&#43;02:00">16 June 2026</time><span class="px-2 text-primary-500">&middot;</span><span>2371 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">12 mins</span>
+      <time datetime="2026-06-16T21:34:17&#43;02:00">16 June 2026</time><span class="px-2 text-primary-500">&middot;</span><span>2437 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">12 mins</span>
     
 
     
@@ -870,9 +870,9 @@
   
 </figure>
 </p>
-<p>Since I launched my blog last year, I have been hosting and managing it from AWS Amplify, and I couldn&rsquo;t be more satisfied.</p>
-<p>Amplify gave me all that it promised and more. It was super quick to connect my application to my GitHub repository, effortless to deploy, and it handles all the heavy lifting: monitoring, DNS setup, SSL/TLS, and global content delivery through CloudFront. And the best part? The CI/CD: every GitHub push triggers Amplify&rsquo;s CI/CD pipeline, which rebuilds and redeploys the site for me. Exactly what I wanted, ship fast, no complexities, learn later. The irony is that &ldquo;later&rdquo; came sooner than I expected.</p>
-<p>In fact, I soon realised there are scenarios where Amplify doesn&rsquo;t tell you when you&rsquo;re starting, and I hit one of them when I decided to update my GitHub username. It didn&rsquo;t take long to realise that my automated builds stopped working, and I didn&rsquo;t know what to do or how to fix it.</p>
+<p>My automated builds stopped working, and I had no idea why.</p>
+<p>I had been hosting and managing my blog on AWS Amplify since I launched it last year, and I couldn&rsquo;t be happier with it. Amplify gave me all that it promised and more. Quick to connect to GitHub, effortless to deploy, CI/CD out of the box. Every push to the repository rebuilt and redeployed the site for me. Exactly what I wanted: ship fast, sort the details later. Except &ldquo;later&rdquo; arrived sooner than I expected.</p>
+<p>In fact, I soon realised there are scenarios where Amplify doesn&rsquo;t tell you when you&rsquo;re starting, and I hit one of them when I decided to do what I thought was a simple thing. I updated my GitHub username. What followed was not what I expected.</p>
 <hr>
 
 <h2 class="relative group">What happened 
@@ -885,11 +885,13 @@
     
 </h2>
 <p>When I updated my GitHub username from <code>suzanamelomoraes</code> to <code>suzanamelo-m</code>, I didn&rsquo;t think about the obvious: all repository URLs change with it.</p>
-<p>AWS Amplify stores a hard link to the original repository URL, and, what I also didn&rsquo;t know, it cannot automatically follow username or repository renames. For example, from my old repo URL:</p>
+<p>What I also didn&rsquo;t know, AWS Amplify stores a hard link to the original repository URL it cannot automatically follow username or repository renames.</br>
+For example, from my old repo URL:</p>
 <pre tabindex="0"><code>https://github.com/suzanamelomoraes/suzanamelo
 </code></pre><p>to my new repo URL:</p>
 <pre tabindex="0"><code>https://github.com/suzanamelo-m/suzanamelo
-</code></pre><hr>
+</code></pre><p>The CI/CD stopped, and no updates I made on my application are going live. I was pushing my changes to my remote repository at <code>https://github.com/suzanamelo-m/suzanamelo</code>, while AWS Amplify was still reading from the previous URL.</p>
+<hr>
 
 <h2 class="relative group">What Amplify doesn&rsquo;t tell you when you&rsquo;re starting out 
     <div id="what-amplify-doesnt-tell-you-when-youre-starting-out" class="anchor"></div>
@@ -906,6 +908,7 @@
     target="_blank"
   >Amplify documentation for troubleshooting</a> suggestions. I didn&rsquo;t find anything related.</p>
 <p>I tried to reconnect to the repository by going to the Branch settings dropdown in App settings and clicking the &ldquo;Reconnect repository&rdquo; button. When someone renames their GitHub username, GitHub creates a redirect from the old URL to the new one, but only for a while. I thought that Amplify would just follow it. It didn&rsquo;t.</p>
+<p>GitHub&rsquo;s redirect is a browser-level courtesy. Amplify&rsquo;s webhook was registered against the original URL and doesn&rsquo;t follow it.</p>
 <p>
 
 
@@ -1090,7 +1093,7 @@ Credentials exist to authenticate your local machine or applications and authori
 <p>The AWS CLI command <code>aws login</code> lets you start building immediately after signing up for AWS, as easily as you do in the AWS Console. Running <code>aws login</code> in your terminal opens your default web browser to authenticate as you would via console.</p>
 <p>Once authorised in the browser, it creates short-lived, identity-based credentials for your command-line tasks, eliminating the need to use or store long-lived static access keys, which are always at risk of being exposed by accident, leading to security breaches.</p>
 <p>To get authenticated:</p>
-<p>&ndash; <strong>3a. Check your CLI version</strong>
+<p><strong>3a. Check your CLI version</strong>
 To use AWS login, you need to have AWS CLI version 2, which must be <code>2.32.0</code> or later.
 If you just installed the AWS CLI in the prerequisites step, jump to 3b below.</p>
 <p>To check the version you have, run:</p>
@@ -1100,7 +1103,7 @@ If you just installed the AWS CLI in the prerequisites step, jump to 3b below.</
     target="_blank"
   >Migration guide for the AWS CLI version 2</a> to learn about the differences between the versions and avoid any breakage.</p>
 <p>If there are no breaking changes, follow the Migration guide for the AWS CLI version 2. It covers both uninstalling v1 and installing v2.</p>
-<p>&ndash; <strong>3b. Log in and set up your Region</strong></p>
+<p><strong>3b. Log in and set up your Region</strong></p>
 <p>To start the login process, run:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws login
 </span></span></code></pre></div><p>If it’s the first time you run aws login or you have not set a default Region, the CLI prompts you to specify the AWS Region of your choice. You will see a prompt like that in your terminal:</p>
@@ -1192,11 +1195,11 @@ If you just installed the AWS CLI in the prerequisites step, jump to 3b below.</
     <figcaption>This screen confirms that your temporary credentials have been issued to the CLI. You can close the browser tab and return to your terminal</figcaption>
 </figure>
 </p>
-<p>&ndash; <strong>3c. Configure a named profile</strong></p>
+<p><strong>3c. Configure a named profile</strong></p>
 <p>You&rsquo;re now authenticated and ready to run CLI commands. If you&rsquo;re managing multiple projects or environments, you can also create a named profile to keep credentials organised. Choose a name that makes sense to you and your application. For this example, I’m going to call it <em>“blog”</em>.</p>
 <p>To create a profile, run <code>aws login</code> and set a name for your profile. The same command works when you want to authenticate specifically for this application.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws login --profile blog
-</span></span></code></pre></div><p>&ndash; <strong>3d. Update region later if needed</strong></p>
+</span></span></code></pre></div><p><strong>3d. Update region later if needed</strong></p>
 <p>As you previously saw when you ran that aws login for the first time, you are able to change the region in the CLI at any time with the command:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">aws configure <span class="nb">set</span> region NEW_REGION
 </span></span></code></pre></div><p>If you are updating your region under your profile (step 3c)</p>
@@ -1368,7 +1371,8 @@ If you just installed the AWS CLI in the prerequisites step, jump to 3b below.</
 <p>AWS Amplify hosting is an incredible tool, especially when you want to benefit from the AWS infrastructure (CloudFront, Route 53, IAM). In my case, I already had my custom domain and Route 53, which made the setup even smoother.</p>
 <p>It&rsquo;s also very handy when you want to avoid third-party services and rely on AWS native tools for authentication and databases.</p>
 <p>AWS Amplify focuses on enhancing the user experience and making it even easier to manage your applications through its UI console. But not every issue can be sorted in the UI console. We just covered one issue that Amplify can&rsquo;t protect you from, but now you know exactly how to handle it when it happens.</p>
-<p>If you&rsquo;ve hit a different Amplify wall and found your way out, I&rsquo;d genuinely love to hear how you did it. 🤗</p>
+<p>This fix taught me more than I expected. Not just about how Amplify manages repository connections, but about how the AWS CLI has evolved. <code>aws login</code> is a genuinely useful addition, and I want to write more about it properly.
+If you&rsquo;ve hit a different Amplify wall or you&rsquo;re curious about more CLI basics, let me know. Your comments or questions might become the next article. 🤗</p>
 <hr>
 
 <h2 class="relative group">Resources 
@@ -1691,7 +1695,7 @@ If you just installed the AWS CLI in the prerequisites step, jump to 3b below.</
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="https://suzanamelo.com/">
+  data-url="http://localhost:1313/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">

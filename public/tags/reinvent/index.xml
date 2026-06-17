@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Re:Invent on Suzana Melo - Empowering Through Tech &lt;/br&gt; Cloud, AWS &amp; AI for career changers and beginners</title>
-    <link>https://suzanamelo.com/tags/reinvent/</link>
+    <link>http://localhost:1313/tags/reinvent/</link>
     <description>Recent content in Re:Invent on Suzana Melo - Empowering Through Tech &lt;/br&gt; Cloud, AWS &amp; AI for career changers and beginners</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@suzanamelo.com (Suzana Melo)</managingEditor>
     <webMaster>hello@suzanamelo.com (Suzana Melo)</webMaster>
     <copyright>© 2026 Suzana Melo</copyright>
-    <lastBuildDate>Mon, 08 Dec 2025 18:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/reinvent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Dec 2025 18:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/reinvent/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Reflections on AWS re:Invent 2025: Flying to the Cloud and Beyond</title>
-      <link>https://suzanamelo.com/articles/flying-to-the-cloud-and-beyond/</link>
+      <link>http://localhost:1313/articles/flying-to-the-cloud-and-beyond/</link>
       <pubDate>Mon, 08 Dec 2025 18:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/articles/flying-to-the-cloud-and-beyond/</guid>
+      <guid>http://localhost:1313/articles/flying-to-the-cloud-and-beyond/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/flying-to-the-cloud-and-beyond/featured-cloud-tattoo.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/flying-to-the-cloud-and-beyond/featured-cloud-tattoo.jpg" />
     </item>
     
     <item>
       <title>The re:Invent Queens’ Guide: Tips You Should Know Before Landing in Vegas</title>
-      <link>https://suzanamelo.com/articles/reinvent-queens-guide/</link>
+      <link>http://localhost:1313/articles/reinvent-queens-guide/</link>
       <pubDate>Wed, 29 Oct 2025 19:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/articles/reinvent-queens-guide/</guid>
+      <guid>http://localhost:1313/articles/reinvent-queens-guide/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/reinvent-queens-guide/featured-queens.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/reinvent-queens-guide/featured-queens.png" />
     </item>
     
     <item>
       <title>How the AWS All Builders Welcome Grant Changed My Life Forever And Why You Should Apply</title>
-      <link>https://suzanamelo.com/articles/aws-all-builders-welcome-grant-2024/</link>
+      <link>http://localhost:1313/articles/aws-all-builders-welcome-grant-2024/</link>
       <pubDate>Tue, 24 Jun 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/articles/aws-all-builders-welcome-grant-2024/</guid>
+      <guid>http://localhost:1313/articles/aws-all-builders-welcome-grant-2024/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/aws-all-builders-welcome-grant-2024/featured-grant-2024.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/aws-all-builders-welcome-grant-2024/featured-grant-2024.jpg" />
     </item>
     
     <item>
       <title>My Favorite AWS re:Invent Guides that Literally Saved My Life in Las Vegas and My Golden Advice</title>
-      <link>https://suzanamelo.com/articles/my-favorite-reinvent-guides-2024/</link>
+      <link>http://localhost:1313/articles/my-favorite-reinvent-guides-2024/</link>
       <pubDate>Mon, 09 Jun 2025 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/articles/my-favorite-reinvent-guides-2024/</guid>
+      <guid>http://localhost:1313/articles/my-favorite-reinvent-guides-2024/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/my-favorite-reinvent-guides-2024/featured-reinvent.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/my-favorite-reinvent-guides-2024/featured-reinvent.jpg" />
     </item>
     
     <item>
       <title>Reflections on AWS re:Invent 2024: Why You Don’t Need to Be Senior to Make a Difference in Tech</title>
-      <link>https://suzanamelo.com/articles/reflections-reinvent-2024/</link>
+      <link>http://localhost:1313/articles/reflections-reinvent-2024/</link>
       <pubDate>Tue, 05 Nov 2024 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/articles/reflections-reinvent-2024/</guid>
+      <guid>http://localhost:1313/articles/reflections-reinvent-2024/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/reflections-reinvent-2024/featured-EMEAaward.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/reflections-reinvent-2024/featured-EMEAaward.jpg" />
     </item>
     
   </channel>
