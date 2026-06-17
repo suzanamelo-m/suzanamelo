@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on Suzana Melo - Empowering Through Tech &lt;/br&gt; Cloud, AWS &amp; AI for career changers and beginners</title>
-    <link>http://localhost:1313/tags/tutorial/</link>
+    <link>https://suzanamelo.com/tags/tutorial/</link>
     <description>Recent content in Tutorial on Suzana Melo - Empowering Through Tech &lt;/br&gt; Cloud, AWS &amp; AI for career changers and beginners</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@suzanamelo.com (Suzana Melo)</managingEditor>
     <webMaster>hello@suzanamelo.com (Suzana Melo)</webMaster>
     <copyright>© 2026 Suzana Melo</copyright>
-    <lastBuildDate>Mon, 15 Jun 2026 21:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 21:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AWS Amplify builds broken after a GitHub rename? Here’s the fix the console can’t give you</title>
-      <link>http://localhost:1313/articles/amplify-github-fix/</link>
-      <pubDate>Mon, 15 Jun 2026 21:34:17 +0200</pubDate>
+      <link>https://suzanamelo.com/articles/amplify-github-fix/</link>
+      <pubDate>Tue, 16 Jun 2026 21:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/articles/amplify-github-fix/</guid>
+      <guid>https://suzanamelo.com/articles/amplify-github-fix/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/amplify-github-fix/featured-amplify-github-fix.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/amplify-github-fix/featured-amplify-github-fix.png" />
     </item>
     
     <item>
       <title>From Procrastination to Publishing: How AWS Amplify Helped Me Finally Start Blogging</title>
-      <link>http://localhost:1313/articles/amplify-blog/</link>
+      <link>https://suzanamelo.com/articles/amplify-blog/</link>
       <pubDate>Sun, 09 Nov 2025 21:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/articles/amplify-blog/</guid>
+      <guid>https://suzanamelo.com/articles/amplify-blog/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/amplify-blog/featured-amplify-blog.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/amplify-blog/featured-amplify-blog.png" />
     </item>
     
     <item>
       <title>Tracking events effectively in Web Browsers with Mini Digital</title>
-      <link>http://localhost:1313/articles/tracking-events/</link>
+      <link>https://suzanamelo.com/articles/tracking-events/</link>
       <pubDate>Fri, 18 Aug 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/articles/tracking-events/</guid>
+      <guid>https://suzanamelo.com/articles/tracking-events/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/tracking-events/featured-ConnecWallet.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/tracking-events/featured-ConnecWallet.png" />
     </item>
     
     <item>
       <title>Building a Loan Calculator using React Hooks</title>
-      <link>http://localhost:1313/articles/loan-calculator/</link>
+      <link>https://suzanamelo.com/articles/loan-calculator/</link>
       <pubDate>Thu, 03 Sep 2020 14:24:19 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>http://localhost:1313/articles/loan-calculator/</guid>
+      <guid>https://suzanamelo.com/articles/loan-calculator/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/loan-calculator/featured-ReactHooks.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/loan-calculator/featured-ReactHooks.png" />
     </item>
     
   </channel>
