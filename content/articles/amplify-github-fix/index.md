@@ -1,5 +1,5 @@
 +++
-date = '2026-06-15T21:34:17+02:00'
+date = '2026-06-16T21:34:17+02:00'
 draft = false
 title = 'AWS Amplify builds broken after a GitHub rename? Here’s the fix the console can’t give you'
 tags = ['Tutorial', 'AWS Amplify', 'AWS', 'Cloud Computing', 'GitHub', 'AWS CLI']
@@ -75,8 +75,8 @@ Since my repository is on GitHub, I'm describing the fix I made to it. I'll leav
 
 Before running the fix, you need:
 
-- The AWS CLI installed on your machine (you can check out how to do it [here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html))
-- Access to the AWS Console (to find your App ID and create access keys)
+- The AWS Command Line Interface (AWS CLI) installed on your machine (you can check out how to do it [here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html))
+- Access to the AWS Console (to find your App ID)
 - A GitHub Personal Access Token with `repo` scope (use `oauthToken` for Bitbucket and CodeCommit)
 - Your Amplify App ID
 
@@ -109,77 +109,87 @@ Before running the fix, you need:
 
 ---
 
-#### Step 3 — Set Up AWS CLI Credentials (Named Profile)
+#### Step 3 — Set Up AWS CLI Credentials (`aws login`)
 
-Before you can run any AWS CLI command, your machine needs to know who you are. That's what credentials are for. They exist to authenticate your local machine or applications and authorise programmatic requests to Amazon Web Services.
+Before you can run any AWS CLI command in your terminal, you need to get AWS credentials for local development.
+Credentials exist to authenticate your local machine or applications and authorise programmatic requests to Amazon Web Services.
 
-Some of its core components (depending on your setup) are:
+The AWS CLI command `aws login` lets you start building immediately after signing up for AWS, as easily as you do in the AWS Console. Running `aws login` in your terminal opens your default web browser to authenticate as you would via console.
 
-- **Access Key ID:** A unique, public identifier string (like a username).
-- **Secret Access Key:** A hidden string (like a password).
+Once authorised in the browser, it creates short-lived, identity-based credentials for your command-line tasks, eliminating the need to use or store long-lived static access keys, which are always at risk of being exposed by accident, leading to security breaches.
 
-If your terminal doesn't know your AWS identity, any command you try to run to manage your AWS services will fail. Here we will set up your credentials and create a profile name for them, so you can easily identify your projects and/or environments (you can learn more about profiles at the end of this article in the _"Going further: managing multiple AWS environments"_ section).
+To get authenticated:
 
-Using a named profile keeps credentials for different projects isolated.</br>
-To create one:
+-- **3a. Check your CLI version**
+To use AWS login, you need to have AWS CLI version 2, which must be `2.32.0` or later.
+If you just installed the AWS CLI in the prerequisites step, jump to 3b below.
 
-**3a. Check existing credentials**
-
-```bash
-cat ~/.aws/credentials
-cat ~/.aws/config
-```
-
-If the files don't exist, no credentials are configured yet.
-
-**3b. Get your AWS Access and Secret Keys**
-
-1. Go to the [AWS IAM Console](https://console.aws.amazon.com/iam/)
-2. Click **Users** → select your user for the project you need to manage from the CLI
-3. Go to the **Security credentials** tab
-4. Scroll to **Access keys** → click **Create access key**
-5. Copy both the **Access Key ID** and **Secret Access Key**
-
-**3c. Configure a named profile**
-
-Choose a name that makes sense to you and your project. For this example, I'm going to call it `blog` and use `us-east-1` as the region.
+To check the version you have, run:
 
 ```bash
-aws configure --profile blog
+aws --version
 ```
 
-It will prompt for:
+If your version is older than `2.32.0`, take a look at the [Migration guide for the AWS CLI version 2](https://docs.aws.amazon.com/cli/latest/userguide/cliv2-migration.html) to learn about the differences between the versions and avoid any breakage.
+
+If there are no breaking changes, follow the Migration guide for the AWS CLI version 2. It covers both uninstalling v1 and installing v2.
+
+-- **3b. Log in and set up your Region**
+
+To start the login process, run:
 
 ```bash
-AWS Access Key ID: YOUR_ACCESS_KEY_ID
-AWS Secret Access Key: YOUR_SECRET_ACCESS_KEY
-Default region name: us-east-1   #your Amplify project region
-Default output format: json
+aws login
 ```
 
-**3d. Update region later if needed**
-
-_Option A_ — Re-run the configure command to update any value:
+If it’s the first time you run aws login or you have not set a default Region, the CLI prompts you to specify the AWS Region of your choice. You will see a prompt like that in your terminal:
 
 ```bash
-aws configure --profile blog
+No AWS region has been configured. The AWS region is the geographic location of your AWS resources.
+If you have used AWS before and already have resources in your account, specify which region they were created in. If you have not created resources in your account before, you can pick the region closest to you: https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions.html.
+
+You are able to change the region in the CLI at any time with the command "aws configure set region NEW_REGION".
+AWS Region [us-east-1]:
+
 ```
 
-_Option B_ — Edit the config file directly:
+Once you define your region, the CLI will open a sign-in session in your default browser, and you will see the sign-in options page.
+
+![AWS sign-in page showing authentication options after running aws login](/img/aws-login.png "After running `aws login`, your browser opens to this page. Select 'Continue with Root or IAM user' to sign in with your IAM credentials")
+
+Select “Continue with Root or IAM user” and log in to your AWS account as you would normally.
+
+> Even though you will see a button saying “Continue with Root or IAM user”, AWS best practices recommend avoiding using the Root account for those types of tasks. The recommendation is to create a user to manage your project and give it only the access it needs.
+
+![AWS IAM user sign-in form requesting account ID, IAM username, and password](/img/iam-user-login.png "This is the same login screen you use to access the AWS Console. sign in with your IAM user credentials, not your root account")
+
+Once you finish the sign-in process, you will be directed to a screen confirming that your credentials have been shared successfully.
+
+![AWS sign-in success screen confirming that credentials have been shared with the AWS CLI](/img/aws-login-success.png "This screen confirms that your temporary credentials have been issued to the CLI. You can close the browser tab and return to your terminal")
+
+-- **3c. Configure a named profile**
+
+You're now authenticated and ready to run CLI commands. If you're managing multiple projects or environments, you can also create a named profile to keep credentials organised. Choose a name that makes sense to you and your application. For this example, I’m going to call it _“blog”_.
+
+To create a profile, run `aws login` and set a name for your profile. The same command works when you want to authenticate specifically for this application.
 
 ```bash
-nano ~/.aws/config
+aws login --profile blog
 ```
 
-The file will look like:
+-- **3d. Update region later if needed**
 
-```
-[profile blog]
-region = us-east-1
-output = json
+As you previously saw when you ran that aws login for the first time, you are able to change the region in the CLI at any time with the command:
+
+```bash
+aws configure set region NEW_REGION
 ```
 
-Save: `Ctrl+O` → `Enter` → `Ctrl+X`
+If you are updating your region under your profile (step 3c)
+
+```bash
+aws configure set region NEW_REGION --profile blog
+```
 
 ---
 
@@ -193,7 +203,7 @@ aws amplify update-app \
   --repository https://github.com/NEW_USERNAME/REPO_NAME \
   --access-token YOUR_GITHUB_TOKEN \
   --region YOUR_REGION \
-  --profile blog
+  --profile blog  # omit this line if you skipped step 3c
 ```
 
 A successful response will include JSON output with your app details. Here is what the structure looks like, with sensitive values redacted:
@@ -273,6 +283,8 @@ You can use AWS profiles for a variety of management cases, for example, to sepa
 
 List all configured profiles:
 
+> If you authenticated using `aws login`, your credentials are temporary and won't appear here. Use `aws sts get-caller-identity --profile blog` to verify your active session instead.
+
 ```bash
 cat ~/.aws/credentials
 cat ~/.aws/config
@@ -299,8 +311,7 @@ aws sts get-caller-identity --profile blog
 Update a profile's region:
 
 ```bash
-aws configure --profile blog
-# Just press Enter to keep existing values, and type the new region when prompted
+aws configure set region NEW_REGION --profile blog
 ```
 
 Delete a profile — manually remove the relevant block from both files:
@@ -330,7 +341,8 @@ If you've hit a different Amplify wall and found your way out, I'd genuinely lov
 - **AWS CLI installation guide:** https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 - **AWS CLI `update-app` full reference:** https://docs.aws.amazon.com/cli/latest/reference/amplify/update-app.html
 - **GitHub Personal Access Tokens (classic):** https://github.com/settings/tokens
-- **AWS IAM — managing access keys:** https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html
+- **AWS login:** https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sign-in.html
+- **Simplified developer access to AWS with ‘aws login’:** https://aws.amazon.com/blogs/security/simplified-developer-access-to-aws-with-aws-login/
 - **AWS Amplify Troubleshooting:** https://docs.amplify.aws/react/build-a-backend/troubleshooting/
 - **The `start-job` CLI reference:** https://docs.aws.amazon.com/cli/latest/reference/amplify/start-job.html
 - **Migrating from OAuth to the Amplify GitHub App (for users on older setups):** https://docs.aws.amazon.com/amplify/latest/userguide/setting-up-GitHub-access.html
