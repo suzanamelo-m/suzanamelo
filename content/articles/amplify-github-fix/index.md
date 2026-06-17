@@ -7,11 +7,11 @@ tags = ['Tutorial', 'AWS Amplify', 'AWS', 'Cloud Computing', 'GitHub', 'AWS CLI'
 
 ![Amplify GitHub Fix Banner](/img/amplify-github-fix.png)
 
-Since I launched my blog last year, I have been hosting and managing it from AWS Amplify, and I couldn't be more satisfied.
+My automated builds stopped working, and I had no idea why.
 
-Amplify gave me all that it promised and more. It was super quick to connect my application to my GitHub repository, effortless to deploy, and it handles all the heavy lifting: monitoring, DNS setup, SSL/TLS, and global content delivery through CloudFront. And the best part? The CI/CD: every GitHub push triggers Amplify's CI/CD pipeline, which rebuilds and redeploys the site for me. Exactly what I wanted, ship fast, no complexities, learn later. The irony is that "later" came sooner than I expected.
+I had been hosting and managing my blog on AWS Amplify since I launched it last year, and I couldn't be happier with it. Amplify gave me all that it promised and more. Quick to connect to GitHub, effortless to deploy, CI/CD out of the box. Every push to the repository rebuilt and redeployed the site for me. Exactly what I wanted: ship fast, sort the details later. Except "later" arrived sooner than I expected.
 
-In fact, I soon realised there are scenarios where Amplify doesn't tell you when you're starting, and I hit one of them when I decided to update my GitHub username. It didn't take long to realise that my automated builds stopped working, and I didn't know what to do or how to fix it.
+In fact, I soon realised there are scenarios where Amplify doesn't tell you when you're starting, and I hit one of them when I decided to do what I thought was a simple thing. I updated my GitHub username. What followed was not what I expected.
 
 ---
 
@@ -19,7 +19,8 @@ In fact, I soon realised there are scenarios where Amplify doesn't tell you when
 
 When I updated my GitHub username from `suzanamelomoraes` to `suzanamelo-m`, I didn't think about the obvious: all repository URLs change with it.
 
-AWS Amplify stores a hard link to the original repository URL, and, what I also didn't know, it cannot automatically follow username or repository renames. For example, from my old repo URL:
+What I also didn't know, AWS Amplify stores a hard link to the original repository URL it cannot automatically follow username or repository renames.</br>
+For example, from my old repo URL:
 
 ```
 https://github.com/suzanamelomoraes/suzanamelo
@@ -31,6 +32,8 @@ to my new repo URL:
 https://github.com/suzanamelo-m/suzanamelo
 ```
 
+The CI/CD stopped, and no updates I made on my application are going live. I was pushing my changes to my remote repository at `https://github.com/suzanamelo-m/suzanamelo`, while AWS Amplify was still reading from the previous URL.
+
 ---
 
 ## What Amplify doesn't tell you when you're starting out
@@ -40,6 +43,8 @@ I jumped to AWS Amplify to try to learn how to fix the issue. I went to the AWS 
 I consulted the [Amplify documentation for troubleshooting](https://docs.amplify.aws/react/build-a-backend/troubleshooting/) suggestions. I didn't find anything related.
 
 I tried to reconnect to the repository by going to the Branch settings dropdown in App settings and clicking the "Reconnect repository" button. When someone renames their GitHub username, GitHub creates a redirect from the old URL to the new one, but only for a while. I thought that Amplify would just follow it. It didn't.
+
+GitHub's redirect is a browser-level courtesy. Amplify's webhook was registered against the original URL and doesn't follow it.
 
 ![AWS Amplify Reconnect Repository button](/img/amplify-reconnect-repository.png "The 'Reconnect repository' button won't fix a broken webhook caused by a username rename")
 
@@ -120,7 +125,7 @@ Once authorised in the browser, it creates short-lived, identity-based credentia
 
 To get authenticated:
 
--- **3a. Check your CLI version**
+**3a. Check your CLI version**
 To use AWS login, you need to have AWS CLI version 2, which must be `2.32.0` or later.
 If you just installed the AWS CLI in the prerequisites step, jump to 3b below.
 
@@ -134,7 +139,7 @@ If your version is older than `2.32.0`, take a look at the [Migration guide for 
 
 If there are no breaking changes, follow the Migration guide for the AWS CLI version 2. It covers both uninstalling v1 and installing v2.
 
--- **3b. Log in and set up your Region**
+**3b. Log in and set up your Region**
 
 To start the login process, run:
 
@@ -167,7 +172,7 @@ Once you finish the sign-in process, you will be directed to a screen confirming
 
 ![AWS sign-in success screen confirming that credentials have been shared with the AWS CLI](/img/aws-login-success.png "This screen confirms that your temporary credentials have been issued to the CLI. You can close the browser tab and return to your terminal")
 
--- **3c. Configure a named profile**
+**3c. Configure a named profile**
 
 You're now authenticated and ready to run CLI commands. If you're managing multiple projects or environments, you can also create a named profile to keep credentials organised. Choose a name that makes sense to you and your application. For this example, I’m going to call it _“blog”_.
 
@@ -177,7 +182,7 @@ To create a profile, run `aws login` and set a name for your profile. The same c
 aws login --profile blog
 ```
 
--- **3d. Update region later if needed**
+**3d. Update region later if needed**
 
 As you previously saw when you ran that aws login for the first time, you are able to change the region in the CLI at any time with the command:
 
@@ -331,7 +336,8 @@ It's also very handy when you want to avoid third-party services and rely on AWS
 
 AWS Amplify focuses on enhancing the user experience and making it even easier to manage your applications through its UI console. But not every issue can be sorted in the UI console. We just covered one issue that Amplify can't protect you from, but now you know exactly how to handle it when it happens.
 
-If you've hit a different Amplify wall and found your way out, I'd genuinely love to hear how you did it. 🤗
+This fix taught me more than I expected. Not just about how Amplify manages repository connections, but about how the AWS CLI has evolved. `aws login` is a genuinely useful addition, and I want to write more about it properly.
+If you've hit a different Amplify wall or you're curious about more CLI basics, let me know. Your comments or questions might become the next article. 🤗
 
 ---
 
