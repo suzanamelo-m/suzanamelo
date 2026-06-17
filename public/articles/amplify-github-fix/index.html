@@ -141,7 +141,7 @@
     "keywords": ["Tutorial","AWS Amplify","AWS","Cloud Computing","GitHub","AWS CLI"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "2437"
+    "wordCount": "2435"
   }]
   </script>
 
@@ -733,7 +733,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-06-16T21:34:17&#43;02:00">16 June 2026</time><span class="px-2 text-primary-500">&middot;</span><span>2437 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">12 mins</span>
+      <time datetime="2026-06-16T21:34:17&#43;02:00">16 June 2026</time><span class="px-2 text-primary-500">&middot;</span><span>2435 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">12 mins</span>
     
 
     
@@ -885,7 +885,7 @@
     
 </h2>
 <p>When I updated my GitHub username from <code>suzanamelomoraes</code> to <code>suzanamelo-m</code>, I didn&rsquo;t think about the obvious: all repository URLs change with it.</p>
-<p>What I also didn&rsquo;t know, AWS Amplify stores a hard link to the original repository URL it cannot automatically follow username or repository renames.</br>
+<p>What I also didn&rsquo;t know is that AWS Amplify stores a hard link to the original repository URL and cannot automatically follow username or repository renames. </br>
 For example, from my old repo URL:</p>
 <pre tabindex="0"><code>https://github.com/suzanamelomoraes/suzanamelo
 </code></pre><p>to my new repo URL:</p>
@@ -945,7 +945,7 @@ For example, from my old repo URL:</p>
     </span>        
     
 </h3>
-<p>Finally, I searched the internet, asked AI for help, and found that I wouldn&rsquo;t be able to find the fix in the AWS Amplify console. Changing the repository URL directly in the Amplify Console is not supported; GitHub&rsquo;s automatic redirect doesn&rsquo;t fix Amplify&rsquo;s broken webhook. The hard link must be updated via CLI.</p>
+<p>Finally, I searched the internet, asked AI for help, and found that I couldn&rsquo;t find the fix in the AWS Amplify console. Changing the repository URL directly in the Amplify Console is not supported; GitHub&rsquo;s automatic redirect doesn&rsquo;t fix Amplify&rsquo;s broken webhook. The hard link must be updated via CLI.</p>
 <hr>
 
 <h2 class="relative group">When you need to use the update-app command 
@@ -1091,7 +1091,7 @@ For example, from my old repo URL:</p>
 <p>Before you can run any AWS CLI command in your terminal, you need to get AWS credentials for local development.
 Credentials exist to authenticate your local machine or applications and authorise programmatic requests to Amazon Web Services.</p>
 <p>The AWS CLI command <code>aws login</code> lets you start building immediately after signing up for AWS, as easily as you do in the AWS Console. Running <code>aws login</code> in your terminal opens your default web browser to authenticate as you would via console.</p>
-<p>Once authorised in the browser, it creates short-lived, identity-based credentials for your command-line tasks, eliminating the need to use or store long-lived static access keys, which are always at risk of being exposed by accident, leading to security breaches.</p>
+<p>Once authorised in the browser, it creates short-lived, identity-based credentials for your command-line tasks, eliminating the need to use or store long-lived static access keys, which are always at risk of accidental exposure, leading to security breaches.</p>
 <p>To get authenticated:</p>
 <p><strong>3a. Check your CLI version</strong>
 To use AWS login, you need to have AWS CLI version 2, which must be <code>2.32.0</code> or later.
@@ -1316,7 +1316,7 @@ If you just installed the AWS CLI in the prerequisites step, jump to 3b below.</
 <li>Click <strong>Delete</strong></li>
 </ol>
 <blockquote>
-<p>The Amplify connection will continue working after the token is deleted. The token was only needed for the one-time <code>update-app</code> command, not for ongoing builds.</p></blockquote>
+<p>The Amplify connection will continue to work after the token is deleted. The token was only needed for the one-time <code>update-app</code> command, not for ongoing builds.</p></blockquote>
 <hr>
 
 <h2 class="relative group">Going further: managing multiple AWS environments 

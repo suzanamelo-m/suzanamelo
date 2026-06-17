@@ -19,7 +19,7 @@ In fact, I soon realised there are scenarios where Amplify doesn't tell you when
 
 When I updated my GitHub username from `suzanamelomoraes` to `suzanamelo-m`, I didn't think about the obvious: all repository URLs change with it.
 
-What I also didn't know, AWS Amplify stores a hard link to the original repository URL it cannot automatically follow username or repository renames.</br>
+What I also didn't know is that AWS Amplify stores a hard link to the original repository URL and cannot automatically follow username or repository renames. </br>
 For example, from my old repo URL:
 
 ```
@@ -50,7 +50,7 @@ GitHub's redirect is a browser-level courtesy. Amplify's webhook was registered 
 
 ### The finding
 
-Finally, I searched the internet, asked AI for help, and found that I wouldn't be able to find the fix in the AWS Amplify console. Changing the repository URL directly in the Amplify Console is not supported; GitHub's automatic redirect doesn't fix Amplify's broken webhook. The hard link must be updated via CLI.
+Finally, I searched the internet, asked AI for help, and found that I couldn't find the fix in the AWS Amplify console. Changing the repository URL directly in the Amplify Console is not supported; GitHub's automatic redirect doesn't fix Amplify's broken webhook. The hard link must be updated via CLI.
 
 ---
 
@@ -121,7 +121,7 @@ Credentials exist to authenticate your local machine or applications and authori
 
 The AWS CLI command `aws login` lets you start building immediately after signing up for AWS, as easily as you do in the AWS Console. Running `aws login` in your terminal opens your default web browser to authenticate as you would via console.
 
-Once authorised in the browser, it creates short-lived, identity-based credentials for your command-line tasks, eliminating the need to use or store long-lived static access keys, which are always at risk of being exposed by accident, leading to security breaches.
+Once authorised in the browser, it creates short-lived, identity-based credentials for your command-line tasks, eliminating the need to use or store long-lived static access keys, which are always at risk of accidental exposure, leading to security breaches.
 
 To get authenticated:
 
@@ -272,7 +272,7 @@ aws amplify start-job \
 2. Find the token you created
 3. Click **Delete**
 
-> The Amplify connection will continue working after the token is deleted. The token was only needed for the one-time `update-app` command, not for ongoing builds.
+> The Amplify connection will continue to work after the token is deleted. The token was only needed for the one-time `update-app` command, not for ongoing builds.
 
 ---
 
