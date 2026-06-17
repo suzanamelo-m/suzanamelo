@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GitHub on Suzana Melo - Empowering Through Tech &lt;/br&gt; Cloud, AWS &amp; AI for career changers and beginners</title>
-    <link>https://suzanamelo.com/tags/github/</link>
+    <link>http://localhost:1313/tags/github/</link>
     <description>Recent content in GitHub on Suzana Melo - Empowering Through Tech &lt;/br&gt; Cloud, AWS &amp; AI for career changers and beginners</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@suzanamelo.com (Suzana Melo)</managingEditor>
     <webMaster>hello@suzanamelo.com (Suzana Melo)</webMaster>
     <copyright>© 2026 Suzana Melo</copyright>
-    <lastBuildDate>Mon, 15 Jun 2026 21:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jun 2026 21:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AWS Amplify builds broken after a GitHub rename? Here’s the fix the console can’t give you</title>
-      <link>https://suzanamelo.com/articles/amplify-github-fix/</link>
+      <link>http://localhost:1313/articles/amplify-github-fix/</link>
       <pubDate>Mon, 15 Jun 2026 21:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/articles/amplify-github-fix/</guid>
+      <guid>http://localhost:1313/articles/amplify-github-fix/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/amplify-github-fix/featured-amplify-github-fix.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/amplify-github-fix/featured-amplify-github-fix.png" />
     </item>
     
   </channel>
