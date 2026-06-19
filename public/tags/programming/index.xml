@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Suzana Melo - Empowering Through Tech &lt;/br&gt; Cloud, AWS &amp; AI for career changers and beginners</title>
-    <link>https://suzanamelo.com/tags/programming/</link>
+    <link>http://localhost:1313/tags/programming/</link>
     <description>Recent content in Programming on Suzana Melo - Empowering Through Tech &lt;/br&gt; Cloud, AWS &amp; AI for career changers and beginners</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>hello@suzanamelo.com (Suzana Melo)</managingEditor>
     <webMaster>hello@suzanamelo.com (Suzana Melo)</webMaster>
     <copyright>© 2026 Suzana Melo</copyright>
-    <lastBuildDate>Fri, 18 Aug 2023 23:34:17 +0200</lastBuildDate><atom:link href="https://suzanamelo.com/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 23:34:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tracking events effectively in Web Browsers with Mini Digital</title>
-      <link>https://suzanamelo.com/articles/tracking-events/</link>
+      <link>http://localhost:1313/articles/tracking-events/</link>
       <pubDate>Fri, 18 Aug 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/articles/tracking-events/</guid>
+      <guid>http://localhost:1313/articles/tracking-events/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/tracking-events/featured-ConnecWallet.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/tracking-events/featured-ConnecWallet.png" />
     </item>
     
     <item>
       <title>Three things I loved most about Next.js 13.4 so far</title>
-      <link>https://suzanamelo.com/articles/three-things-about-next/</link>
+      <link>http://localhost:1313/articles/three-things-about-next/</link>
       <pubDate>Thu, 08 Jun 2023 23:34:17 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/articles/three-things-about-next/</guid>
+      <guid>http://localhost:1313/articles/three-things-about-next/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/three-things-about-next/featured-nextjs.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/three-things-about-next/featured-nextjs.png" />
     </item>
     
     <item>
       <title>Building a Loan Calculator using React Hooks</title>
-      <link>https://suzanamelo.com/articles/loan-calculator/</link>
+      <link>http://localhost:1313/articles/loan-calculator/</link>
       <pubDate>Thu, 03 Sep 2020 14:24:19 +0200</pubDate>
       <author>hello@suzanamelo.com (Suzana Melo)</author>
-      <guid>https://suzanamelo.com/articles/loan-calculator/</guid>
+      <guid>http://localhost:1313/articles/loan-calculator/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://suzanamelo.com/articles/loan-calculator/featured-ReactHooks.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/loan-calculator/featured-ReactHooks.png" />
     </item>
     
   </channel>
