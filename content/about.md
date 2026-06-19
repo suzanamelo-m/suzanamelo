@@ -19,13 +19,13 @@ That path wasn't linear. But it's the reason I write here. Because I've been exa
 
 ---
 
-My engineering background spans TypeScript, Node.js, React, Next.js, and AWS serverless with production experience across AI-powered platforms, APIs, and internal developer tooling. I'm now deepening that foundation in AI and machine learning: enrolled in a postgraduate specialization at PUC Minas and building applied AI projects, which I'll write about as I go.
+My engineering background spans TypeScript, Node.js, React, Next.js, and AWS serverless with production experience across AI-powered platforms, APIs, and internal developer tooling. I'm now deepening that foundation in AI and machine learning: enrolled in a postgraduate specialisation at PUC Minas and building applied AI projects, which I'll write about as I go.
 
 Before tech, I spent 20+ years as a journalist, editor, and media director in Brazil. I led teams, managed newsrooms under daily deadline pressure, and learned to explain complex things to large audiences. That background didn't disappear when I became an engineer, which is why I can write a technical article that reaches 14,000 readers or deliver an AI curriculum to non-technical learners in a second language.
 
 ---
 
-Community is central to everything I do in tech. As an AWS Community Builder since 2023, I write articles, deliver talks, and mentor women entering cloud computing across EMEA, APAC, and LATAM. I co-organise AWS Community Day Baltic, mentor women transitioning into cloud careers through Women Innovating in Cloud Africa and Escola da Nuvem in Brazil and have founded and led developer communities in New Zealand and Sweden — including the AWS Women's User Group Sweden. Before that, while living in Auckland, I founded the Auckland AWS Tools and Programming meetup and co-organised the Full-Stack Engineering Auckland community for 4+ years.
+Community is central to everything I do in tech. As an AWS Community Builder since 2023, I write articles, deliver talks, and mentor women entering cloud computing across Europe, the Middle East, Africa, Asia-Pacific, and the Americas. I co-organise AWS Community Day Baltic, mentor women transitioning into cloud careers through non-profits such as Women Innovating in Cloud Africa's CloudHER program and Escola da Nuvem in Brazil, and have founded and led developer communities in New Zealand and Sweden — including the AWS Women's User Group Sweden. Before that, while living in Auckland, I founded the Auckland AWS Tools and Programming meetup and co-organised the Full-Stack Engineering Auckland community for 4+ years.
 
 **See the full picture of my community work →** [Community](/community)
 
