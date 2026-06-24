@@ -25,7 +25,7 @@ Before tech, I spent 20+ years as a journalist, editor, and media director in Br
 
 ---
 
-Community is central to everything I do in tech. As an AWS Community Builder since 2023, I write articles, deliver talks, and mentor women entering cloud computing across Europe, the Middle East, Africa, Asia-Pacific, and the Americas. I co-organise AWS Community Day Baltic, mentor women transitioning into cloud careers through non-profits such as Women Innovating in Cloud Africa's CloudHER program and Escola da Nuvem in Brazil, and have founded and led developer communities in New Zealand and Sweden, including the AWS Women's User Group Sweden. Before that, while living in Auckland, I founded the Auckland AWS Tools and Programming meetup and co-organised the Full-Stack Engineering Auckland community for 4+ years.
+Community is central to everything I do in tech. As an AWS Community Builder since 2023, I write articles, deliver talks, and mentor women entering cloud computing across Europe, the West Asia, Africa, Asia-Pacific, and the Americas. I co-organise AWS Community Day Baltic, mentor women transitioning into cloud careers through non-profits such as Women Innovating in Cloud Africa's CloudHER program and Escola da Nuvem in Brazil, and have founded and led developer communities in New Zealand and Sweden, including the AWS Women's User Group Sweden. Before that, while living in Auckland, I founded the Auckland AWS Tools and Programming meetup and co-organised the Full-Stack Engineering Auckland community for 4+ years.
 
 **See the full picture of my community work →** [Community](/community)
 
