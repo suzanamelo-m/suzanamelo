@@ -64,7 +64,7 @@ If any of this sounds like where you are → [start here](/articles)
 
 **AWS Knowledge: Cloud Essentials** - AWS - Sep 2024
 
-**AWS Cloud Practitioner certificate** - AWS - Mar 2023
+**AWS Certified Cloud Practitioner** - AWS - Mar 2026 (renewed)
 
 ---
 
