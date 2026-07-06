@@ -13,7 +13,7 @@ I focus on the people who don't yet see themselves as belonging in tech: women, 
 
 ---
 
-**14,000+ readers per article · 4,000+ session viewers across EMEA, APAC, and LATAM · AWS re:Invent 2024 speaker · Mentoring women in cloud across Africa, Brazil, and Sweden**
+**14,000+ readers per article · 4,000+ session viewers across Europe, Africa, Asia-Pacific, and Americas · AWS re:Invent 2024 speaker · Mentoring women in cloud across Africa, Brazil, and Sweden**
 
 **Full speaking history and session abstracts →**[Speaking](/speaking)
 
@@ -73,9 +73,7 @@ Created content and managed social media to support the mission of inspiring and
 I mentor women entering cloud computing through two structured programs:
 [WIICA's CloudHER program](hhttps://wicafrica.org/) (supporting women across Africa) and
 [Escola da Nuvem](https://escoladanuvem.org/) (supporting underserved communities in Brazil).
-I also provide individual mentoring through my AWS Community Builder work,
-helping people assess where to start, recommending learning paths, and
-supporting their first steps into the field.
+I also provide individual mentoring through my AWS Community Builder work, helping people assess where to start, recommending learning paths, and supporting their first steps into the field.
 
 My focus is always on people who feel like outsiders in tech, because that's exactly where I started.
 
