@@ -1,0 +1,19 @@
+# Hugo build artifacts
+/public/
+/resources/_gen/
+.hugo_build.lock
+hugo_stats.json
+
+# Local Amplify build caches (match amplify.yml cache paths)
+/.hugo/
+/.npm/
+
+# Node (if used for Blowfish/Tailwind tooling)
+node_modules/
+
+# OS
+.DS_Store
+
+# Environment / local secrets
+.env
+.env.*
