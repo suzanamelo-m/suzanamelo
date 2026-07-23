@@ -1,4 +1,4 @@
-# Suzana Melo's Blog — Empower Through Tech
+# Suzana Melo's Blog — Empowering Through Tech
 
 ![Suzana Melo Blog Logo](assets/img/suzana-melo-blog-logo.png)
 
@@ -41,7 +41,7 @@ build pipeline installs Hugo Extended, Dart Sass, and Go directly
 
 To run locally:
 
-```
+```bash
 git clone --recurse-submodules https://github.com/suzanamelo-m/suzanamelo.git
 cd suzanamelo
 hugo server
