@@ -18,7 +18,7 @@
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 20
+  weight = 40
 
 [[main]]
   name = "Speaking"
@@ -28,7 +28,7 @@
 [[main]]
   name = "Community"
   pageRef = "community"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Topics"

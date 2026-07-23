@@ -47,10 +47,6 @@ frontend:
         - "echo Hugo: $(hugo version)"
         - "echo Node.js: $(node --version)"
 
-        # Install Node.js dependencies
-        - echo "Installing Node.js dependencies..."
-        - "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci --prefer-offline || true"
-
         # Configure Git
         - echo "Configuring Git..."
         - git config core.quotepath false
