@@ -24,8 +24,8 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
- defaultFeaturedImage = "/img/suzana-melo-blog-logo.png" # used as default for featured images in all articles
- defaultSocialImage = "/img/suzana-melo-blog-logo.png" # used as default for social media sharing (Open Graph and Twitter)
+ defaultFeaturedImage = "/img/blog-banner.png" # used as default for featured images in all articles
+ defaultSocialImage = "/img/blog-banner.png" # used as default for social media sharing (Open Graph and Twitter)
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
