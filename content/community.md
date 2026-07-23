@@ -26,12 +26,12 @@ _Aug 2023 – present · Global (EMEA, APAC, LATAM)_
 
 AWS's global program for technical contributors with demonstrated community impact — competitive and application-based, not self-declared. I publish articles on Cloud and AWS fundamentals, deliver talks at user groups and Community Days, and provide individual mentoring to women entering cloud computing. My focus is on making AWS accessible to career changers, immigrants, and underrepresented groups.
 
-**[AWS Community Day Baltic](https://awsbaltic.eu/) — Co-Organiser**
+**[AWS Community Day Baltic](https://awsbaltic.eu/) — Co-Organizer**
 _Sep 2025 – present · Gdynia, Poland_
 
-Co-organising this annual regional AWS conference. A full-day event covering cloud, AI, and technology with workshops, keynotes, and sessions from AWS professionals across the Baltics and EMEA. First edition held September 2025; next edition 2027.
+Co-organizing this annual regional AWS conference. A full-day event covering cloud, AI, and technology with workshops, keynotes, and sessions from AWS professionals across the Baltics and EMEA. First edition held September 2025; next edition 2027.
 
-**[AWS Women's User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/) — Founder & Organiser**
+**[AWS Women's User Group Sweden](https://www.meetup.com/aws-womens-user-group-sweden/) — Founder & Organizer**
 _Mar 2025 – present · Sweden (contributing remotely)_
 
 I founded this group to create an inclusive space for women and allies in cloud computing at all experience levels. We run meetups, workshops, and networking events focused on AWS enablement. I continue to contribute and support the group from wherever I am in the world.
@@ -45,25 +45,25 @@ trained 1,000+ women across 10 African countries. Over a 12-week structured cycl
 
 Volunteer mentor at Escola da Nuvem — a Brazilian non-profit that has placed 3,600+ students in employment through free cloud education. I run four-week group mentoring cycles covering AWS fundamentals, exam strategy, and career guidance for students preparing for the AWS Certified Cloud Practitioner exam.
 
-**[AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/) — Co-Organiser**
+**[AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/) — Co-Organizer**
 _Aug 2024 – present · Southern Sweden (contributing remotely)_
 
-One of Sweden's established AWS communities, running for 7+ years. I was invited to join as co-organiser and have been contributing to regular meetups, knowledge-sharing sessions, and hands-on learning events for AWS practitioners across the Skåne region.
+One of Sweden's established AWS communities, running for 7+ years. I was invited to join as co-organizer and have been contributing to regular meetups, knowledge-sharing sessions, and hands-on learning events for AWS practitioners across the Skåne region.
 
 ---
 
 ## Past roles
 
-**Auckland AWS Tools and Programming Meetup — Founder & Organiser** · Feb 2023 – Nov 2024 </br>
+**Auckland AWS Tools and Programming Meetup — Founder & Organizer** · Feb 2023 – Nov 2024 \
 Founded and led this AWS developer community in Auckland for nearly two years, creating a space for developers to learn, share, and discuss AWS tools and best practices.
 
-**Full-Stack Engineering Auckland — Co-Organiser** · Feb 2020 – Aug 2024 (4+ years) </br>
+**Full-Stack Engineering Auckland — Co-Organizer** · Feb 2020 – Aug 2024 (4+ years) \
 Co-led one of Auckland's active full-stack developer communities for over four years. Regular meetups, knowledge sharing, and developer growth across the Auckland tech ecosystem.
 
-**Cloud Native Summit Australia & NZ — Communications & Registration Assistant** · Aug 2022 – Aug 2024 </br>
+**Cloud Native Summit Australia & NZ — Communications & Registration Assistant** · Aug 2022 – Aug 2024 \
 Supported this community conference focused on software development and cloud transformation across Australia and New Zealand.
 
-**Women In Tech Sweden — Social Media Specialist (Volunteer)** · Dec 2024 – Mar 2026 </br>
+**Women In Tech Sweden — Social Media Specialist (Volunteer)** · Dec 2024 – Mar 2026 \
 Created content and managed social media to support the mission of inspiring and retaining women in technology across Sweden.
 
 ---
@@ -79,7 +79,7 @@ My focus is always on people who feel like outsiders in tech, because that's exa
 
 ---
 
-If you'd like to invite me to speak at your event, co-organise something, or collaborate on a community initiative, I'd love to hear from you.</br>
+If you'd like to invite me to speak at your event, co-organize something, or collaborate on a community initiative, I'd love to hear from you.\
 Book me at [Sessionize](https://sessionize.com/suzana-melo/) or reach out at [hello@suzanamelo.com](mailto:hello@suzanamelo.com)
 
 ---
