@@ -11,7 +11,7 @@ title = "Suzana Melo - Empowering Through Tech, Cloud, AWS & AI for career chang
   dateFormat = "2 January 2006"
   logo = "/img/Suzana-Avatar-NoBG.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "Suzana Melo - Empowering through Tech"
+  description = "Cloud, AWS, and AI explained without jargon, for career changers, women, and beginners who don't see themselves in tech yet."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
