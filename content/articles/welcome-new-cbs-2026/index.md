@@ -7,13 +7,13 @@ tags = ['AWS', 'AWS Community Builders', 'AWS Community Programs']
 
 ![Welcome New AWS Community Builder Banner](/img/welcome-new-cbs-2026.png)
 
-From today, we will get to know and welcome 1,000+ new **AWS Community Builders**, and the Community is thrilled to have you! 🎉
+In the first quarter of each year, we will get to know and welcome new AWS Community Builders. In 2026, we got 1,000+ new ones, and the Community is thrilled to have you! 🎉
 
 The **[AWS Community Builders](https://builder.aws.com/community/community-builders)** program was created to empower AWS enthusiasts to connect, learn, and share their knowledge with the technical Community. We welcome everyone who shares the same vision.
 
 But what does it mean to become an **AWS Community Builder**, what life as a CB looks like, and how to make the most of your experience?
 
-Here are a few things I wish I'd known when I first joined and made more use of in my first year. Trust me, you don't have to wait to be a veteran to explore all these opportunities. Start now and make the most of your new CB life.
+Here are a few things I wish I'd known when I first joined in 2023 and made more use of in my first year. Trust me, you don't have to wait to be a veteran to explore all these opportunities. Start now and make the most of your new CB life.
 
 ![Suzana travelling as an AWS Community Builder](/img/cb-on-train.jpg "Being an AWS Community Builder has been an incredible journey with endless opportunities")
 
@@ -37,28 +37,28 @@ Here are a few:
 
 ## 💫 AWS Promotional Credits
 
-As an AWS CB, you receive AWS credits once a year (typically around $500 USD) while you are part of the program. You can add them to your AWS account and use them for personal learning projects, content creation, and more.</br>
+As an AWS CB, you receive AWS credits once a year (typically around $500 USD) while you are part of the program. You can add them to your AWS account and use them for personal learning projects, content creation, and more.\
 Maybe now it's time to create that project that was forever on your to-do list or explore a new AWS service?
 
 ---
 
 ## 💫 AWS Certification Vouchers
 
-As a Community Builder, you can claim one Foundational, Associate, or Professional/Specialty exam voucher per cycle (your year as a CB).</br>
+As a Community Builder, you can claim one Foundational, Associate, or Professional/Specialty exam voucher per cycle (your year as a CB).\
 It's one per year, and if you renew for the following year, you can claim it again.
 
 ---
 
 ## 💫 Exclusive Swag
 
-Who doesn't like good swag? And the AWS CB swag doesn't disappoint. Alongside your welcome kit and annual renewal swag kits — each year you renew (years 2, 3, 4, and beyond), you receive a different kit — there are many other ways to earn swag too.</br>
+Who doesn't like good swag? And the AWS CB swag doesn't disappoint. Alongside your welcome kit and annual renewal swag kits — each year you renew (years 2, 3, 4, and beyond), you receive a different kit — there are many other ways to earn swag too.\
 Everything you do can land you something new: your content contributions, your study performance on QA, or simply a random giveaway.
 
 ---
 
 ## 💫 AWS re:Invent Discounts
 
-Yes! You can also benefit from a generous discount to attend the world's largest cloud event (60k+ participants and 1,000+ technical sessions). Last year, we received around 60% off the ticket price.
+Yes! You can also benefit from a generous discount to attend the world's largest cloud event (60k+ participants and 1,000+ technical sessions). In 2025, we received around 60% off the ticket price. In 2026, we could apply for a limited number of 100% voucher discounts!
 
 ---
 
@@ -80,7 +80,7 @@ The program brings together content creators from all levels and backgrounds, co
 
 Beyond the channel for your specific category, you're automatically added to the CB Slack workspace. From there, you can explore a wide range of channels, including technical ones where seasoned professionals share insights, tips, new tools, and approaches to using AWS services. You'll find countless ways to contribute, learn, and grow your professional network through collaboration and discussion.
 
-First day? Introduce yourself, let us know you better, who you are, your contributions, and start your journey.
+First day? Introduce yourself, let us get to know you better, who you are, your contributions, and start your journey.
 
 Got stuck? This is the place to ask for help, get valuable insights, and learn.
 
@@ -98,7 +98,7 @@ There are also dedicated channels where members announce speaking opportunities,
 
 What is a community if we don't help each other? As a CB, you have access to channels focused on promoting content, where you can share your work and have it amplified by your peers, while also discovering incredible content to learn from. There are also channels dedicated to improving your content-creation tools and style, where veterans openly share their experiences and best practices, and where we also want to hear about what you are doing.
 
-This is also your chance to go beyond your current content creation. You're used to writing technical blogs, but want to explore speaking at meetups and conferences, record technical videos, create tutorials, or even a course? We got you here!
+This is also your chance to go beyond your current content creation. You're used to writing technical blogs but want to explore speaking at meetups and conferences, recording technical videos, creating tutorials, or even creating a course? We've got you here!
 
 ---
 
@@ -166,5 +166,5 @@ Check out my article **_["Everything you need to know before applying to the AWS
 
 To those joining us now or in the next intake, I can't wait to see all the amazing things we'll build together. Our team of **AWS Community Builders** is beyond happy to receive you, because that's what community really means, not just sharing what you know, but caring about who's beside you while you grow.
 
-The **AWS Community Builders** is not only a platform or a program, but the people who show up for each other.</br>
+The **AWS Community Builders** is not only a platform or a program, but the people who show up for each other.\
 For me, it's a place where you arrive as you are and leave more than you thought you could be, and I'm very much looking forward to seeing you here!✨🚀☁️💖
