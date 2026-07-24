@@ -7,13 +7,12 @@ tags = ['AWS', 're:Invent', 'ABW Grant']
 
 ![AWS All Builders Welcome Grant friends](/img/ABW-grant-2024.jpg "Celebrating with other alumni friends from AWS All Builders Welcome Grant program")
 
-The application for the **AWS All Builders Welcome (ABW) Grant** started on 24 June 2025, last year, and it's just about to open again for 2026! 🎉
-
+The application for the AWS All Builders Welcome (ABW) Grant opens around June each year! 🎉\
 If you have less than five years of experience in the Cloud field, you seriously can’t miss this opportunity.
 
 I’ll never get tired of saying this: **[AWS re:Invent](https://reinvent.awsevents.com/)** is a once-in-a-lifetime experience. There’s no way to fully capture the magnitude of it in words. You simply have to live it.
 
-As an AWS User Group Leader and Community Builder, I’d heard all the hype about re:Invent. But, let’s be honest: as exciting as it all sounded, it felt like a beautiful, but unreachable dream to my junior-developer bank account.
+As an AWS User Group Leader and Community Builder, I’d heard all the hype about re:Invent. But let’s be honest: as exciting as it all sounded, it felt like a beautiful but unreachable dream to my junior-developer bank account.
 
 As an immigrant woman who transitioned into software development after 40, with no previous tech background, I was and still am taking my first steps in the cloud space. I was passionate about helping others, but still struggling to find my place in the tech industry. AWS re:Invent? That felt totally out of reach, especially financially.
 
@@ -27,10 +26,10 @@ When applications opened in June 2024, I started receiving messages from some of
 
 So I did my homework and checked the eligibility checklist:
 
-✅ Be at least 21 years old.<br>
-✅ Be within the first 5 years of your tech career.<br>
-✅ Have faced barriers or disadvantages while pursuing opportunities in the technology industry or advancing your technology career, and your participation in this program would help you overcome these challenges. <br>
-✅ Have not accepted an ABW Grant for re:Invent before.<br>
+✅ Be at least 21 years old.\
+✅ Be within the first 5 years of your tech career.\
+✅ Have faced barriers or disadvantages while pursuing opportunities in the technology industry or advancing your technology career, and your participation in this program would help you overcome these challenges.\
+✅ Have not accepted an ABW Grant for re:Invent before.\
 ✅ Be able to travel to Las Vegas. The program is open worldwide; however, if you are applying for the grant outside the United States and require a visa to travel, you must secure your visa before applying.
 
 The best part? The ABW Grant supports early-career professionals like me. You don't need any AWS certification or industry experience. Although I already had my Cloud Practitioner certification, it wasn’t mandatory.
@@ -47,14 +46,14 @@ Woohoo! I was about to attend the world's largest cloud event, with all my expen
 
 The All Builders Welcome Grant removes the financial barriers to AWS re:Invent. It includes:
 
-🌟 A full re:Invent conference pass <br>
-✈️ Flights to Las Vegas, from anywhere in the world <br>
-🏨 5 nights of hotel accommodation <br>
-☕️ Access to an exclusive grantee lounge <br>
-🪑 Reserved seating for keynotes<br>
-🎉 Special grantee-only events<br>
-🎁 Unique swags<br>
-🚕 Airport transportation (Uber support included)<br>
+🌟 A full re:Invent conference pass \
+✈️ Flights to Las Vegas, from anywhere in the world \
+🏨 5 nights of hotel accommodation \
+☕️ Access to an exclusive grantee lounge \
+🪑 Reserved seating for keynotes\
+🎉 Special grantee-only events\
+🎁 Unique swags \
+🚕 Airport transportation (Uber support included)
 
 And yes, it was as amazing as it sounds. However, even more impactful than the financial support was the experience itself. The part that truly changed my life forever.
 
@@ -68,7 +67,7 @@ Alongside the massive re:Invent agenda (with hundreds of sessions), the grant of
 
 Unfortunately, some mentoring sessions overlapped with my other commitments (I was also mentoring, being mentored, and attending training during the event), but I highly recommend taking full advantage of this part of the grant. It’s gold.
 
-![ABW Grant Collage with some best moments](/img/ABW-grant-2024-Collage4.jpg "Some of the best moments at AS re:Invent 2024 thanks to the ABW Grant program")
+![ABW Grant Collage with some best moments](/img/ABW-grant-2024-Collage4.jpg "Some of the best moments at AWS re:Invent 2024 thanks to the ABW Grant program")
 
 ## Building Skills 👩💻
 
@@ -84,7 +83,7 @@ I especially loved sessions on serverless and Amplify, which I’ve already put 
 
 The AWB Grant gave me the opportunity to connect with builders from all over the world.
 
-I finally met many AWS Heroes, User Groups leaders, and Community Builders I’d only known online. These connections turned into mentorships, collaborations, and inspiration that I’ve brought back to my own community across Europe, the APAC region, and the Americas. <br>
+I finally met many AWS Heroes, User Groups leaders, and Community Builders I’d only known online. These connections turned into mentorships, collaborations, and inspiration that I’ve brought back to my own community across Europe, the APAC region, and the Americas. \
 After re:Invent, I even became one of the organizers of the [AWS Women’s User Group Sweden](https://www.linkedin.com/company/aws-womens-user-group-sweden/), alongside three other incredible community builders, Martina Della Corte, Jagoda Cubrilo and Caroline Cah.
 
 ## Friends for Life ❤️
@@ -127,7 +126,7 @@ If you’re fired up and ready to apply, great! But trust me, you’ll want to p
 
 Apply!
 
-Don’t wait until you feel ready, because let’s be honest, we rarely ever do. Impostor syndrome is real, and I hesitated more than once before submitting my application.<br>
+Don’t wait until you feel ready, because let’s be honest, we rarely ever do. Impostor syndrome is real, and I hesitated more than once before submitting my application.
 You’ll never know unless you try.
 
 That said, don’t go in blind. Prepare as much as you can. There are tons of resources, articles like the ones above, and amazing AWS community members out there offering the mentoring and guidance you need to craft a strong, thoughtful application.

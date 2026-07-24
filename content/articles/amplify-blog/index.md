@@ -21,7 +21,7 @@ Changing careers to software development after my 40s, as an immigrant woman wit
 
 I started speaking at and supporting local meetups, and before long, I became an organizer myself. But I soon realized that talks alone couldn’t reach everyone who might need help. So, I started writing. From dev tutorials to career-change insights, my articles were scattered across different platforms and never published as often as I wanted.
 
-I knew it was time to create one place to call home for my content, and I set a goal to build my own blog.
+I knew it was time to create a single place to call home for my content, and I set a goal of building my own blog.
 
 ---
 
@@ -284,11 +284,11 @@ If you collaborate with others, Amplify also supports **feature branches**, **br
 
 Amplify was perfect for _my_ use case — a simple blog — but it’s not a one-size-fits-all tool.
 
-It’s beginner-friendly with lots of ready-to-use solutions, and very opinionated, which means it may not suit projects that require heavy customization, complex backend configurations, or deep infrastructure control.
+It’s beginner-friendly with lots of ready-to-use solutions and very opinionated, which means it may not suit projects that require heavy customization, complex backend configurations, or deep infrastructure control.
 
 Amplify shines for solo developers and small teams who want to ship fast and abstract away AWS complexities.
 
-Speaking of beginner cloud-friendly… Keep in mind that you won’t really learn cloud infrastructure deeply if that's your goal. Amplify does that work for you so that you might miss out on that hands-on experience.
+Speaking of beginner cloud-friendly… Keep in mind that you won’t really learn cloud infrastructure deeply if that's your goal. Amplify does that work for you, so that you might miss out on that hands-on experience.
 
 I also found its documentation a bit challenging at first (not surprising if you’ve used AWS docs before!). Having a mentor can really help when you hit confusing points.
 

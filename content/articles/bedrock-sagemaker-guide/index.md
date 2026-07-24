@@ -15,14 +15,14 @@ In this article, I'll give you a clear overview of both services, explain which 
 
 ---
 
-📌 **Before we go further:** </br>
+📌 **Before we go further:** \
 If you're an absolute beginner to Cloud and AWS, I recommend reading ["How to get started with AWS (for absolute beginners)"](https://suzanamelo.com/articles/aws-for-absolute-beginners/) first and coming back when you're ready. These concepts will land much better with that foundation in place.
 
 ---
 
 ## Bedrock and SageMaker — what are they, exactly?
 
-Both are fully managed AWS services designed to help you build, customise, and deploy AI and machine learning (ML) applications.
+Both are fully managed AWS services designed to help you build, customize, and deploy AI and machine learning (ML) applications.
 
 Either Bedrock or SageMaker gives you:
 
@@ -79,7 +79,7 @@ Imagine a customer support assistant that answers questions from your product do
 - Fine-tune existing models with proprietary data
 - Deploy, monitor, and manage model performance over time
 
-Where Bedrock is about speed and simplicity, SageMaker is all about control and customisation. You manage the full ML lifecycle, which means more power and more complexity. It's worth mentioning that Bedrock does support fine-tuning for a limited set of models, but it's a managed, lightweight process (very useful for adjusting a model's tone or style). SageMaker gives you full control over the training process, including custom training scripts and complete access to model weights, which is what you need when the task genuinely requires it.
+Where Bedrock is about speed and simplicity, SageMaker is all about control and customization. You manage the full ML lifecycle, which means more power and more complexity. It's worth mentioning that Bedrock does support fine-tuning for a limited set of models, but it's a managed, lightweight process (very useful for adjusting a model's tone or style). SageMaker gives you full control over the training process, including custom training scripts and complete access to model weights, which is what you need when the task genuinely requires it.
 
 It's the right tool when you need custom ML pipelines, are working with proprietary datasets, or your team has dedicated ML expertise. Picture a hospital building a readmission risk model on its own patient records, a manufacturer predicting equipment failures from sensor data, or a legal team training a classifier on thousands of labeled contracts. These are real-world problems SageMaker is built for, where an off-the-shelf model won't do, and full control over the training process matters.
 
@@ -91,7 +91,9 @@ It's the right tool when you need custom ML pipelines, are working with propriet
 
 Yes, and in many real-world architectures, they do.
 
-A common pattern: use Bedrock to prototype quickly and validate whether an AI feature is worth building. Once you've validated the idea, then bring in SageMaker when you need to fine-tune, optimise performance, or take full control of the model. You're not choosing one forever. You're choosing which one fits the problem in front of you right now.
+A common pattern: use Bedrock to prototype quickly and validate whether an AI feature is worth building. Once you've validated the idea, then bring in SageMaker when you need to fine-tune, optimize performance, or take full control of the model.
+
+You're not choosing one forever. You're choosing which one fits the problem in front of you right now.
 
 ---
 
@@ -153,13 +155,13 @@ Here you'll work through 10 real-world AI challenges. By the end, you'll know ho
 
 ✨ Build AI-powered assistants (chatbots and virtual assistants)  
 ✨ Use Retrieval-Augmented Generation (RAG) to connect models to company data  
-✨ Craft and optimise prompts for better model outputs  
+✨ Craft and optimize prompts for better model outputs  
 ✨ Choose between Foundation Models in Amazon Bedrock for different problem types  
 ✨ Apply guardrails and security principles for responsible AI
 
 ![Cloud Quest - Create an Enterprise Knowledge Assistant](/img/enterprise-knowledge-assistant.png)
 
-What I liked most: I ended up working with not just Bedrock, but SageMaker and Amazon Q (AWS's AI assistant for development) across different challenges. The use cases were real — an HR assistant that filtered employee questions and pulled answers directly from the company handbook, and an enterprise tool that helped sales teams make sense of their own data. Building and running them changed how I understood these services.
+What I liked most: I ended up working not just with Bedrock, but with SageMaker and Amazon Q (AWS's AI assistant for development) across different challenges. The use cases were real — an HR assistant that filtered employee questions and pulled answers directly from the company handbook, and an enterprise tool that helped sales teams make sense of their own data. Building and running them changed how I understood these services.
 
 By the time I completed the quest, the differences between Bedrock and SageMaker stopped being abstract. They made sense in practice, in a way that just reading about them didn't fully achieve.
 

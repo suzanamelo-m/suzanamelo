@@ -11,7 +11,7 @@ My automated builds stopped working, and I had no idea why.
 
 I had been hosting and managing my blog on AWS Amplify since I launched it last year, and I couldn't be happier with it. Amplify gave me all that it promised and more. Quick to connect to GitHub, effortless to deploy, CI/CD out of the box. Every push to the repository rebuilt and redeployed the site for me. Exactly what I wanted: ship fast, sort the details later. Except "later" arrived sooner than I expected.
 
-In fact, I soon realised there are scenarios where Amplify doesn't tell you when you're starting, and I hit one of them when I decided to do what I thought was a simple thing. I updated my GitHub username. What followed was not what I expected.
+In fact, I soon realized there are scenarios where Amplify doesn't tell you when you're starting, and I hit one of them when I decided to do what I thought was a simple thing. I updated my GitHub username. What followed was not what I expected.
 
 ---
 
@@ -19,7 +19,7 @@ In fact, I soon realised there are scenarios where Amplify doesn't tell you when
 
 When I updated my GitHub username from `suzanamelomoraes` to `suzanamelo-m`, I didn't think about the obvious: all repository URLs change with it.
 
-What I also didn't know is that AWS Amplify stores a hard link to the original repository URL and cannot automatically follow username or repository renames. </br>
+What I also didn't know is that AWS Amplify stores a hard link to the original repository URL and cannot automatically follow username or repository renames.\
 For example, from my old repo URL:
 
 ```
@@ -62,7 +62,7 @@ I also found out that updating information via CLI was a fix not only for my pro
 
 **Scenario 2 — Renaming a repository:** Renaming a repository also changes the GitHub URL, and since Amplify is connected via that URL, auto-build stops working. The same CLI fix applies.
 
-**Scenario 3 — Moving from a personal to an organisation account:** Multiple people have reported needing to move their repository from a personal GitHub profile to an organisation's profile, but there's no way to do it in the AWS Amplify UI console without creating a whole new app. This is a common scenario when a solo project grows into a team project.
+**Scenario 3 — Moving from a personal to an organization account:** Multiple people have reported needing to move their repository from a personal GitHub profile to an organization's profile, but there's no way to do it in the AWS Amplify UI console without creating a whole new app. This is a common scenario when a solo project grows into a team project.
 
 **Scenario 4 — Switching Git providers:** People migrating from Bitbucket to GitHub also hit the same wall: the repository URL changes completely and Amplify breaks. The AWS CLI docs confirm the command works across providers, using `oauthToken` for Bitbucket and CodeCommit, and `accessToken` for GitHub (for this article, I'm covering only `accessToken` for GitHub as this is the one I use, but I'll include helpful links in the list of resources at the bottom).
 
@@ -117,11 +117,11 @@ Before running the fix, you need:
 #### Step 3 — Set Up AWS CLI Credentials (`aws login`)
 
 Before you can run any AWS CLI command in your terminal, you need to get AWS credentials for local development.
-Credentials exist to authenticate your local machine or applications and authorise programmatic requests to Amazon Web Services.
+Credentials exist to authenticate your local machine or applications and authorize programmatic requests to Amazon Web Services.
 
 The AWS CLI command `aws login` lets you start building immediately after signing up for AWS, as easily as you do in the AWS Console. Running `aws login` in your terminal opens your default web browser to authenticate as you would via console.
 
-Once authorised in the browser, it creates short-lived, identity-based credentials for your command-line tasks, eliminating the need to use or store long-lived static access keys, which are always at risk of accidental exposure, leading to security breaches.
+Once authorized in the browser, it creates short-lived, identity-based credentials for your command-line tasks, eliminating the need to use or store long-lived static access keys, which are always at risk of accidental exposure, leading to security breaches.
 
 To get authenticated:
 
@@ -174,7 +174,7 @@ Once you finish the sign-in process, you will be directed to a screen confirming
 
 **3c. Configure a named profile**
 
-You're now authenticated and ready to run CLI commands. If you're managing multiple projects or environments, you can also create a named profile to keep credentials organised. Choose a name that makes sense to you and your application. For this example, I’m going to call it _“blog”_.
+YYou're now authenticated and ready to run CLI commands. If you're managing multiple projects or environments, you can also create a named profile to keep credentials organized. Choose a name that makes sense to you and your application. For this example, I’m going to call it _“blog”_.
 
 To create a profile, run `aws login` and set a name for your profile. The same command works when you want to authenticate specifically for this application.
 
@@ -337,6 +337,7 @@ It's also very handy when you want to avoid third-party services and rely on AWS
 AWS Amplify focuses on enhancing the user experience and making it even easier to manage your applications through its UI console. But not every issue can be sorted in the UI console. We just covered one issue that Amplify can't protect you from, but now you know exactly how to handle it when it happens.
 
 This fix taught me more than I expected. Not just about how Amplify manages repository connections, but about how the AWS CLI has evolved. `aws login` is a genuinely useful addition, and I want to write more about it properly.
+
 If you've hit a different Amplify wall or you're curious about more CLI basics, let me know. Your comments or questions might become the next article. 🤗
 
 ---
