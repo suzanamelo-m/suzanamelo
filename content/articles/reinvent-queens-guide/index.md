@@ -7,7 +7,9 @@ tags = ['AWS', 're:Invent', 'guide']
 
 ![re:Invent Queens](/img/ReinventQueensGuide.png)
 
-If you’re attending AWS re:Invent for the first time, get ready, and I mean _really_ ready. The event’s massive agenda includes over 1,000 technical sessions, hands-on training, and more than 60,000 attendees. Learning from veterans’ experiences will definitely enhance your week and help you avoid rookie mistakes that could impact your best moments.
+If you’re attending AWS re:Invent for the first time, get ready, and I mean _really_ ready.
+
+The event’s massive agenda includes over 1,000 technical sessions, hands-on training, and more than 60,000 attendees. Learning from veterans’ experiences will definitely enhance your week and help you avoid rookie mistakes that could impact your best moments.
 
 Besides finding tips about choosing and scheduling sessions effectively or navigating between venues, most re:Invent guides also remind you to stay hydrated and wear comfortable shoes. Seriously, don’t ignore this one!
 
@@ -25,7 +27,7 @@ However, there are a few extra steps you can take to make your experience even b
 
 “Many times you won’t have time to go back to the hotel before evening events, so it’s better to be prepared and travel light if that happens,” Julia says.
 
-[Monica Colangelo](https://www.linkedin.com/in/monicacolangelo/), AWS Hero from Italy, shares advice that’s especially relevant for women: _practical over pretty!_ </br>
+[Monica Colangelo](https://www.linkedin.com/in/monicacolangelo/), AWS Hero from Italy, shares advice that’s especially relevant for women: _practical over pretty!_\
 “People go to these events in comfortable clothes, so don’t stress about looking fancy — nobody cares.”
 
 ![Monica Colangelo](/img/MonicaColangelo.jpeg "Monica advises to choose practical over pretty. Comfort is your best friend!")
@@ -34,7 +36,7 @@ Comfort is your best friend when you’re walking all day, hopping between sessi
 
 ## 🛍️ Where to buy
 
-The desert air can be brutal. Monica mentioned that some Strip hotels rent humidifiers, but they’re pricey.</br>
+The desert air can be brutal. Monica mentioned that some Strip hotels rent humidifiers, but they’re pricey.\
 “A better option: buy a cheap one on Amazon and have it shipped directly to your hotel. Just check their package policy first, and leave it behind when you check out!”
 
 For affordable snacks, toiletries, and bottled water, Monica recommends the Walgreens between The Venetian and The Palazzo, which is open 24/7 and far cheaper than hotel shops.
@@ -54,7 +56,7 @@ For affordable snacks, toiletries, and bottled water, Monica recommends the Walg
 
 ## 🗓️ Plan Smart, Save Battery
 
-[Amelia Hough-Ross](https://www.linkedin.com/in/ameliahoughross/), an AWS Community Builder in the US who has attended at least eight re:Invents, shared a genius tip for keeping your schedule under control, and your phone alive:</br>
+[Amelia Hough-Ross](https://www.linkedin.com/in/ameliahoughross/), an AWS Community Builder in the US who has attended at least eight re:Invents, shared a genius tip for keeping your schedule under control and your phone alive:\
 “Make a paper copy of your schedule with all your session times and locations. It’s so much easier to access than constantly checking your phone, and it saved me so much battery life. I also include the after-parties I’m registered for, so I can plan where I need to be in real time with people.”
 
 ![Amelia Hough-Ross](/img/Amelia-reInvent.jpeg "Amelia attended at least eight re:Invents so far and always makes a copy of her schedule to save mobile battery")
@@ -77,22 +79,21 @@ After long days of walking, networking, and Vegas’ desert climate, your body w
 
 ![Paloma Lataliza](/img/Paloma-reInvent.jpeg "Paloma learned the hard way how harsh Vegas dryness can be and don't forget her survival kit")
 
-[Linda Mohamed](https://www.linkedin.com/in/linda-mohamed/), AWS Hero from Austria, reinforces the previous tips and adds that long days of sessions followed by parties can be exhausting. Her go-to trick for travelling to AWS re:Invent from Vienna?
+[Linda Mohamed](https://www.linkedin.com/in/linda-mohamed/), AWS Hero from Austria, reinforces the previous tips and adds that long days of sessions followed by parties can be exhausting. Her go-to trick for traveling to AWS re:Invent from Vienna?
 
 “I always pack a few sheet masks. A 15-minute break with one, and I start the day looking fresh. It does miracles!”
 
 ![Linda Mohamed](/img/ReinventWITmeetup.jpg "Linda and I hosting a Women in Tech meetup at re:Invent next to a stand offering haircuts for men")
 
-She also has a fun suggestion for event organizers:
-
+She also has a fun suggestion for event organizers:\
 “Last year, Suzana and I hosted a Women in Tech meetup next to a stand offering haircuts for men. How about a space for women to get their nails done or blow-dry their hair for the event?”, asks Linda.
 
 ## 💄 My Personal Learnings
 
-Speaking of hair… I started doing it in New Zealand and still do in Sweden, especially when going around in Europe: I never travel without a travel-size dry shampoo. This one’s for anyone whose hair isn’t _“wash-and-go”_ (like mine!). </br>
+Speaking of hair… I started doing it in New Zealand and still do in Sweden, especially when going around in Europe: I never travel without a travel-size dry shampoo. This one’s for anyone whose hair isn’t _“wash-and-go”_ (like mine!).\
 After washing, I usually blow-dry it (which is challenging when you have a packed agenda like re:Invent). Dry shampoo keeps it looking clean and fresh, and a satin sleep cap gives it an extra hand.
 
-A facial moisturizer with SPF is a must, as I learned the hard way how perimenopause plus desert air can be a tough combo. If you relate, invest in a hydrating serum and a fast-absorbing, non-greasy hand cream, preferably easy to throw in your bag and carry with you.</br>
+A facial moisturizer with SPF is a must, as I learned the hard way how perimenopause plus desert air can be a tough combo. If you relate, invest in a hydrating serum and a fast-absorbing, non-greasy hand cream, preferably easy to throw in your bag and carry with you.\
 And if you are a lipstick addict like me, choose moisturizing formulas so your lips stay hydrated while looking great. Your face (and lips) will thank you!
 
 ![Suzana Melo](/img/Reinvent2024b.jpg "I learned the hard way how perimenopause plus desert air can be a tough combo")
@@ -103,21 +104,21 @@ Finally, based on my own experience, don’t forget to pack your meds and eyedro
 
 [Farrah Campbell](https://www.linkedin.com/in/farrahcampbell/), Head of Modern Compute Community at AWS in the US, is heading to her ninth re:Invent, and she confirms: the dryness in Vegas is _real_.
 
-She brings or rents a humidifier and uses it religiously every night, along with eye patches and face masks.</br>
+She brings or rents a humidifier and uses it religiously every night, along with eye patches and face masks.\
 “Otherwise, my skin starts cracking by the second day,” she says.
 
-For lips, she warns against ChapStick or lip gloss.</br>
+For lips, she warns against ChapStick or lip gloss.\
 “Vaseline or beeswax is much better for preventing moisture loss.”
 
-Farrah also swears by daily Vitamin C — not just for immunity, but for your skin — and always packs a ton of Throat Coat lozenges, tea bags, and even a mini kettle.</br>
+Farrah also swears by daily Vitamin C — not just for immunity, but for your skin — and always packs a ton of Throat Coat lozenges, tea bags, and even a mini kettle.\
 “I can barely speak by Wednesday, my voice is almost gone, and those are lifesavers.”
 
 ![Throat Coat](/img/throatcoatNoBG.png "Farrah doesn't forget to pack a ton of Throat Coat lozenges, tea bags and a mini kettle")
 
-She recommends taking notes on your phone or in a small notebook instead of carrying a laptop when it’s not needed:</br>
+She recommends taking notes on your phone or in a small notebook instead of carrying a laptop when it’s not needed:\
 “I have one notebook for Summits, one for Community Days, and one for re:Invent. Laptops get heavy, and there’s soooo much walking.”
 
-And one more gem:</br>
+And one more gem:\
 “Bring an extra pair of shoes and change halfway through the day is a total game-changer. Oh, and don’t forget band-aids (bandage)!”
 
 ## ✨ Final Thoughts from a veteran
@@ -128,7 +129,7 @@ Farrah’s biggest advice? Don’t rush through re:Invent. Enjoy it.
 
 “Take in the smiles, laughter, and celebrations. Meet the people you follow online and read the content. Find a friend. AWS re:Invent can be daunting, lonely, and overwhelming, but sharing it with someone makes all the difference.”
 
-Her closing thought perfectly captures the spirit of the event:</br>
+Her closing thought perfectly captures the spirit of the event:\
 “Be open to meeting new people. It’s easy to stay in our comfort circles, but re:Invent is the perfect place to expand your network globally. The first time I realized I had friends all over the world was after my 4th re:Invent.”
 
 ## 👯 Wrapping Up
