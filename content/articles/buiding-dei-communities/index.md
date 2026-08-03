@@ -47,6 +47,7 @@ What changed? The understanding of how meetups worked. Beyond getting familiar w
 Another issue meetup leaders often raise with me when looking for ways to increase representation is the lack of diverse speakers.
 
 And yes, representation matters, _a lot_.
+
 In my experience, people rarely come back to a meetup where they don't know anyone, and nothing about it, the speaker, the talk, the room, reflects who they are. Having women, trans women, and non-binary people on stage makes their peers feel represented, and more likely not only to attend, but to contribute to the community too.
 
 ![With Linda Mohamed (AWS Hero) at the Women in Tech meetup, AWS re:Invent 2024](/img/ReinventWITmeetup.jpg "With Linda Mohamed (AWS Hero, Enterprise AI & Cloud Consultant) at the Women in Tech meetup, AWS re:Invent 2024, Las Vegas")
@@ -59,7 +60,7 @@ In my experience, people rarely come back to a meetup where they don't know anyo
 
 > Note: I always recommend, in this case, avoiding a product pitch disguised as a talk. Audiences usually don't like it. If a sponsor's proposed speaker submission reads like a demo of their tool with a sales close, ask them to reframe it around what the audience will learn, not what the sponsor is selling.
 
-**Building future speakers:** If you know anyone who can offer public speaking mentoring, ask for their help training women, trans women, and non-binary people in your community, and grow your speaker list that way. Using AWS as an example again, the [AWS New Voices program](https://builder.aws.com/learn/topics/newvoices) trains AWS community members (User Group leaders, Community Builders, and Heroes) in public speaking. After completing it, they get the training and resources to give talks and to mentor other prospective speakers themselves.
+**Building future speakers:** If you know anyone who can offer public speaking mentoring, ask for their help training women, trans women, and non-binary people in your community, and grow your speaker list that way. Using AWS as an example again, the **AWS New Voices program** trains AWS community members (User Group leaders, Community Builders, and Heroes) in public speaking. After completing it, they get the training and resources to give talks and to mentor other prospective speakers themselves.
 
 If this is the case, flexibility matters too, so your new speakers feel comfortable giving a talk as beginners. You can adapt your event to include 15-minute lightning talks, for example, which makes it much easier for a first-time speaker than a structured 1-hour talk.
 
