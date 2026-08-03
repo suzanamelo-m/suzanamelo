@@ -5,6 +5,8 @@ title = 'What Years of Running Tech Meetups Taught Me About Building Diverse, In
 tags = ['DEI', 'Tech Communities', 'AWS User Groups', 'AWS Women User Groups']
 +++
 
+![Leading the Empowering Women in Tech workshop at AWS Community Day Nordics](/img/wit-workshop-nordics.jpeg "Leading the Empowering Women in Tech workshop at AWS Community Day Nordics 2025, Gothenburg, Sweden")
+
 A great community can be life-changing. In the technology field, it can provide growth through learning, mentoring, volunteering, and project opportunities. There you can also find connections, collaborations, and friends for life. In my opinion, what makes all of that possible is **belonging**. Inclusion, one of the three pillars of DEI, is what makes people show up and stay. But belonging alone isn't enough. A community also needs **diversity** and **equity** to really work. 🫶🏻
 
 I've been managing meetups and talking about DEI principles in that space, especially around Women in Tech, since I changed careers into tech in 2020. From local Full-Stack and AWS community meetups to Women in Tech sessions worldwide, that experience led me to mentor other meetup organizers who want to increase representation in their own communities. One of the first things I learned, and the thing I always share in those mentoring sessions, is simple: **listen to your community**.
@@ -44,7 +46,8 @@ What changed? The understanding of how meetups worked. Beyond getting familiar w
 
 Another issue meetup leaders often raise with me when looking for ways to increase representation is the lack of diverse speakers.
 
-And yes, representation matters, _a lot_. In my experience, people rarely come back to a meetup where they don't know anyone, and nothing about it, the speaker, the talk, the room, reflects who they are. Having women, trans women, and non-binary people on stage makes their peers feel represented, and more likely not only to attend, but to contribute to the community too.
+And yes, representation matters, _a lot_.
+In my experience, people rarely come back to a meetup where they don't know anyone, and nothing about it, the speaker, the talk, the room, reflects who they are. Having women, trans women, and non-binary people on stage makes their peers feel represented, and more likely not only to attend, but to contribute to the community too.
 
 ![With Linda Mohamed (AWS Hero) at the Women in Tech meetup, AWS re:Invent 2024](/img/ReinventWITmeetup.jpg "With Linda Mohamed (AWS Hero, Enterprise AI & Cloud Consultant) at the Women in Tech meetup, AWS re:Invent 2024, Las Vegas")
 
@@ -54,7 +57,7 @@ And yes, representation matters, _a lot_. In my experience, people rarely come b
 
 **Sponsors:** If your meetup has sponsors for events, ask them if they have someone on their team who fits the agenda (women, trans women, and non-binary people) to give a talk.
 
-Note: I always recommend, in this case, avoiding a product pitch disguised as a talk. Audiences usually don't like it. If a sponsor's proposed speaker submission reads like a demo of their tool with a sales close, ask them to reframe it around what the audience will learn, not what the sponsor is selling.
+> Note: I always recommend, in this case, avoiding a product pitch disguised as a talk. Audiences usually don't like it. If a sponsor's proposed speaker submission reads like a demo of their tool with a sales close, ask them to reframe it around what the audience will learn, not what the sponsor is selling.
 
 **Building future speakers:** If you know anyone who can offer public speaking mentoring, ask for their help training women, trans women, and non-binary people in your community, and grow your speaker list that way. Using AWS as an example again, the [AWS New Voices program](https://builder.aws.com/learn/topics/newvoices) trains AWS community members (User Group leaders, Community Builders, and Heroes) in public speaking. After completing it, they get the training and resources to give talks and to mentor other prospective speakers themselves.
 
@@ -90,7 +93,7 @@ Another example is a board where members can pick a badge color to show whether 
 
 You can research many more tactics to increase connection and integration at your events.
 
-Note: if you photograph your events for recap posts or anything else, say so upfront, and give people a real way to **opt out**. The easiest version: add a sticker or mark to the badges you're already using for icebreakers (a small dot or a different color works), so photographers can see at a glance who not to include. Mention the option at check-in and again when you open the event.
+Something to note: if you photograph your events for recap posts or anything else, say so upfront, and give people a real way to **opt out**. The easiest version: add a sticker or mark to the badges you're already using for icebreakers (a small dot or a different color works), so photographers can see at a glance who not to include. Mention the option at check-in and again when you open the event.
 
 This matters more than it might seem. Not everyone at a DEI event is out at work or comfortable being publicly tagged at a women's community event. An opt-out that actually gets honored is part of what "safe space" means in practice, not just in your Code of Conduct.
 
