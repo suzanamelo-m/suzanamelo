@@ -5,13 +5,13 @@ title = 'What Years of Running Tech Meetups Taught Me About Building Diverse, In
 tags = ['DEI', 'Tech Communities', 'AWS User Groups', 'AWS Women User Groups']
 +++
 
-![Leading the "Empowering Women in Tech" workshop at AWS Community Day Nordics 2025, Gothenburg, Sweden](/img/wit-workshop-nordics.jpeg)
+![Leading the "Empowering Women in Tech" workshop at AWS Community Day Nordics](/img/wit-workshop-nordics.jpeg "Leading the "Empowering Women in Tech" workshop at AWS Community Day Nordics 2025, Gothenburg, Sweden")
 
 A great community can be life-changing. In the technology field, it can provide growth through learning, mentoring, volunteering, and project opportunities. There you can also find connections, collaborations, and friends for life. In my opinion, what makes all of that possible is **belonging**. Inclusion, one of the three pillars of DEI, is what makes people show up and stay. But belonging alone isn't enough. A community also needs **diversity** and **equity** to really work. 🫶🏻
 
 I've been managing meetups and talking about DEI principles in that space, especially around Women in Tech, since I changed careers into tech in 2020. From local Full-Stack and AWS community meetups to Women in Tech sessions worldwide, that experience led me to mentor other meetup organizers who want to increase representation in their own communities. One of the first things I learned, and the thing I always share in those mentoring sessions, is simple: **listen to your community**.
 
-![Launching AWS Women's User Group Sweden with the co-founder, Martina Della Corte, AWS Community Builder and Cloud Architect](/img/aws-wug-swe-launch.jpeg)
+![Launching AWS Women's User Group Sweden](/img/aws-wug-swe-launch.jpg "Launching AWS Women's User Group Sweden with the co-founder, Martina Della Corte, AWS Community Builder and Cloud Architect")
 
 That's also where the **AWS Women's User Group guide** came from. Based on that experience, and on what I've learned connecting with other AWS WUG leaders, I wrote a guide to planning, launching, managing, and growing an AWS Women's User Group, alongside a **Newsletter resource** to help keep members informed, valued, and engaged. The guide also supports AWS User Groups leaders interested in implementing DEI, providing a safe space, and fostering learning and growth in their communities. I shared both in several AWS Community Slack channels\*, but most of what's in them isn't specific to AWS User Groups; it's DEI insights that can help any meetup organizer. So that's what I'm sharing here.
 
@@ -34,7 +34,7 @@ Here's what that looked like in practice for me. During conversations at various
 - They didn't know many people.
 - They didn't feel part of the community or represented there.
 
-![Attendees responding live to a Slido poll on challenges women face in tech, at the AWS Community Day Nordics workshop, led by me and Caroline Cah, co-founder of AWS Women's User Group Sweden and AWS Community Builder](/img/wit-workshop-nordics-1.jpeg)
+![Attendees responding live to a Slido poll on challenges women face in tech, at the AWS Community Day Nordics](/img/wit-workshop-nordics-1.jpeg "Attendees responding live to a Slido poll on challenges women face in tech, at the AWS Community Day Nordics workshop, led by me and Caroline Cah, co-founder of AWS Women's User Group Sweden and AWS Community Builder")
 
 What's interesting: some of these same women later told me that once they got used to the community through women-only meetups, they started attending, or became willing to attend, gender-mixed events at other AWS User Groups.
 
@@ -48,7 +48,7 @@ Another issue meetup leaders often raise with me when looking for ways to increa
 
 And yes, representation matters, _a lot_. In my experience, people rarely come back to a meetup where they don't know anyone, and nothing about it, the speaker, the talk, the room, reflects who they are. Having women, trans women, and non-binary people on stage makes their peers feel represented, and more likely not only to attend, but to contribute to the community too.
 
-![With Linda Mohamed (AWS Hero, Enterprise AI & Cloud Consultant) at the Women in Tech meetup, AWS re:Invent 2024, Las Vegas](/img/ReinventWITmeetup.jpg)
+![With Linda Mohamed (AWS Hero) at the Women in Tech meetup, AWS re:Invent 2024](/img/ReinventWITmeetup.jpg "With Linda Mohamed (AWS Hero, Enterprise AI & Cloud Consultant) at the Women in Tech meetup, AWS re:Invent 2024, Las Vegas")
 
 **Women in Tech communities:** Connecting with organizers of Women in Tech communities and supporting their events in person can help address this challenge. You're likely to meet more diverse candidates to speak at your events this way than by staying in the same bubble, waiting for them to miraculously join your meetups.
 
@@ -80,7 +80,7 @@ The good news: you don't need to write this from scratch. The [Python Software F
 
 Put the short version on your event page and in your opening slides, with a link to the full version. At each event, don't forget to bring it up. A CoC nobody sees or knows about isn't protecting anybody.
 
-![Selfie with organizers, panelists, and attendees of a Women In Tech Panel at AWS Women's User Group Berlin](/img/ReinventWITmeetup.jpg)
+![Selfie with organizers, panelists, and attendees at AWS Women's User Group Berlin](/img/aws-wug-berlin.jpg "Selfie with organizers, panelists, and attendees of a Women In Tech Panel at AWS Women's User Group Berlin")
 
 ---
 
