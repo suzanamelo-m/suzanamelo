@@ -5,8 +5,6 @@ title = 'What Years of Running Tech Meetups Taught Me About Building Diverse, In
 tags = ['DEI', 'Tech Communities', 'AWS User Groups', 'AWS Women User Groups']
 +++
 
-![Leading the "Empowering Women in Tech" workshop at AWS Community Day Nordics](/img/wit-workshop-nordics.jpeg "Leading the "Empowering Women in Tech" workshop at AWS Community Day Nordics 2025, Gothenburg, Sweden")
-
 A great community can be life-changing. In the technology field, it can provide growth through learning, mentoring, volunteering, and project opportunities. There you can also find connections, collaborations, and friends for life. In my opinion, what makes all of that possible is **belonging**. Inclusion, one of the three pillars of DEI, is what makes people show up and stay. But belonging alone isn't enough. A community also needs **diversity** and **equity** to really work. 🫶🏻
 
 I've been managing meetups and talking about DEI principles in that space, especially around Women in Tech, since I changed careers into tech in 2020. From local Full-Stack and AWS community meetups to Women in Tech sessions worldwide, that experience led me to mentor other meetup organizers who want to increase representation in their own communities. One of the first things I learned, and the thing I always share in those mentoring sessions, is simple: **listen to your community**.
