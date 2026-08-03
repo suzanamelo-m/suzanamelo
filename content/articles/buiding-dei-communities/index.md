@@ -94,7 +94,7 @@ Another example is a board where members can pick a badge color to show whether 
 
 You can research many more tactics to increase connection and integration at your events.
 
-Something to note: if you photograph your events for recap posts or anything else, say so upfront, and give people a real way to **opt out**. The easiest version: add a sticker or mark to the badges you're already using for icebreakers (a small dot or a different color works), so photographers can see at a glance who not to include. Mention the option at check-in and again when you open the event.
+> Note: if you photograph your events for recap posts or anything else, say so upfront, and give people a real way to **opt out**. The easiest version: add a sticker or mark to the badges you're already using for icebreakers (a small dot or a different color works), so photographers can see at a glance who not to include. Mention the option at check-in and again when you open the event.
 
 This matters more than it might seem. Not everyone at a DEI event is out at work or comfortable being publicly tagged at a women's community event. An opt-out that actually gets honored is part of what "safe space" means in practice, not just in your Code of Conduct.
 
@@ -136,7 +136,7 @@ Implementing DEI, providing a safe space, and fostering learning and growth can 
 
 The tips above don't cover even a third of what can be done, but they're a place to start. And starting is better than doing nothing.
 
-If you have more insights on how we can make our tech communities safer and more diverse, I'd love to hear them. Share them in the comments, and let's build more inclusive spaces together. ✨🚀☁️💖
+If you have more insights on how we can make our tech communities safer and more diverse, I'd love to hear them. Share them in the comments on [LinkedIn](https://www.linkedin.com/pulse/what-years-running-tech-meetups-taught-me-building-diverse-melo-rrfdf), and let's build more inclusive spaces together. ✨🚀☁️💖
 
 ---
 
