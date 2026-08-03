@@ -47,6 +47,7 @@ What changed? The understanding of how meetups worked. Beyond getting familiar w
 Another issue meetup leaders often raise with me when looking for ways to increase representation is the lack of diverse speakers.
 
 And yes, representation matters, _a lot_.
+
 In my experience, people rarely come back to a meetup where they don't know anyone, and nothing about it, the speaker, the talk, the room, reflects who they are. Having women, trans women, and non-binary people on stage makes their peers feel represented, and more likely not only to attend, but to contribute to the community too.
 
 ![With Linda Mohamed (AWS Hero) at the Women in Tech meetup, AWS re:Invent 2024](/img/ReinventWITmeetup.jpg "With Linda Mohamed (AWS Hero, Enterprise AI & Cloud Consultant) at the Women in Tech meetup, AWS re:Invent 2024, Las Vegas")
@@ -59,7 +60,7 @@ In my experience, people rarely come back to a meetup where they don't know anyo
 
 > Note: I always recommend, in this case, avoiding a product pitch disguised as a talk. Audiences usually don't like it. If a sponsor's proposed speaker submission reads like a demo of their tool with a sales close, ask them to reframe it around what the audience will learn, not what the sponsor is selling.
 
-**Building future speakers:** If you know anyone who can offer public speaking mentoring, ask for their help training women, trans women, and non-binary people in your community, and grow your speaker list that way. Using AWS as an example again, the [AWS New Voices program](https://builder.aws.com/learn/topics/newvoices) trains AWS community members (User Group leaders, Community Builders, and Heroes) in public speaking. After completing it, they get the training and resources to give talks and to mentor other prospective speakers themselves.
+**Building future speakers:** If you know anyone who can offer public speaking mentoring, ask for their help training women, trans women, and non-binary people in your community, and grow your speaker list that way. Using AWS as an example again, the **AWS New Voices program** trains AWS community members (User Group leaders, Community Builders, and Heroes) in public speaking. After completing it, they get the training and resources to give talks and to mentor other prospective speakers themselves.
 
 If this is the case, flexibility matters too, so your new speakers feel comfortable giving a talk as beginners. You can adapt your event to include 15-minute lightning talks, for example, which makes it much easier for a first-time speaker than a structured 1-hour talk.
 
@@ -93,7 +94,7 @@ Another example is a board where members can pick a badge color to show whether 
 
 You can research many more tactics to increase connection and integration at your events.
 
-Something to note: if you photograph your events for recap posts or anything else, say so upfront, and give people a real way to **opt out**. The easiest version: add a sticker or mark to the badges you're already using for icebreakers (a small dot or a different color works), so photographers can see at a glance who not to include. Mention the option at check-in and again when you open the event.
+> Note: if you photograph your events for recap posts or anything else, say so upfront, and give people a real way to **opt out**. The easiest version: add a sticker or mark to the badges you're already using for icebreakers (a small dot or a different color works), so photographers can see at a glance who not to include. Mention the option at check-in and again when you open the event.
 
 This matters more than it might seem. Not everyone at a DEI event is out at work or comfortable being publicly tagged at a women's community event. An opt-out that actually gets honored is part of what "safe space" means in practice, not just in your Code of Conduct.
 
@@ -135,7 +136,7 @@ Implementing DEI, providing a safe space, and fostering learning and growth can 
 
 The tips above don't cover even a third of what can be done, but they're a place to start. And starting is better than doing nothing.
 
-If you have more insights on how we can make our tech communities safer and more diverse, I'd love to hear them. Share them in the comments, and let's build more inclusive spaces together. ✨🚀☁️💖
+If you have more insights on how we can make our tech communities safer and more diverse, I'd love to hear them. Share them in the comments on [LinkedIn](https://www.linkedin.com/pulse/what-years-running-tech-meetups-taught-me-building-diverse-melo-rrfdf), and let's build more inclusive spaces together. ✨🚀☁️💖
 
 ---
 
