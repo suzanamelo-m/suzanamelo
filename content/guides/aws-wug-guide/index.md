@@ -338,7 +338,7 @@ Your community could benefit from a simple, friendly, and informative "mid-year/
 
 It's an opportunity to celebrate the year your community had, remind them of all the wins, announce news and goals for next year, and wish them a happy holiday break, all while keeping your community informed, valued, and engaged.
 
-You can find tips and templates for creating a simple system to keep your community informed, engaged, and appreciated in the [AWS User Groups Newsletter Guide](/guides/aws-ug-newsletter-guide/).
+You can find tips and templates for creating a simple system to keep your community informed, engaged, and appreciated in the [AWS User Groups Newsletter Guide](https://suzanamelo.com/guides/newsletter-guide/).
 
 ### Surveys
 
