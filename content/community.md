@@ -79,6 +79,16 @@ My focus is always on people who feel like outsiders in tech, because that's exa
 
 ---
 
+## AWS User Group & Meetup Guides
+
+A few guides that came out of years of running Women in Tech events and AWS User Groups, built to support AWS User Group leaders and meetup organizers with community-building insights that apply to any meetup.
+
+Here you can find a guide to **planning, launching, managing, and growing an AWS Women's User Group**, and a **Newsletter resource** to help you keep your community informed, valued, and engaged. Both were built for any AWS User Group leader working on DEI, safe spaces, and community growth.
+
+[Explore the guides](/guides/) →
+
+---
+
 If you'd like to invite me to speak at your event, co-organize something, or collaborate on a community initiative, I'd love to hear from you.\
 Book me at [Sessionize](https://sessionize.com/suzana-melo/) or reach out at [hello@suzanamelo.com](mailto:hello@suzanamelo.com)
 
