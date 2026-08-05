@@ -1,9 +1,9 @@
 +++
 date = '2026-08-04T12:00:00+02:00'
 draft = false
-title = 'AWS User Group & Meetup Resources'
+title = 'AWS User Group & Meetup Guides'
 +++
 
-A few guides that came out of years of running Women in Tech events and AWS User Groups, built to support AWS User Group leaders and meetup organizers with community-building insights that apply to any meetup.
+Guides for AWS User Group leaders and meetup organizers: community-building resources built from years of running AWS User Groups and Women in Tech events.
 
-Here you can find a guide to **planning, launching, managing, and growing an AWS Women's User Group**, and a **Newsletter resource** to help you keep your community informed, valued, and engaged. Both were built for any AWS User Group leader working on DEI, safe spaces, and community growth.
+Each guide below covers a different piece of running a healthy community, from keeping members informed and engaged to building DEI and safe spaces into how you operate. Most of it isn't AWS-specific. Adapt what's useful to whatever community you're running.
