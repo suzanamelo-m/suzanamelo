@@ -140,4 +140,4 @@ If you have more insights on how we can make our tech communities safer and more
 
 ---
 
-> \*Note: If you're interested in founding an AWS Women's User Group, or you lead an AWS User Group and want to increase representation in your community, and you missed the guide links shared in AWS Community Slack channels, comment on this article on [LinkedIn](https://www.linkedin.com/pulse/what-years-running-tech-meetups-taught-me-building-diverse-melo-rrfdf) or message me directly, and I'll send them your way. Both guides will be published on [suzanamelo.com](http://suzanamelo.com/) soon.
+> \*Note: If you're interested in founding an AWS Women's User Group, or you lead an AWS User Group and want to increase representation in your community, and you missed the guide links shared in AWS Community Slack channels, comment on this article on [LinkedIn](https://www.linkedin.com/pulse/what-years-running-tech-meetups-taught-me-building-diverse-melo-rrfdf) or message me directly, and I'll send them your way. Both guides are also available in [Guides](http://https://suzanamelo.com/guides/).
