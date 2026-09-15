@@ -9,6 +9,26 @@ draft = false
 
 ---
 
+## [Setting Up an AI Mentor: Use AI Efficiently for Ongoing Career Growth](https://sessionize.com/s/suzana-melo/setting-up-an-ai-mentor-use-ai-efficiently-for-ong/187665)
+
+_en_
+
+Many people use AI tools like Claude casually: one question, one generic answer, then they move on. That works, sort of, but it's like asking a stranger for career advice with zero context about who you are or what you're trying to achieve.
+This talk shows you why that happens (how these tools actually work, their limitations, including where they sound confident and are still wrong) and how to fix it: learning how to use this tool effectively to set up a free, personalized AI project that remembers your background, your goals, and how you want to be coached, so every answer is specific instead of generic.
+
+Key takeaways:
+
+- How AI tools like Claude actually work, including where they can sound confident and still be wrong
+- How to set up a free, personalized AI project that remembers your background, your goals, and how you want to be coached
+- Practical habits for using AI safely: what never to share, where AI is least reliable, what to verify before trusting, and how to keep your work saved
+- A working AI project built live during the session, ready to keep using afterward
+
+_Level: Foundational (100)_
+
+**Given at:** Women Innovating in Cloud Africa (WIICA)/CloudHER Program (Online, Sep 2026)
+
+---
+
 ## [From Procrastination to Publishing: How AWS Amplify Helped Me Finally Start Blogging](https://sessionize.com/s/suzana-melo/from-procrastination-to-publishing-how-aws-amplify/134642)
 
 _en_
@@ -24,7 +44,7 @@ Key Takeaways:
 - Insights on content creation and sharing knowledge in tech
 - Why done is better than perfect. Just ship it!
 
-_Level: Beginner to intermediate (200)_
+_Level: Foundational to intermediate (200)_
 
 **Given at:** AWS Community Day Baltic (Gdynia, Sep 2025) ·
 AWS User Group Skåne (Mälmo, Sep 2025)
