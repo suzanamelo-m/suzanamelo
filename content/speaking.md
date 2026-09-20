@@ -69,7 +69,7 @@ Pontos chaves:
 
 _Level: Foundational to intermediate (200)_
 
-**Apresentado em:** AWS Community Day Portugal (Lisboa, Set 2025)
+**Apresentado em:** AWS Community Day Portugal (Lisboa, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus,Amazonas-BR, Set 2026)
 
 ---
 
