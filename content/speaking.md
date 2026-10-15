@@ -51,6 +51,13 @@ AWS User Group Skåne (Mälmo, Sep 2025)
 
 ---
 
+[What Community taught me about Tech that no course could](https://sessionize.com/s/suzana-melo/what-community-taught-me-about-tech-that-no-course/188200)
+
+I moved to New Zealand in 2014 without speaking English and started a career in tech with no previous technical background, after 20 solid years in Communications. Almost everything that happened after the first meetup I went to shaped my life: mentors I found because I asked, a community I helped build because none existed yet where I was, and connections that filled the gap when a stalled job search could easily have made me quit.
+In this session, I'll walk through how tech communities (AWS User Groups, internal company meetups, open source, and everything in between) actually develop skills and accelerate a career, not as a concept, but through specific people and specific moments that shaped mine both technically and personally. I'll cover how I went from attending to organizing, how that opened real mentoring opportunities on both sides, and what I'd tell anyone still deciding whether showing up is worth it.
+
+---
+
 ## [A beginner's journey into Cloud and AWS: Why You Should Learn Cloud Computing and How to Get Started](https://sessionize.com/s/suzana-melo/a-beginners-journey-into-cloud-and-aws-why-you-sho/130811)
 
 **Why You Should Learn Cloud Computing and How to Get Started with AWS**.\
