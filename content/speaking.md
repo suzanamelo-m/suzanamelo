@@ -56,6 +56,8 @@ AWS User Group Skåne (Mälmo, Sep 2025)
 I moved to New Zealand in 2014 without speaking English and started a career in tech with no previous technical background, after 20 solid years in Communications. Almost everything that happened after the first meetup I went to shaped my life: mentors I found because I asked, a community I helped build because none existed yet where I was, and connections that filled the gap when a stalled job search could easily have made me quit.
 In this session, I'll walk through how tech communities (AWS User Groups, internal company meetups, open source, and everything in between) actually develop skills and accelerate a career, not as a concept, but through specific people and specific moments that shaped mine both technically and personally. I'll cover how I went from attending to organizing, how that opened real mentoring opportunities on both sides, and what I'd tell anyone still deciding whether showing up is worth it.
 
+**Given at:** Ignite Cloud (Online in Israel, Aug 2025)
+
 ---
 
 ## [A beginner's journey into Cloud and AWS: Why You Should Learn Cloud Computing and How to Get Started](https://sessionize.com/s/suzana-melo/a-beginners-journey-into-cloud-and-aws-why-you-sho/130811)
@@ -113,6 +115,8 @@ O que você levará desta sessão:
 - Hábitos práticos para usar a IA com segurança: o que nunca compartilhar, onde a IA é menos confiável, o que verificar antes de usar o que foi gerado e como garantir o acesso ao conteúdo sempre que precisar
 - Um projeto de IA funcional, montado ao vivo durante a sessão, pronto para você continuar usando depois
 
+_Nível: Fundamental (100)_
+
 **Apresentado em:** Ada Conecta (Manaus, Amazonas-BR, Oct 2026)
 
 ---
@@ -131,7 +135,7 @@ Pontos chaves:
 - Dicas sobre criação de conteúdo e compartilhamento de conhecimento em tecnologia
 - Por que “feito” é melhor que “perfeito”.
 
-_Level: Foundational to intermediate (200)_
+_Nível: Fundamental (100) ao Intermediário_
 
 **Apresentado em:** AWS Community Day Portugal (Lisboa, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus, Amazonas-BR, Set 2026)
 
