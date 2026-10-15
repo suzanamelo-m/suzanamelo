@@ -11,7 +11,7 @@ draft = false
 
 English 🇺🇸
 
-## [Setting Up an AI Mentor: Use AI Efficiently for Ongoing Career Growth](https://sessionize.com/s/suzana-melo/setting-up-an-ai-mentor-use-ai-efficiently-for-ong/187665)
+## [Setting Up an AI Mentor: Use AI Safely and Efficiently for Ongoing Career Growth](https://sessionize.com/s/suzana-melo/setting-up-an-ai-mentor-use-ai-efficiently-for-ong/187665)
 
 Many people use AI tools like Claude casually: one question, one generic answer, then they move on. That works, sort of, but it's like asking a stranger for career advice with zero context about who you are or what you're trying to achieve.
 This talk shows you why that happens (how these tools actually work, their limitations, including where they sound confident and are still wrong) and how to fix it: learning how to use this tool effectively to set up a free, personalized AI project that remembers your background, your goals, and how you want to be coached, so every answer is specific instead of generic.
@@ -93,7 +93,7 @@ _Level: Foundational (100)_
 
 Portuguese 🇧🇷
 
-## [Da Procrastinação à Publicação: Como o AWS Amplify Me Ajudou a Finalmente Começar a Blogar](https://sessionize.com/s/suzana-melo/da-procrastinacao-a-publicacao-como-o-aws-amplify-/145492)
+## [AWS Amplify: Tire seus projetos do papel em poucos cliques sem ser especialista em cloud](https://sessionize.com/s/suzana-melo/aws-amplify-tire-seus-projetos-do-papel-em-poucos-/169003)
 
 _pt-br_
 
