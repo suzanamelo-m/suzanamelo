@@ -46,8 +46,8 @@ Key Takeaways:
 
 _Level: Foundational to intermediate (200)_
 
-**Given at:** AWS Community Day Baltic (Gdynia, Sep 2025) ·
-AWS User Group Skåne (Mälmo, Sep 2025)
+**Given at:** AWS Community Day Baltic (Gdynia, Poland, Sep 2025) ·
+AWS User Group Skåne (Mälmo, Sweden, Sep 2025)
 
 ---
 
@@ -72,7 +72,7 @@ _Level: Foundational (100)_
 **Given at:** AWS Women's User Group Vienna (Mar 2025) ·
 AWS User Group Skåne (Malmö, Nov 2024) ·
 AWS Cloud Club Auckland (Jan 2024) ·
-AWS UG Aotearoa Community Day 2023 (Wellington, Sep 2023)
+AWS UG Aotearoa Community Day 2023 (Wellington, New Zealand, Sep 2023)
 
 ---
 
@@ -86,7 +86,7 @@ Whether you're a recent graduate curious about your options or a junior develope
 
 _Level: Foundational (100)_
 
-**Given at:** JuniorDev Auckland (Apr 2024)
+**Given at:** JuniorDev Auckland (New Zealand, Apr 2024)
 
 ---
 
@@ -96,7 +96,7 @@ _(Updated version of A Beginner's Journey into Cloud and AWS)_
 
 _Level: Foundational (100)_
 
-**Given at:** AWS Women's User Group Munich (Aug 2025)
+**Given at:** AWS Women's User Group Munich (Germany, Aug 2025)
 
 ---
 
@@ -137,7 +137,7 @@ Pontos chaves:
 
 _Nível: Fundamental (100) ao Intermediário_
 
-**Apresentado em:** AWS Community Day Portugal (Lisboa, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus, Amazonas-BR, Set 2026)
+**Apresentado em:** AWS Community Day Portugal (Lisboa, Portugal, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus, Amazonas-BR, Set 2026)
 
 # Workshops
 
@@ -154,28 +154,28 @@ _Level: Foundational (100)_
 
 > The session can be adjusted to fit between 40 minutes and 2 hours.
 
-**Given at:** AWS Community Day Italy 2025 (Milan, Apr 2025) ·
-AWS Community Day Nordics 2025 (Göteborg, Oct 2025)
+**Given at:** AWS Community Day Italy 2025 (Milan, Italy, Apr 2025) ·
+AWS Community Day Nordics 2025 (Göteborg, Sweden, Oct 2025)
 
 ---
 
 # Featured Appearances
 
-**AWS re:Invent 2024** · Las Vegas, December 2024  
+**AWS re:Invent 2024** · Las Vegas, US, December 2024  
 _ACT177 — Women in Tech Fireside Chat & Meetup_  
 Featured speaker at AWS's largest global conference. Participated in a curated
 fireside chat on creating more inclusive environments, overcoming barriers to women's
 success in tech, and encouraging the next generation of women in cloud.
 
-**AWS Women's User Group Berlin** · Berlin, March 2025  
+**AWS Women's User Group Berlin** · Berlin, Germany, March 2025  
 _Empowerment Panel — Women's Day Special_  
 Panellist at a dedicated evening on learning, empowerment, and community for women
 in the AWS cloud space.
 
-**Moar Serverless 2024** · Orlando, May 2024  
+**Moar Serverless 2024** · Orlando, US, May 2024  
 _Adding Serverless Content Moderation to Your Application with Only 3 Simple AWS Tools_
 
-**Serverless Days ANZ** · Auckland, May 2024  
+**Serverless Days ANZ** · Auckland, NZ, May 2024  
 _Serverless Panel Discussion_  
 Shared insights as a junior developer working with serverless services — challenges,
 lessons learned, and how to get started with AWS Lambda and DynamoDB.
