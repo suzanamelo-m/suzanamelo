@@ -51,7 +51,7 @@ AWS User Group Skåne (Mälmo, Sep 2025)
 
 ---
 
-[What Community taught me about Tech that no course could](https://sessionize.com/s/suzana-melo/what-community-taught-me-about-tech-that-no-course/188200)
+## [What Community taught me about Tech that no course could](https://sessionize.com/s/suzana-melo/what-community-taught-me-about-tech-that-no-course/188200)
 
 I moved to New Zealand in 2014 without speaking English and started a career in tech with no previous technical background, after 20 solid years in Communications. Almost everything that happened after the first meetup I went to shaped my life: mentors I found because I asked, a community I helped build because none existed yet where I was, and connections that filled the gap when a stalled job search could easily have made me quit.
 In this session, I'll walk through how tech communities (AWS User Groups, internal company meetups, open source, and everything in between) actually develop skills and accelerate a career, not as a concept, but through specific people and specific moments that shaped mine both technically and personally. I'll cover how I went from attending to organizing, how that opened real mentoring opportunities on both sides, and what I'd tell anyone still deciding whether showing up is worth it.
@@ -101,8 +101,6 @@ _Level: Foundational (100)_
 Portuguese 🇧🇷
 
 ## [AWS Amplify: Tire seus projetos do papel em poucos cliques sem ser especialista em cloud](https://sessionize.com/s/suzana-melo/aws-amplify-tire-seus-projetos-do-papel-em-poucos-/169003)
-
-_pt-br_
 
 Como pessoas desenvolvedoras de software, todos nós temos projetos paralelos inacabados acumulando poeira nos nossos repositórios do GitHub. Para mim, o blog era uma dessas ideias que ficaram na minha lista de tarefas por anos, até que o AWS Amplify mudou o jogo.\
 Nesta sessão, vou compartilhar como usei o AWS Amplify para parar de procrastinar e finalmente criar uma plataforma para compartilhar conteúdo voltado a ajudar mulheres e iniciantes em tecnologia.\
