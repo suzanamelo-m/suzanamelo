@@ -9,7 +9,7 @@ draft = false
 
 ---
 
-English 🇺🇸
+🇺🇸 _English_
 
 ## [Setting Up an AI Mentor: Use AI Safely and Efficiently for Ongoing Career Growth](https://sessionize.com/s/suzana-melo/setting-up-an-ai-mentor-use-ai-efficiently-for-ong/187665)
 
@@ -98,7 +98,24 @@ _Level: Foundational (100)_
 
 ---
 
-Portuguese 🇧🇷
+🇧🇷 _Portuguese_
+
+## [Crie seu Mentor Virtual: como usar a IA de maneira segura e eficiente para crescer profissionalmente](https://sessionize.com/s/suzana-melo/crie-seu-mentor-virtual-como-usar-a-ia-de-maneira-/188153)
+
+Muita gente usa ferramentas de IA, como Claude, Gemini ou ChatGPT, de forma casual: faz uma pergunta, recebe uma resposta genérica e segue em frente. Até funciona, mais ou menos, mas é como pedir conselho de carreira a um desconhecido, sem nenhum contexto sobre quem você é ou aonde quer chegar.
+
+Nesta palestra, você vai entender por que isso acontece (como a IA generativa realmente funciona, suas limitações, inclusive os momentos em que soa confiante mesmo estando errada) e como resolver isso: aprendendo a usar essa ferramenta de forma eficiente para configurar um projeto de IA gratuito e personalizado, que lembra seu histórico, seus objetivos e como você quer ser orientado(a), para que cada resposta seja direcionada ao que você busca.
+
+O que você levará desta sessão:
+
+- Como ferramentas de IA realmente funcionam, inclusive os momentos em que soam confiantes mesmo estando erradas
+- Como configurar um projeto de IA gratuito e personalizado, usando o Claude, que lembra seu histórico, seus objetivos e como você quer ser orientado(a)
+- Hábitos práticos para usar a IA com segurança: o que nunca compartilhar, onde a IA é menos confiável, o que verificar antes de usar o que foi gerado e como garantir o acesso ao conteúdo sempre que precisar
+- Um projeto de IA funcional, montado ao vivo durante a sessão, pronto para você continuar usando depois
+
+**Apresentado em:** Ada Conecta (Manaus, Amazonas-BR, Oct 2026)
+
+---
 
 ## [AWS Amplify: Tire seus projetos do papel em poucos cliques sem ser especialista em cloud](https://sessionize.com/s/suzana-melo/aws-amplify-tire-seus-projetos-do-papel-em-poucos-/169003)
 
@@ -116,7 +133,7 @@ Pontos chaves:
 
 _Level: Foundational to intermediate (200)_
 
-## **Apresentado em:** AWS Community Day Portugal (Lisboa, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus,Amazonas-BR, Set 2026)
+**Apresentado em:** AWS Community Day Portugal (Lisboa, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus, Amazonas-BR, Set 2026)
 
 # Workshops
 
