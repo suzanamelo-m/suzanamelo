@@ -9,9 +9,9 @@ draft = false
 
 ---
 
-## [Setting Up an AI Mentor: Use AI Efficiently for Ongoing Career Growth](https://sessionize.com/s/suzana-melo/setting-up-an-ai-mentor-use-ai-efficiently-for-ong/187665)
+English 🇺🇸
 
-_en_
+## [Setting Up an AI Mentor: Use AI Efficiently for Ongoing Career Growth](https://sessionize.com/s/suzana-melo/setting-up-an-ai-mentor-use-ai-efficiently-for-ong/187665)
 
 Many people use AI tools like Claude casually: one question, one generic answer, then they move on. That works, sort of, but it's like asking a stranger for career advice with zero context about who you are or what you're trying to achieve.
 This talk shows you why that happens (how these tools actually work, their limitations, including where they sound confident and are still wrong) and how to fix it: learning how to use this tool effectively to set up a free, personalized AI project that remembers your background, your goals, and how you want to be coached, so every answer is specific instead of generic.
@@ -51,31 +51,7 @@ AWS User Group Skåne (Mälmo, Sep 2025)
 
 ---
 
-## [Da Procrastinação à Publicação: Como o AWS Amplify Me Ajudou a Finalmente Começar a Blogar](https://sessionize.com/s/suzana-melo/da-procrastinacao-a-publicacao-como-o-aws-amplify-/145492)
-
-_pt-br_
-
-Como pessoas desenvolvedoras de software, todos nós temos projetos paralelos inacabados acumulando poeira nos nossos repositórios do GitHub. Para mim, o blog era uma dessas ideias que ficaram na minha lista de tarefas por anos, até que o AWS Amplify mudou o jogo.\
-Nesta sessão, vou compartilhar como usei o AWS Amplify para parar de procrastinar e finalmente criar uma plataforma para compartilhar conteúdo voltado a ajudar mulheres e iniciantes em tecnologia.\
-Vamos explorar como o Amplify facilita a implantação de aplicações frontend, conectar a fontes de dados em tempo real e escalar de forma simples. E o melhor? Tudo isso sem precisar de um conhecimento profundo em nuvem.\
-Vem comigo conhecer como foi a minha jornada da ideia à execução com o AWS Amplify e descubra como você também pode tirar seus projetos do papel, superando a procrastinação.
-
-Pontos chaves:
-
-- Como o AWS Amplify remove barreiras para lançar aplicações web
-- Passos práticos para ir de uma ideia a um projeto publicado
-- Dicas sobre criação de conteúdo e compartilhamento de conhecimento em tecnologia
-- Por que “feito” é melhor que “perfeito”.
-
-_Level: Foundational to intermediate (200)_
-
-**Apresentado em:** AWS Community Day Portugal (Lisboa, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus,Amazonas-BR, Set 2026)
-
----
-
 ## [A beginner's journey into Cloud and AWS: Why You Should Learn Cloud Computing and How to Get Started](https://sessionize.com/s/suzana-melo/a-beginners-journey-into-cloud-and-aws-why-you-sho/130811)
-
-_en_
 
 **Why You Should Learn Cloud Computing and How to Get Started with AWS**.\
 Cloud computing is inevitable. It's everywhere, even if we don't always notice it, but we should.
@@ -92,8 +68,6 @@ AWS UG Aotearoa Community Day 2023 (Wellington, Sep 2023)
 ---
 
 ## [Why Junior Devs Should Know About Cloud Computing and How to Get Started with AWS](https://sessionize.com/s/suzana-melo/why-junior-devs-should-know-about-cloud-computing-/130930)
-
-_en_
 
 Once you step into the world of tech, the cloud is inevitable!\
 As a software developer, chances are you'll need to deal with cloud technologies at some point in your journey.\
@@ -116,6 +90,28 @@ _Level: Foundational (100)_
 **Given at:** AWS Women's User Group Munich (Aug 2025)
 
 ---
+
+Portuguese 🇧🇷
+
+## [Da Procrastinação à Publicação: Como o AWS Amplify Me Ajudou a Finalmente Começar a Blogar](https://sessionize.com/s/suzana-melo/da-procrastinacao-a-publicacao-como-o-aws-amplify-/145492)
+
+_pt-br_
+
+Como pessoas desenvolvedoras de software, todos nós temos projetos paralelos inacabados acumulando poeira nos nossos repositórios do GitHub. Para mim, o blog era uma dessas ideias que ficaram na minha lista de tarefas por anos, até que o AWS Amplify mudou o jogo.\
+Nesta sessão, vou compartilhar como usei o AWS Amplify para parar de procrastinar e finalmente criar uma plataforma para compartilhar conteúdo voltado a ajudar mulheres e iniciantes em tecnologia.\
+Vamos explorar como o Amplify facilita a implantação de aplicações frontend, conectar a fontes de dados em tempo real e escalar de forma simples. E o melhor? Tudo isso sem precisar de um conhecimento profundo em nuvem.\
+Vem comigo conhecer como foi a minha jornada da ideia à execução com o AWS Amplify e descubra como você também pode tirar seus projetos do papel, superando a procrastinação.
+
+Pontos chaves:
+
+- Como o AWS Amplify remove barreiras para lançar aplicações web
+- Passos práticos para ir de uma ideia a um projeto publicado
+- Dicas sobre criação de conteúdo e compartilhamento de conhecimento em tecnologia
+- Por que “feito” é melhor que “perfeito”.
+
+_Level: Foundational to intermediate (200)_
+
+## **Apresentado em:** AWS Community Day Portugal (Lisboa, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus,Amazonas-BR, Set 2026)
 
 # Workshops
 
