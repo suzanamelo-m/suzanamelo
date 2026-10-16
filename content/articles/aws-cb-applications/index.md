@@ -10,7 +10,7 @@ tags = ['AWS', 'AWS Community Builders', 'AWS Community Programs']
 
 Applications for the [AWS Community Builders](https://builder.aws.com/community/community-builders) program open once a year (usually in January), and the window closes fast. 🎉
 
-To help you prepare, I brought together a group of incredible AWS Community Builders to host sessions around the globe, and… in multiple languages! 🥰 I hosted several of them and supported the others with the agenda, content, and structure.
+To help you prepare, I brought together a group of incredible AWS Community Builders to host sessions around the globe, and… in multiple languages! 🥰 I hosted several of them and supported the others with the agenda, content, and structure. Together, we reached over 4000 attendees.
 
 The recordings are from the 2026 intake, but the advice in them doesn’t expire with it. Dates change every year. What makes a strong application doesn’t. 💫
 
