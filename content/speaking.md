@@ -189,7 +189,7 @@ lessons learned, and how to get started with AWS Lambda and DynamoDB.
 
 ## Speaker Bio
 
-**[Suzana Melo](https://www.linkedin.com/in/suzanamelo-m/)** is a full-stack engineer and AWS Community Builder who transitioned into software development in her 40s after 20+ years as a journalist and media director. She has spoken at AWS re:Invent in Las Vegas, AWS Community Days across Europe and APAC, and user groups across three continents. Her writing on Cloud and AWS reaches 14,000+ readers. She is enrolled in a postgraduate specialization in AI and Machine Learning at PUC Minas and focuses on making cloud and AI accessible to career changers, women, and underrepresented groups.
+**[Suzana Melo](https://www.linkedin.com/in/suzanamelo-m/)** is a full-stack engineer and AWS Community Builder who transitioned into software development in her 40s after 20+ years as a journalist and media director. She has spoken at AWS re:Invent in Las Vegas, AWS Community Days across Europe and APAC, and user groups across three continents. Her writing on Career Change, Cloud and AWS reaches 14,000+ impressions. She is enrolled in a postgraduate specialization in AI and Machine Learning at PUC Minas and focuses on making cloud and AI accessible to career changers, women, and underrepresented groups.
 
 **Available for:** conference talks, workshops, panels, fireside chats.\
 **Topics:** Cloud and AWS for beginners, AI fundamentals, career change into tech, building inclusive communities.
