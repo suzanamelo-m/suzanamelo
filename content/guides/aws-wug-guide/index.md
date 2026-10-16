@@ -2,7 +2,7 @@
 date = '2026-08-04T12:00:00+02:00'
 draft = false
 showTableOfContents = true
-title = 'AWS Women’s User Group Guide'
+title = 'AWS Women’s User Groups & DEI Guide'
 tags = ['Guides', 'AWS User Groups', 'AWS Women User Groups', 'DEI', 'Community Building']
 +++
 

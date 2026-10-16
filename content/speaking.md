@@ -42,7 +42,7 @@ Key Takeaways:
 - Insights on content creation and sharing knowledge in tech
 - Why done is better than perfect. Just ship it!
 
-_Level: Foundational to intermediate (200)_
+_Level: Foundational (100) to intermediate (200)_
 
 **Given at:** AWS Community Day Baltic (Gdynia, Poland, Sep 2025) ·
 AWS User Group Skåne (Mälmo, Sweden, Sep 2025)
@@ -136,7 +136,7 @@ Pontos chaves:
 - Dicas sobre criação de conteúdo e compartilhamento de conhecimento em tecnologia
 - Por que “feito” é melhor que “perfeito”.
 
-_Nível: Fundamental (100) ao Intermediário_
+_Nível: Fundamental (100) ao Intermediário (200)_
 
 **Apresentado em:** AWS Community Day Portugal (Lisboa, Portugal, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus, Amazonas-BR, Set 2026)
 
@@ -144,9 +144,9 @@ _Nível: Fundamental (100) ao Intermediário_
 
 # Workshops
 
-## [Empowering Women in Tech](https://sessionize.com/s/suzana-melo/workshop-empowering-women-in-tech/130912)
+🇺🇸 _English_
 
-_en_
+## [Empowering Women in Tech](https://sessionize.com/s/suzana-melo/workshop-empowering-women-in-tech/130912)
 
 An inspiring and hands-on session designed to empower women in the cloud industry!\
 We'll dive into practical strategies for fostering diversity, creating inclusive spaces, and closing the gender gap in tech. Together, we'll explore ways to break barriers, amplify voices, and drive meaningful change.\
