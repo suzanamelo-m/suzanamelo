@@ -31,8 +31,6 @@ _Level: Foundational (100)_
 
 ## [From Procrastination to Publishing: How AWS Amplify Helped Me Finally Start Blogging](https://sessionize.com/s/suzana-melo/from-procrastination-to-publishing-how-aws-amplify/134642)
 
-_en_
-
 As software developers, we’re all guilty of having at least a few unfinished side projects collecting dust on our GitHub repositories. For me, blogging was one of those ideas that stayed on my to-do list for ages until AWS Amplify changed the game.\
 In this session, I’ll share how I used AWS Amplify to stop procrastinating and finally build a platform to share content focused on helping women and tech beginners navigate their tech journeys. We’ll explore how Amplify makes it easy to deploy frontend apps, add storage, connect to real-time data sources, and scale seamlessly. The best part? All of that without needing deep cloud expertise.\
 Join me as I walk through my journey from idea to execution with AWS Amplify and learn how you can do the same to bring your projects to life, breaking free from procrastination.
@@ -54,7 +52,10 @@ AWS User Group Skåne (Mälmo, Sweden, Sep 2025)
 ## [What Community taught me about Tech that no course could](https://sessionize.com/s/suzana-melo/what-community-taught-me-about-tech-that-no-course/188200)
 
 I moved to New Zealand in 2014 without speaking English and started a career in tech with no previous technical background, after 20 solid years in Communications. Almost everything that happened after the first meetup I went to shaped my life: mentors I found because I asked, a community I helped build because none existed yet where I was, and connections that filled the gap when a stalled job search could easily have made me quit.
-In this session, I'll walk through how tech communities (AWS User Groups, internal company meetups, open source, and everything in between) actually develop skills and accelerate a career, not as a concept, but through specific people and specific moments that shaped mine both technically and personally. I'll cover how I went from attending to organizing, how that opened real mentoring opportunities on both sides, and what I'd tell anyone still deciding whether showing up is worth it.
+In this session, I'll walk through how tech communities (AWS User Groups, internal company meetups, open source, and everything in between) actually develop skills and accelerate a career, not as a concept, but through specific people and specific moments that shaped mine both technically and personally.
+I'll cover how I went from attending to organizing, how that opened real mentoring opportunities on both sides, and what I'd tell anyone still deciding whether showing up is worth it.
+
+_Level: Foundational (100)_
 
 **Given at:** Ignite Cloud (Online in Israel, Aug 2025)
 
@@ -138,6 +139,8 @@ Pontos chaves:
 _Nível: Fundamental (100) ao Intermediário_
 
 **Apresentado em:** AWS Community Day Portugal (Lisboa, Portugal, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus, Amazonas-BR, Set 2026)
+
+---
 
 # Workshops
 
