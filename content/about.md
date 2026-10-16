@@ -21,7 +21,7 @@ That path wasn't linear. But it's the reason I write here. Because I've been exa
 
 My engineering background spans TypeScript, Node.js, React, Next.js, and AWS serverless with production experience across AI-powered platforms, APIs, and internal developer tooling. I'm now deepening that foundation in AI and machine learning: enrolled in a postgraduate specialization at PUC Minas and building applied AI projects, which I'll write about as I go.
 
-Before tech, I spent 20+ years as a journalist, editor, and media director in Brazil. I led teams, managed newsrooms under daily deadline pressure, and learned to explain complex things to large audiences. That background didn't disappear when I became an engineer, which is why I can write a technical article that reaches 14,000 readers or deliver an AI curriculum to non-technical learners in a second language.
+Before tech, I spent 20+ years as a journalist, editor, and media director in Brazil. I led teams, managed newsrooms under daily deadline pressure, and learned to explain complex things to large audiences. That background didn't disappear when I became an engineer, which is why I can write posts and articles that reaches over 14,000 impressions or deliver an AI curriculum to non-technical learners in a second language.
 
 ---
 
@@ -39,8 +39,6 @@ Practical introductions to AI and machine learning concepts — what they are, h
 
 **[Career Change & Growth](https://suzanamelo.com/tags/career-growth/)** \
 Honest reflections on transitioning into tech, building confidence, and navigating the industry as an outsider.
-
----
 
 If any of this sounds like where you are → [start here](/articles)
 
