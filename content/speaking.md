@@ -25,7 +25,7 @@ Key takeaways:
 
 _Level: Foundational (100)_
 
-**Given at:** Women Innovating in Cloud Africa (WIICA)/CloudHER Program (Online, Sep 2026)
+**Given at:** Women Innovating in Cloud Africa (WIICA)/CloudHER Program (Online, Sep 2026) · Mentorship Matters Africa (Online, Oct 2026)
 
 ---
 
@@ -189,11 +189,12 @@ lessons learned, and how to get started with AWS Lambda and DynamoDB.
 
 ## Speaker Bio
 
-**[Suzana Melo](https://www.linkedin.com/in/suzanamelo-m/)** is a full-stack engineer and AWS Community Builder who transitioned into software development in her 40s after 20+ years as a journalist and media director. She has spoken at AWS re:Invent in Las Vegas, AWS Community Days across Europe and APAC, and user groups across three continents. Her writing on Career Change, Cloud and AWS reaches 14,000+ impressions. She is enrolled in a postgraduate specialization in AI and Machine Learning at PUC Minas and focuses on making cloud and AI accessible to career changers, women, and underrepresented groups.
+**[Suzana Melo](https://www.linkedin.com/in/suzanamelo-m/)** is a full-stack engineer and AWS Community Builder who moved into tech in her 40s, after 20+ years in journalism and media leadership in Brazil. She founded [The Mentor Gap](https://thementorgap.org/), a free initiative that creates resources for people growing without a mentor, and for new mentors getting started. She has spoken at AWS re:Invent in Las Vegas, AWS Community Days across Europe and APAC, and user groups across three continents, in English and Portuguese. Her articles on career change, cloud, and AWS have reached up to 14,000+ views. She is studying for a postgraduate specialization in AI and Machine Learning at PUC Minas and focuses on making cloud and AI accessible to career changers, women, and underrepresented groups.
 
 **Available for:** conference talks, workshops, panels, fireside chats.\
-**Topics:** Cloud and AWS for beginners, AI fundamentals, career change into tech, building inclusive communities.
+**Languages:** English, Portuguese.\
+**Topics:** Cloud and AWS for beginners, using AI safely for career growth, AI fundamentals, career change into tech, building inclusive communities.
 
-Book via [Sessionize](https://sessionize.com/suzana-melo/)
+Book via [Sessionize](https://sessionize.com/suzana-melo/) or hello@suzanamelo.com
 
 ---

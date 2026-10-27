@@ -13,13 +13,18 @@ I focus on the people who don't yet see themselves as belonging in tech: women, 
 
 ---
 
-**Articles and posts reaching 14,000+ impressions · 4,000+ session viewers across Europe, Africa, Asia-Pacific, and Americas · AWS re:Invent 2024 speaker · Mentoring women in cloud across Africa, Brazil, and Sweden**
+**Articles and posts reaching up to 14,000+ views · 4,000+ session viewers across Europe, Africa, Asia-Pacific, and Americas · AWS re:Invent 2024 speaker · Mentoring women in cloud across Africa, Brazil, and Sweden**
 
 **Full speaking history and session abstracts →**[Speaking](/speaking)
 
 ---
 
 ## Current roles
+
+**[The Mentor Gap](https://thementorgap.org/) – Founder**
+_Jul 2026 – present · Remote_
+
+I founded The Mentor Gap, a free, noncommercial initiative that creates resources to close the mentoring gap from both sides. It starts with the Virtual AI Mentor guides, which help people without a mentor set up their own AI mentor safely, using free tools. The first guide is available in English and Brazilian Portuguese; a Mentor Starter Kit for new mentors is in development.
 
 **[AWS Community Builder](https://builder.aws.com/community/community-builders)**
 _Aug 2023 – present · Global (EMEA, APAC, LATAM)_
@@ -38,8 +43,7 @@ I founded this group to create an inclusive space for women and allies in cloud 
 
 **[Women Innovating in Cloud Africa (WIICA)](https://wicafrica.org) — Mentor · CloudHER Mentorship Program** · _May 2026 – present · Remote (Ghana)_
 
-Volunteer mentor in WIICA's CloudHER program — a pan-African initiative that has
-trained 1,000+ women across 10 African countries. Over a 12-week structured cycle, I provide career guidance, AWS learning path support, CV and LinkedIn reviews, and interview preparation. I previously delivered the closing talk at WIICA's 12-Week AWS Workshop Challenge in Accra, Ghana (December 2025).
+Volunteer mentor at WIICA, a pan-African non-profit supporting women moving into cloud careers. I provide career guidance, AWS learning path support, CV and LinkedIn reviews, and interview preparation. I previously delivered the closing talk at WIICA’s 12-Week AWS Workshop Challenge in Accra, Ghana (December 2025).
 
 **[Escola da Nuvem](https://escoladanuvem.org) — AWS Cloud Practitioner Mentor** · _May 2026 – present · Remote (Brazil)_
 
@@ -49,6 +53,11 @@ Volunteer mentor at Escola da Nuvem — a Brazilian non-profit that has placed 3
 _Aug 2024 – present · Southern Sweden (contributing remotely)_
 
 One of Sweden's established AWS communities, running for 7+ years. I was invited to join as co-organizer and have been contributing to regular meetups, knowledge-sharing sessions, and hands-on learning events for AWS practitioners across the Skåne region.
+
+**[AWS User Group Manaus](https://www.meetup.com/aws-user-group-manaus/) — Co-Organizer**
+_Sep 2026 – present · Manaus, Brazil_
+
+Co-organizing the AWS community in Manaus (Amazonas state), with meetups and talks for developers and people starting out in cloud.
 
 ---
 
@@ -70,10 +79,9 @@ Created content and managed social media to support the mission of inspiring and
 
 ## Mentoring
 
-I mentor women entering cloud computing through two structured programs:
-[WIICA's CloudHER program](hhttps://wicafrica.org/) (supporting women across Africa) and
-[Escola da Nuvem](https://escoladanuvem.org/) (supporting underserved communities in Brazil).
-I also provide individual mentoring through my AWS Community Builder work, helping people assess where to start, recommending learning paths, and supporting their first steps into the field.
+I mentor women entering cloud computing through two non-profits:
+[Women Innovating in Cloud Africa (WIICA)](hhttps://wicafrica.org/) (supporting women across Africa) and
+[Escola da Nuvem](https://escoladanuvem.org/) (supporting underserved communities in Brazil). I also provide individual mentoring through my AWS Community Builder work, helping people assess where to start, recommending learning paths, and supporting their first steps into the field.
 
 My focus is always on people who feel like outsiders in tech, because that's exactly where I started.
 

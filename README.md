@@ -8,20 +8,21 @@ Live site: [suzanamelo.com](https://suzanamelo.com/)
 
 ## About
 
-Suzana Melo is a full-stack developer and AWS Cloud Practitioner who
-transitioned into software development in her 40s without a tech
-background. She holds a bachelor's degree in Communications and has
-over 20 years of experience. As a strong advocate for diversity and
-inclusion, she actively works on initiatives that empower women and
-underrepresented groups in tech, mentors juniors and graduates, and
-drives tech community enablement across Europe, West Asia, Africa,
-Asia-Pacific, and the Americas.
+Suzana Melo is a full-stack engineer and AWS Community Builder who moved
+into tech in her 40s, after 20+ years in journalism and media leadership
+in Brazil. She founded [The Mentor Gap](https://thementorgap.org/), a free
+initiative that creates resources for people growing without a mentor,
+and for new mentors getting started.
 
-Suzana is an AWS Community Builder, founder of the AWS Women's User
-Group Sweden, and co-organizer of AWS Community Day Baltic. She is
-enrolled in a postgraduate specialization in AI and Machine Learning
-at PUC Minas, is a featured speaker at AWS re:Invent 2024, and writes
-articles reaching 14,000+ readers.
+She also founded the AWS Women's User Group Sweden, co-organizes the AWS
+User Groups Skåne and Manaus and AWS Community Day Baltic, and mentors
+career changers and women in tech through Women Innovating in Cloud Africa
+(WIICA) and Escola da Nuvem. Her talks, workshops, and mentoring reach tech
+communities across Europe, West Asia, Africa, Asia-Pacific, and the
+Americas, in English and Portuguese. Suzana spoke at AWS re:Invent 2024,
+is studying for a postgraduate specialization in AI and Machine Learning
+at PUC Minas, and writes about cloud, AWS, and AI for developers and
+career changers at suzanamelo.com.
 
 - [LinkedIn](https://linkedin.com/in/suzanamelo-m)
 - [GitHub](https://github.com/suzanamelo-m)

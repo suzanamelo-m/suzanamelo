@@ -21,11 +21,11 @@ That path wasn't linear. But it's the reason I write here. Because I've been exa
 
 My engineering background spans TypeScript, Node.js, React, Next.js, and AWS serverless with production experience across AI-powered platforms, APIs, and internal developer tooling. I'm now deepening that foundation in AI and machine learning: enrolled in a postgraduate specialization at PUC Minas and building applied AI projects, which I'll write about as I go.
 
-Before tech, I spent 20+ years as a journalist, editor, and media director in Brazil. I led teams, managed newsrooms under daily deadline pressure, and learned to explain complex things to large audiences. That background didn't disappear when I became an engineer, which is why I can write posts and articles that reaches over 14,000 impressions or deliver an AI curriculum to non-technical learners in a second language.
+Before tech, I spent 20+ years as a journalist, editor, and media director in Brazil. I led teams, managed newsrooms under daily deadline pressure, and learned to explain complex things to large audiences. That background didn't disappear when I became an engineer, which is why I can write posts and articles reaching up to 14,000+ views or deliver an AI curriculum to non-technical learners in a second language.
 
 ---
 
-Community is central to everything I do in tech. As an AWS Community Builder since 2023, I write articles, deliver talks, and mentor women entering cloud computing across Europe, West Asia, Africa, Asia-Pacific, and the Americas. I co-organize AWS Community Day Baltic, mentor women transitioning into cloud careers through non-profits such as Women Innovating in Cloud Africa's CloudHER program and Escola da Nuvem in Brazil, and have founded and led developer communities in New Zealand and Sweden, including the AWS Women's User Group Sweden. Before that, while living in Auckland, I founded the Auckland AWS Tools and Programming meetup and co-organized the Full-Stack Engineering Auckland community for 4+ years.
+Community is central to everything I do in tech. As an AWS Community Builder since 2023, I write articles, deliver talks, and mentor women entering cloud computing across Europe, West Asia, Africa, Asia-Pacific, and the Americas. I co-organize AWS Community Day Baltic and the AWS User Groups Skåne and Manaus, mentor women transitioning into cloud careers through non-profits such as Women Innovating in Cloud Africa (WIICA) and Escola da Nuvem in Brazil, and have founded and led developer communities in New Zealand and Sweden, including the AWS Women’s User Group Sweden. Before that, while living in Auckland, I founded the Auckland AWS Tools and Programming meetup and co-organized the Full-Stack Engineering Auckland community for 4+ years. In 2026, I founded [The Mentor Gap](https://thementorgap.org/), a free initiative that creates resources for people growing without a mentor, and for new mentors getting started.
 
 **See the full picture of my community work →** [Community](/community)
 
@@ -45,6 +45,8 @@ If any of this sounds like where you are → [start here](/articles)
 ---
 
 ## [Certifications](https://www.linkedin.com/in/suzanamelo-m/details/certifications/)
+
+**Google AI Professional Certificate** - Google - Sep 2026
 
 **Model Context Protocol Advanced Topics** - Anthropic - May 2026
 
