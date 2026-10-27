@@ -52,7 +52,7 @@ Volunteer mentor at Escola da Nuvem — a Brazilian non-profit that has placed 3
 **[AWS User Group Manaus](https://www.meetup.com/aws-user-group-manaus/) — Co-Organizer**
 _Sep 2026 – present · Manaus, Brazil_
 
-Co-organizing the AWS community in Manaus, with meetups and talks for developers and people starting out in cloud.
+Co-organizing the AWS community in Manaus (Amazonas state), with meetups and talks for developers and people starting out in cloud.
 
 **[AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/) — Co-Organizer**
 _Aug 2024 – present · Southern Sweden (contributing remotely)_
