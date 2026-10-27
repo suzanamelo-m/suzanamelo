@@ -13,13 +13,18 @@ I focus on the people who don't yet see themselves as belonging in tech: women, 
 
 ---
 
-**Articles and posts reaching 14,000+ impressions · 4,000+ session viewers across Europe, Africa, Asia-Pacific, and Americas · AWS re:Invent 2024 speaker · Mentoring women in cloud across Africa, Brazil, and Sweden**
+**Articles and posts reaching up to 14,000+ views · 4,000+ session viewers across Europe, Africa, Asia-Pacific, and Americas · AWS re:Invent 2024 speaker · Mentoring women in cloud across Africa, Brazil, and Sweden**
 
 **Full speaking history and session abstracts →**[Speaking](/speaking)
 
 ---
 
 ## Current roles
+
+**[The Mentor Gap](https://thementorgap.org/) – Founder**
+_Jul 2026 – present · Remote_
+
+I founded The Mentor Gap, a free, noncommercial initiative that creates resources to close the mentoring gap from both sides. It starts with the Virtual AI Mentor guides, which help people without a mentor set up their own AI mentor safely, using free tools. The first guide is available in English and Brazilian Portuguese; a Mentor Starter Kit for new mentors is in development.
 
 **[AWS Community Builder](https://builder.aws.com/community/community-builders)**
 _Aug 2023 – present · Global (EMEA, APAC, LATAM)_
