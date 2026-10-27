@@ -46,6 +46,8 @@ If any of this sounds like where you are → [start here](/articles)
 
 ## [Certifications](https://www.linkedin.com/in/suzanamelo-m/details/certifications/)
 
+**Google AI Professional Certificate** - Google - Sep 2026
+
 **Model Context Protocol Advanced Topics** - Anthropic - May 2026
 
 **Building with the Claude API** - Anthropic - May 2026
