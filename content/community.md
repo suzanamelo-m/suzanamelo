@@ -49,15 +49,15 @@ Volunteer mentor at WIICA, a pan-African non-profit supporting women moving into
 
 Volunteer mentor at Escola da Nuvem — a Brazilian non-profit that has placed 3,600+ students in employment through free cloud education. I run four-week group mentoring cycles covering AWS fundamentals, exam strategy, and career guidance for students preparing for the AWS Certified Cloud Practitioner exam.
 
-**[AWS User Group Manaus](https://www.meetup.com/aws-user-group-manaus/) — Co-Organizer**
-_Sep 2026 – present · Manaus, Brazil_
-
-Co-organizing the AWS community in Manaus (Amazonas state), with meetups and talks for developers and people starting out in cloud.
-
 **[AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/) — Co-Organizer**
 _Aug 2024 – present · Southern Sweden (contributing remotely)_
 
 One of Sweden's established AWS communities, running for 7+ years. I was invited to join as co-organizer and have been contributing to regular meetups, knowledge-sharing sessions, and hands-on learning events for AWS practitioners across the Skåne region.
+
+**[AWS User Group Manaus](https://www.meetup.com/aws-user-group-manaus/) — Co-Organizer**
+_Sep 2026 – present · Manaus, Brazil_
+
+Co-organizing the AWS community in Manaus (Amazonas state), with meetups and talks for developers and people starting out in cloud.
 
 ---
 
@@ -79,10 +79,9 @@ Created content and managed social media to support the mission of inspiring and
 
 ## Mentoring
 
-I mentor women entering cloud computing through two structured programs:
-[WIICA's CloudHER program](hhttps://wicafrica.org/) (supporting women across Africa) and
-[Escola da Nuvem](https://escoladanuvem.org/) (supporting underserved communities in Brazil).
-I also provide individual mentoring through my AWS Community Builder work, helping people assess where to start, recommending learning paths, and supporting their first steps into the field.
+I mentor women entering cloud computing through two non-profits:
+[Women Innovating in Cloud Africa (WIICA)](hhttps://wicafrica.org/) (supporting women across Africa) and
+[Escola da Nuvem](https://escoladanuvem.org/) (supporting underserved communities in Brazil). I also provide individual mentoring through my AWS Community Builder work, helping people assess where to start, recommending learning paths, and supporting their first steps into the field.
 
 My focus is always on people who feel like outsiders in tech, because that's exactly where I started.
 
