@@ -25,7 +25,7 @@ Key takeaways:
 
 _Level: Foundational (100)_
 
-**Given at:** Women Innovating in Cloud Africa (WIICA)/CloudHER Program (Online, Sep 2026)
+**Given at:** Women Innovating in Cloud Africa (WIICA)/CloudHER Program (Online, Sep 2026) · Mentorship Matters Africa (Online, Oct 2026)
 
 ---
 
