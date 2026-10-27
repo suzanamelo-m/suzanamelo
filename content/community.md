@@ -43,12 +43,16 @@ I founded this group to create an inclusive space for women and allies in cloud 
 
 **[Women Innovating in Cloud Africa (WIICA)](https://wicafrica.org) — Mentor · CloudHER Mentorship Program** · _May 2026 – present · Remote (Ghana)_
 
-Volunteer mentor in WIICA's CloudHER program — a pan-African initiative that has
-trained 1,000+ women across 10 African countries. Over a 12-week structured cycle, I provide career guidance, AWS learning path support, CV and LinkedIn reviews, and interview preparation. I previously delivered the closing talk at WIICA's 12-Week AWS Workshop Challenge in Accra, Ghana (December 2025).
+Volunteer mentor at WIICA, a pan-African non-profit supporting women moving into cloud careers. I provide career guidance, AWS learning path support, CV and LinkedIn reviews, and interview preparation. I previously delivered the closing talk at WIICA’s 12-Week AWS Workshop Challenge in Accra, Ghana (December 2025).
 
 **[Escola da Nuvem](https://escoladanuvem.org) — AWS Cloud Practitioner Mentor** · _May 2026 – present · Remote (Brazil)_
 
 Volunteer mentor at Escola da Nuvem — a Brazilian non-profit that has placed 3,600+ students in employment through free cloud education. I run four-week group mentoring cycles covering AWS fundamentals, exam strategy, and career guidance for students preparing for the AWS Certified Cloud Practitioner exam.
+
+**[AWS User Group Manaus](https://www.meetup.com/aws-user-group-manaus/) — Co-Organizer**
+_Sep 2026 – present · Manaus, Brazil_
+
+Co-organizing the AWS community in Manaus, with meetups and talks for developers and people starting out in cloud.
 
 **[AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/) — Co-Organizer**
 _Aug 2024 – present · Southern Sweden (contributing remotely)_
