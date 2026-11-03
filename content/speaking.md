@@ -57,7 +57,7 @@ I'll cover how I went from attending to organizing, how that opened real mentori
 
 _Level: Foundational (100)_
 
-**Given at:** Ignite Cloud (Online in Israel, Aug 2025)
+**Given at:** Ignite Cloud (Online, Israel, Aug 2025)
 
 ---
 
@@ -138,7 +138,7 @@ Pontos chaves:
 
 _Nível: Fundamental (100) ao Intermediário (200)_
 
-**Apresentado em:** AWS Community Day Portugal (Lisboa, Portugal, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus, Amazonas-BR, Set 2026)
+**Apresentado em:** AWS Community Day Portugal (Lisboa, Portugal, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus, Amazonas-BR, Set 2026) · AWS Community Day Brasil - Norte (Belém, Pará-BR, Oct 2026)
 
 ---
 
