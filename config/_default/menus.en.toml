@@ -42,6 +42,12 @@
   pageRef = "guides"
   weight = 50
 
+[[main]]
+  name = "Workshops"
+  parent = "Speaking"
+  pageRef = "workshops"
+  weight = 50
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
