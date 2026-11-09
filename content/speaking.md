@@ -44,7 +44,7 @@ Key Takeaways:
 _Level: Foundational (100) to intermediate (200)_
 
 **Given at:** AWS Community Day Baltic (Gdynia, Poland, Sep 2025) ·
-AWS User Group Skåne (Mälmo, Sweden, Sep 2025)
+AWS User Group Skåne (Malmö, Sweden, Sep 2025)
 
 ---
 
