@@ -1,11 +1,10 @@
 +++
 date = '2025-08-20T23:34:18+02:00'
 draft = false
+title = 'Speaking'
 +++
 
-# Speaking & Workshops
-
-![Suzana Melo Blog Logo](/img/suzana-melo-blog-logo.png)
+![AWS Community Day Baltic - Poland](/img/aws-com-day-baltic.jpg "Suzana Melo presenting on AWS Amplify at AWS Community Day Baltic, Gdynia, Poland, 2025")
 
 ---
 
@@ -45,7 +44,7 @@ Key Takeaways:
 _Level: Foundational (100) to intermediate (200)_
 
 **Given at:** AWS Community Day Baltic (Gdynia, Poland, Sep 2025) ·
-AWS User Group Skåne (Mälmo, Sweden, Sep 2025)
+AWS User Group Skåne (Malmö, Sweden, Sep 2025)
 
 ---
 
@@ -142,26 +141,6 @@ _Nível: Fundamental (100) ao Intermediário (200)_
 
 ---
 
-# Workshops
-
-🇺🇸 _English_
-
-## [Empowering Women in Tech](https://sessionize.com/s/suzana-melo/workshop-empowering-women-in-tech/130912)
-
-An inspiring and hands-on session designed to empower women in the cloud industry!\
-We'll dive into practical strategies for fostering diversity, creating inclusive spaces, and closing the gender gap in tech. Together, we'll explore ways to break barriers, amplify voices, and drive meaningful change.\
-Expect insights on public speaking, content creation, organizing user groups, and building strong professional networks. Whether you're just starting or a seasoned pro, this workshop is packed with actionable takeaways to help you grow, connect, and make an impact.\
-Let's learn, share, and uplift each other because the cloud needs all of us!\
-
-_Level: Foundational (100)_
-
-> The session can be adjusted to fit between 40 minutes and 2 hours.
-
-**Given at:** AWS Community Day Italy 2025 (Milan, Italy, Apr 2025) ·
-AWS Community Day Nordics 2025 (Göteborg, Sweden, Oct 2025)
-
----
-
 # Featured Appearances
 
 **AWS re:Invent 2024** · Las Vegas, US, December 2024  
@@ -184,6 +163,14 @@ Shared insights as a junior developer working with serverless services — chall
 lessons learned, and how to get started with AWS Lambda and DynamoDB.
 
 **Full speaking history and session abstracts →** [Sessionize](https://sessionize.com/suzana-melo/)
+
+---
+
+# Workshops
+
+I also run hands-on workshops for events and teams, from career growth for women in tech to building AI agents on AWS. Workshops are available in English and Portuguese.
+
+[See workshops](/workshops) →
 
 ---
 
