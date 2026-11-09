@@ -5,7 +5,7 @@ draft = false
 
 # Speaking & Workshops
 
-![Suzana Melo Blog Logo](/img/suzana-melo-blog-logo.png)
+![AWS Community Day Baltic - Poland](/img/aws-com-day-baltic.jpg "Suzana Melo presenting on AWS Amplify at AWS Community Day Baltic, Gdynia, Poland, 2025")
 
 ---
 
