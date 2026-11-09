@@ -170,7 +170,7 @@ lessons learned, and how to get started with AWS Lambda and DynamoDB.
 
 I also run hands-on workshops for events and teams, from career growth for women in tech to building AI agents on AWS. Workshops are available in English and Portuguese.
 
-[See workshops](/workshops) →
+[See workshops](/workshops/) →
 
 ---
 
