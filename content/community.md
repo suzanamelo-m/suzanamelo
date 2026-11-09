@@ -1,9 +1,8 @@
 +++
 date = '2025-08-20T23:34:19+02:00'
 draft = false
+title = 'Community'
 +++
-
-# Community
 
 ![Community work around the world](/img/community-page-collage.png)
 
