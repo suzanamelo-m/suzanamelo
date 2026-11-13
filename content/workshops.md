@@ -46,7 +46,7 @@ Before the hands-on part, an introduction covers the concepts participants need 
 
 Students and tech professionals who already code a little. No experience with AI or LLMs is required.
 
-- 18 or older (required by AWS Builder ID and Claude)
+- 18 or older (required by AWS and Claude)
 - Basic knowledge of Python
 - Understanding of JSON
 - General familiarity with AWS (no in-depth experience required)
@@ -87,7 +87,7 @@ Antes da prática, uma introdução cobre os conceitos necessários para acompan
 
 Estudantes e profissionais de tecnologia que já programam um pouco. Não é necessária experiência com IA ou LLMs.
 
-- 18 anos ou mais (exigência do AWS Builder ID e do Claude)
+- 18 anos ou mais (exigência da e do Claude)
 - Noções básicas de Python
 - Compreensão de JSON
 - Familiaridade geral com a AWS (não é necessária experiência aprofundada)
