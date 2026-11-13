@@ -117,7 +117,7 @@ O que você levará desta sessão:
 
 _Nível: Fundamental (100)_
 
-**Apresentado em:** Ada Conecta (Manaus, Amazonas-BR, Oct 2026)
+**Apresentado em:** Ada Conecta (Manaus, Amazonas-BR, Out 2026)
 
 ---
 
@@ -137,7 +137,7 @@ Pontos chaves:
 
 _Nível: Fundamental (100) ao Intermediário (200)_
 
-**Apresentado em:** AWS Community Day Portugal (Lisboa, Portugal, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus, Amazonas-BR, Set 2026) · AWS Community Day Brasil - Norte (Belém, Pará-BR, Oct 2026)
+**Apresentado em:** AWS Community Day Portugal (Lisboa, Portugal, Set 2025) · Cloud Voices Connect (Online, Ago 2026) · AWS User Group Manaus (Manaus, Amazonas-BR, Set 2026) · AWS Community Day Brasil - Norte (Belém, Pará-BR, Out 2026)
 
 ---
 
