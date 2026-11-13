@@ -104,7 +104,7 @@ _Nível: Intermediário (200)_
 
 > A oficina pode ser ajustada entre 3 e 4 horas. A versão de 4 horas pode incluir os módulos opcionais de multiagentes e avaliações automatizadas.
 
-**Apresentado em:** SEMINFO 2026 (IFAM Campus Manaus Centro, Manaus, Brasil, nov 2026)
+**Apresentado em:** SEMINFO 2026 (IFAM, Manaus, Brasil, nov 2026)
 
 ---
 
