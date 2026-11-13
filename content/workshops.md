@@ -56,7 +56,7 @@ Students and tech professionals who already code a little. No experience with AI
 - One computer with a browser and internet access per participant
 - A projector and a stable connection for the instructor
 - A network that allows access to AWS and Claude websites
-- The AWS environment is free (a sandbox via AWS Builder ID), with no credit card or AWS account required. It's set up at the start of the workshop, and participants should not request it beforehand, since the limit is one per week.
+- The AWS environment is free, with no credit card or AWS account required. It can be provided through AWS Workshop Studio, with an access code for the event, or through a free sandbox via AWS Builder ID. Either way, it's set up at the start of the workshop. With the sandbox option, participants should not request it beforehand, since the limit is one per week.
 - Participants need access to their email and phone to verify their accounts
 
 _Level: Intermediate (200)_
@@ -97,7 +97,7 @@ Estudantes e profissionais de tecnologia que já programam um pouco. Não é nec
 - Um computador com navegador e internet por participante
 - Projetor e conexão estável para a instrutora
 - Rede que permita acesso aos sites da AWS e do Claude
-- O ambiente AWS é gratuito (sandbox via AWS Builder ID), sem cartão de crédito nem conta AWS. Ele é configurado no início da oficina, e os participantes não devem solicitá-lo antes, porque o limite é de um por semana.
+- O ambiente AWS é gratuito, sem cartão de crédito nem conta AWS. Ele pode ser fornecido pelo AWS Workshop Studio, com código de acesso para o evento, ou por um sandbox gratuito via AWS Builder ID. Em ambos os casos, é configurado no início da oficina. Na opção do sandbox, os participantes não devem solicitá-lo antes, porque o limite é de um por semana.
 - Participantes precisam ter acesso ao e-mail e ao celular para verificar as contas
 
 _Nível: Intermediário (200)_
