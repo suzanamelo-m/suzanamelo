@@ -46,7 +46,7 @@ Volunteer mentor at WIICA, a pan-African non-profit supporting women moving into
 
 **[Escola da Nuvem](https://escoladanuvem.org) — AWS Cloud Practitioner Mentor** · _May 2026 – present · Remote (Brazil)_
 
-Volunteer mentor at Escola da Nuvem — a Brazilian non-profit that has placed 3,600+ students in employment through free cloud education. I run four-week group mentoring cycles covering AWS fundamentals, exam strategy, and career guidance for students preparing for the AWS Certified Cloud Practitioner exam.
+Volunteer mentor at Escola da Nuvem — a Brazilian non-profit that has placed 5,600+ students in employment through free cloud education. I run four-week group mentoring cycles covering AWS fundamentals, exam strategy, and career guidance for students preparing for the AWS Certified Cloud Practitioner exam.
 
 **[AWS User Group Skåne](https://www.meetup.com/aws-user-group-skane/) — Co-Organizer**
 _Aug 2024 – present · Southern Sweden (contributing remotely)_
