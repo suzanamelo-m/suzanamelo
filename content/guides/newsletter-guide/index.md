@@ -1,7 +1,9 @@
 +++
 date = '2026-08-04T12:00:00+02:00'
+lastmod = '2026-11-15T12:00:00+01:00'
 draft = false
 title = 'AWS User Groups Community Newsletter Guide'
+description = 'A step-by-step guide and two newsletter models (mid-year and end-of-year) for AWS User Group leaders, with tips for Meetup and Luma.'
 tags = ['Guides', 'AWS User Groups', 'Newsletter', 'Community Resources', 'Community Building']
 +++
 
@@ -13,11 +15,11 @@ _A simple system for keeping your community informed, engaged, and appreciated, 
 
 ## How to Use This Guide
 
-This is a **model, not a form**. Nothing here is meant to be copied word for word. The two templates further down show you the structure, tone, and rhythm of a community newsletter that works. Adapt the wording, the sections, and the order to fit your own group's voice.
+This is a **model, not a form**. Nothing here is meant to be copied word for word. The two models further down show you the structure, tone, and rhythm of a community newsletter that works. Adapt the wording, the sections, and the order to fit your own group's voice.
 
 Two visual cues run through this document:
 
-- Anything inside a shaded quote block (like the templates below) is reference material: a model to read, borrow from, and rewrite in your own words.
+- Anything inside a shaded quote block (like the models below) is reference material: a model to read, borrow from, and rewrite in your own words.
 - Text in _[brackets and italics]_ marks something to swap out: a name, a number, a date. Everything else around it is example language, not a required phrase.
 
 ---
@@ -50,7 +52,7 @@ Mid-year (send around June or July) or end-of-year (send around late November or
 
 ### 2. Gather your material
 
-Open the matching template below and start collecting before you write a single sentence:
+Open the matching model below and start collecting before you write a single sentence:
 
 - Message your co-organizers and ask what they would want included.
 - Scroll your group's Meetup event page since the last newsletter to reconstruct the list of meetups and speakers.
@@ -112,7 +114,7 @@ A short, clear subject line beats a clever one: name what is inside rather than 
 
 Two full models below for reference: one for mid-year, one for end-of-year.
 
-They are written separately on purpose; the tone and the seasonal references (AWS Summit season versus re:Invent and the holidays) are different enough that a single bracketed template would read awkwardly in one version or the other.
+They are written separately on purpose; the tone and the seasonal references (AWS Summit season versus re:Invent and the holidays) are different enough that a single bracketed model would read awkwardly in one version or the other.
 
 **Read these as a starting point, not a script.** Keep the structure (Introduction, What Happened, What's New, What's Next, Conclusion) if it's useful to you, and rewrite every line in your own group's voice.
 
@@ -120,7 +122,7 @@ They are written separately on purpose; the tone and the seasonal references (AW
 
 _Send around June or July._
 
-> **📄 MODEL — MID-YEAR TEMPLATE**
+> **📄 MODEL — MID-YEAR**
 >
 > **Subject line options**
 >
@@ -134,29 +136,22 @@ _Send around June or July._
 >
 > **What Happened? (recap of January–June)**
 >
-> Meetups 🎤 — _[List your talks, speakers, topics, and the sponsors who supported each session.]_
->
-> Other Events 🌍 — _[AWS Summits, AWS Community Days, Dev Days, or any other AWS-related or non-AWS activity leaders took part in.]_
->
-> _[Spotlight organizers or members who contributed, e.g., by delivering a talk, volunteering, or representing the community.]_
+> - Meetups 🎤 — _[List your talks, speakers, topics, and the sponsors who supported each session.]_
+> - Other Events 🌍 — _[AWS Summits, AWS Community Days, Dev Days, or any other AWS-related or non-AWS activity leaders took part in.]_
+>   - _[Spotlight organizers or members who contributed, e.g., by delivering a talk, volunteering, or representing the community.]_
 >
 > **What's New? ✨**
 >
-> _[Newly joined organizers.]_
->
-> _[Members or leaders submitting talks or speaking at upcoming events, for example, CFP submissions for AWS re:Invent, which typically open around mid-year, or any other event, AWS-related or not.]_
->
-> _[Community milestones worth a highlight: a group anniversary, an attendance record, a recognition.]_
+> - _[Newly joined organizers.]_
+> - _[Members or leaders submitting talks or speaking at upcoming events, for example, CFP submissions for AWS re:Invent, which typically open around mid-year, or any other event, AWS-related or not.]_
+> - _[Community milestones worth a highlight: a group anniversary, an attendance record, a recognition.]_
 >
 > **What's Next? 🚀**
 >
-> _[Upcoming AWS Community Days, AWS Summits, Dev Days, or other AWS-related activities planned for the second half of the year.]_
->
-> _[Ideas for meetups in the coming months.]_
->
-> _[New initiatives, collaborations, or community projects. No need to include dates if you don't have them yet; a glimpse is enough.]_
->
-> _[An invitation for members to submit talks or get more involved.]_
+> - _[Upcoming AWS Community Days, AWS Summits, Dev Days, or other AWS-related activities planned for the second half of the year.]_
+> - _[Ideas for meetups in the coming months.]_
+> - _[New initiatives, collaborations, or community projects. No need to include dates if you don't have them yet; a glimpse is enough.]_
+> - _[An invitation for members to submit talks or get more involved.]_
 >
 > **Conclusion**
 >
@@ -166,7 +161,7 @@ _Send around June or July._
 
 _Send around late November or December._
 
-> **📄 MODEL — END-OF-YEAR TEMPLATE**
+> **📄 MODEL — END-OF-YEAR**
 >
 > **Subject line options**
 >
@@ -180,31 +175,23 @@ _Send around late November or December._
 >
 > **What Happened? (year in review)**
 >
-> Meetups 🎤 — _[List your talks, speakers, topics, and the sponsors who supported each session.]_
->
-> Other Events 🌍 — _[AWS Community Days, AWS Summits, Dev Days, or any other AWS-related or non-AWS activity leaders took part in.]_
->
-> _[Spotlight organizers or members who contributed, e.g., by delivering a talk, volunteering, or representing the community.]_
+> - Meetups 🎤 — _[List your talks, speakers, topics, and the sponsors who supported each session.]_
+> - Other Events 🌍 — _[AWS Community Days, AWS Summits, Dev Days, or any other AWS-related or non-AWS activity leaders took part in.]_
+>   - _[Spotlight organizers or members who contributed, e.g., by delivering a talk, volunteering, or representing the community.]_
 >
 > **What's New? ✨**
 >
-> _[Newly joined organizers.]_
->
-> _[Members or leaders heading to AWS re:Invent, or another upcoming event, AWS-related or not.]_
->
-> _[Community milestones, achievements, or recognitions: a group anniversary, an attendance record, anything that deserves a highlight.]_
+> - _[Newly joined organizers.]_
+> - _[Members or leaders heading to AWS re:Invent, or another upcoming event, AWS-related or not.]_
+> - _[Community milestones, achievements, or recognitions: a group anniversary, an attendance record, anything that deserves a highlight.]_
 >
 > **What's Next? 🚀**
 >
-> _[A possible re:Invent recap session for members who couldn't attend.]_
->
-> _[AWS Community Days, AWS Summits, Dev Days, or other AWS-related activities on the calendar for early next year.]_
->
-> _[Ideas for next year's meetups.]_
->
-> _[New initiatives, collaborations, or community projects. No need to include dates if you don't have them yet; a glimpse is enough.]_
->
-> _[An invitation for members to submit talks for next year.]_
+> - _[A possible re:Invent recap session for members who couldn't attend.]_
+> - _[AWS Community Days, AWS Summits, Dev Days, or other AWS-related activities on the calendar for early next year.]_
+> - _[Ideas for next year's meetups.]_
+> - _[New initiatives, collaborations, or community projects. No need to include dates if you don't have them yet; a glimpse is enough.]_
+> - _[An invitation for members to submit talks for next year.]_
 >
 > **Conclusion**
 >
@@ -253,7 +240,7 @@ Mailchimp, Beehiiv, and Substack all offer free tiers for small lists and let yo
 
 ### A human touch
 
-If you want to go further, a short quote or two from members (what a meetup meant to them, why they joined) adds a layer that no template can, and it costs little more than one extra message to a couple of members before you send.
+If you want to go further, a short quote or two from members (what a meetup meant to them, why they joined) adds a human layer that a model alone cannot, and it costs little more than one extra message to a couple of members before you send.
 
 ---
 
