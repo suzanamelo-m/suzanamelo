@@ -3,7 +3,7 @@ date = '2026-11-15T12:00:00+01:00'
 draft = false
 title = 'Guia de Newsletter para AWS User Groups (PT-BR)'
 description = 'Modelos de meio de ano e de fim de ano, passo a passo e dicas para Meetup e Luma, para líderes de AWS User Groups manterem a comunidade informada e engajada.'
-tags = ['Guides', 'AWS User Groups', 'Newsletter', 'Community Resources', 'Community Building']
+tags = ['PT-BR', 'Guides', 'AWS User Groups', 'Newsletter', 'Community Resources', 'Community Building']
 +++
 
 **_Modelos de Meio de Ano e Fim de Ano para Líderes de User Groups da AWS_**
@@ -105,7 +105,7 @@ Tudo o que foi dito acima continua valendo. A estrutura do recap (O Que Acontece
 
 Envie um teste para você primeiro. Leia a newsletter no celular, não só no notebook. A maioria dos membros vai abrir por lá. Corrija o que for necessário e, depois, envie aos membros da comunidade.
 
-Um assunto curto e claro vence um criativo, mas confuso. O mesmo vale para títulos curtos demais e sem contexto: é melhor dizer o que há no conteúdo, em vez de simplesmente escrever "Newsletter". Mantenha em torno de 50 caracteres, se possível.
+Um título curto e claro vence um criativo, mas confuso. O mesmo vale para títulos curtos demais e sem contexto: é melhor dizer o que há no conteúdo, em vez de simplesmente escrever "Newsletter". Mantenha em torno de 50 caracteres, se possível.
 
 ---
 
@@ -156,7 +156,7 @@ _Envie por volta de junho ou julho._
 >
 > **Encerramento**
 >
-> Obrigada por fazer parte do _[Nome do grupo]_ e por acompanhar nossos eventos neste primeiro semestre. Estamos muito animados com a programação que estamos criando com muito carinho, especialmente para você, para o resto deste ano. Esperamos ver você no próximo meetup. 🙏
+> Agradecemos por fazer parte do _[Nome do grupo]_ e por acompanhar nossos eventos neste primeiro semestre. _[Estamos preparando com carinho a programação do resto do ano.]_ Esperamos ver você no próximo meetup. 🙏
 
 ### Modelo 2 · Newsletter de Fim de Ano
 
@@ -167,7 +167,7 @@ _Envie no final de novembro ou em dezembro._
 > **Opções para o título do e-mail**
 >
 > - _[Nome do grupo]_ em _[ano]_: uma retrospectiva do ano 🎉
-> - Obrigada por um ano incrível com o _[Nome do grupo]_ ❤️
+> - _[Nome do grupo]_: agradecemos por um ano incrível ❤️
 > - _[Nome do grupo]_: _[X]_ meetups, _[Y]_ palestrantes e o que vem em _[próximo ano]_
 >
 > **Introdução**
@@ -198,7 +198,7 @@ _Envie no final de novembro ou em dezembro._
 >
 > **Encerramento**
 >
-> Obrigada por fazer parte do _[Nome do grupo]_ este ano. Somos gratos pelo seu engajamento, pelas suas perguntas, pelas suas palestras e pelo tempo que você dedicou a essa comunidade. Desejamos boas festas e um ótimo descanso, até _[próximo ano]_! 🎄✨
+> Agradecemos por fazer parte do _[Nome do grupo]_ este ano. Nossa gratidão pelo seu engajamento, pelas suas perguntas, pelas suas palestras e pelo tempo que você dedicou a essa comunidade. Desejamos boas festas e um ótimo descanso, até _[próximo ano]_! 🎄✨
 
 ---
 
