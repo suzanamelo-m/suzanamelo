@@ -12,7 +12,7 @@ I focus on the people who don't yet see themselves as belonging in tech: women, 
 
 ---
 
-**Articles and posts reaching up to 14,000+ views · 4,000+ session viewers across Europe, Africa, Asia-Pacific, and Americas · AWS re:Invent 2024 speaker · Mentoring women in cloud across Africa, Brazil, and Sweden**
+**Articles and posts reaching up to 14,000+ impressions · 4,000+ session viewers across Europe, Africa, Asia-Pacific, and Americas · AWS re:Invent 2024 speaker · Mentoring women in cloud across Africa, Brazil, and Sweden**
 
 **Full speaking history and session abstracts →**[Speaking](/speaking)
 
