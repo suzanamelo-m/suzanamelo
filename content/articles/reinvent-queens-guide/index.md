@@ -13,7 +13,7 @@ The event’s massive agenda includes over 1,000 technical sessions, hands-on tr
 
 Besides finding tips about choosing and scheduling sessions effectively or navigating between venues, most re:Invent guides also remind you to stay hydrated and wear comfortable shoes. Seriously, don’t ignore this one!
 
-Vegas is very dry, and keeping a bottle of water with you is essential. You’ll spend five full days walking between six hotel venues — The Venetian, Wynn, Caesar’s Forum, Encore, MGM Grand, and Mandalay Bay — easily clocking in 12+ hours a day on your feet. Trust me, your feet will thank you for your wise shoe choice.
+Vegas is very dry, and keeping a bottle of water with you is essential. You’ll spend five full days walking between six hotel venues — The Venetian, Wynn, Caesars Forum, Caesars Palace, Encore, and MGM Grand — easily clocking in 12+ hours a day on your feet. Trust me, your feet will thank you for your wise shoe choice.
 
 However, there are a few extra steps you can take to make your experience even better, especially as a woman. Most guides are written by our male allies, but let’s be honest: they don’t always cover our kind of essentials. So here are a few “re:Invent Queens” tips from women who’ve been there and learned what’s really worth packing.
 
