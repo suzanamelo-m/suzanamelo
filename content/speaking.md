@@ -56,7 +56,7 @@ I'll cover how I went from attending to organizing, how that opened real mentori
 
 _Level: Foundational (100)_
 
-**Given at:** Ignite Cloud (Online, Israel, Nov 2026)
+**Given at:** Ignite Cloud (Online, Israel, Sep 2026)
 
 ---
 
