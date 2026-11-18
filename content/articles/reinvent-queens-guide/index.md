@@ -17,7 +17,7 @@ Vegas is very dry, and keeping a bottle of water with you is essential. You’ll
 
 However, there are a few extra steps you can take to make your experience even better, especially as a woman. Most guides are written by our male allies, but let’s be honest: they don’t always cover our kind of essentials. So here are a few “re:Invent Queens” tips from women who’ve been there and learned what’s really worth packing.
 
-![re:Invent Map](/img/reinvent2025Maps.png "re:Invent massive agenda includes over 1,000 sessions and hands-on training spread in six venues")
+![re:Invent Venues Map](/img/reinvent-venues-map-2026.png "re:Invent massive agenda includes over 1,000 sessions and hands-on training spread in six venues")
 
 ## 🎒 Packing light
 
