@@ -145,16 +145,14 @@ _Nível: Fundamental (100) ao Intermediário (200)_
 
 **AWS re:Invent 2024** · Las Vegas, US, December 2024  
 _ACT177 — Women in Tech Fireside Chat & Meetup_  
-Featured speaker at AWS's largest global conference. Participated in a curated
-fireside chat on creating more inclusive environments, overcoming barriers to women's
-success in tech, and encouraging the next generation of women in cloud.
+Speaker at AWS's largest global conference. Participated in a curated
+fireside chat on creating more inclusive environments, overcoming barriers to women's success in tech, and encouraging the next generation of women in cloud.
 
 **AWS Women's User Group Berlin** · Berlin, Germany, March 2025  
 _Empowerment Panel — Women's Day Special_  
-Panellist at a dedicated evening on learning, empowerment, and community for women
-in the AWS cloud space.
+Panellist at a dedicated evening on learning, empowerment, and community for women in the AWS cloud space.
 
-**Moar Serverless 2024** · Orlando, US, May 2024  
+**Moar Serverless 2024** · Online, Orlando, US, May 2024  
 _Adding Serverless Content Moderation to Your Application with Only 3 Simple AWS Tools_
 
 **Serverless Days ANZ** · Auckland, NZ, May 2024  
