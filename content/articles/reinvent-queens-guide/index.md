@@ -11,7 +11,7 @@ showDateUpdated = true
 
 If you’re attending AWS re:Invent for the first time, get ready, and I mean _really_ ready.
 
-The event’s massive agenda includes over 1,000 technical sessions, hands-on training, and more than 60,000 attendees. Learning from veterans’ experiences will definitely enhance your week and help you avoid rookie mistakes that could impact your best moments.
+The event’s massive agenda includes over 2,000 technical sessions, hands-on training, and more than 60,000 attendees. Learning from veterans’ experiences will definitely enhance your week and help you avoid rookie mistakes that could impact your best moments.
 
 Besides finding tips about choosing and scheduling sessions effectively or navigating between venues, most re:Invent guides also remind you to stay hydrated and wear comfortable shoes. Seriously, don’t ignore this one!
 
