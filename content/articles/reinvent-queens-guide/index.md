@@ -85,7 +85,7 @@ After long days of walking, networking, and Vegas’ desert climate, your body w
 
 “I always pack a few sheet masks. A 15-minute break with one, and I start the day looking fresh. It does miracles!”
 
-![Linda Mohamed](/img/ReinventWITmeetup.jpg "Linda and I hosting a Women in Tech meetup at re:Invent next to a stand offering haircuts for men")
+![Linda Mohamed](/img/ReinventWITmeetup.jpg "Linda and I hosting a Women in Tech meetup at re:Invent 2024 next to a stand offering haircuts for men")
 
 She also has a fun suggestion for event organizers:\
 “At re:Invent 2024, Suzana and I hosted a Women in Tech meetup next to a stand offering haircuts for men. How about a space for women to get their nails done or blow-dry their hair for the event?”, asks Linda.
