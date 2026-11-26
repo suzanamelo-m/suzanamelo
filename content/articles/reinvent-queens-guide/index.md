@@ -1,8 +1,10 @@
 +++
 date = '2025-10-29T19:34:17+02:00'
+lastmod = '2026-11-26T12:00:00-03:00'
 draft = false
 title = 'The re:Invent Queens’ Guide: Tips You Should Know Before Landing in Vegas'
 tags = ['AWS', 're:Invent', 'guide']
+showDateUpdated = true
 +++
 
 ![re:Invent Queens](/img/ReinventQueensGuide.png)
