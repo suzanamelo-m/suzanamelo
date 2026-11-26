@@ -61,7 +61,7 @@ For affordable snacks, toiletries, and bottled water, Monica recommends the Walg
 [Amelia Hough-Ross](https://www.linkedin.com/in/ameliahoughross/), an AWS Community Builder in the US who has attended at least nine re:Invents, shared a genius tip for keeping your schedule under control and your phone alive:\
 “Make a paper copy of your schedule with all your session times and locations. It’s so much easier to access than constantly checking your phone, and it saved me so much battery life. I also include the after-parties I’m registered for, so I can plan where I need to be in real time with people.”
 
-![Amelia Hough-Ross](/img/Amelia-reInvent.jpeg "Amelia attended at least eight re:Invents so far and always makes a copy of her schedule to save mobile battery")
+![Amelia Hough-Ross](/img/Amelia-reInvent.jpeg "Amelia attended at least nine re:Invents so far and always makes a copy of her schedule to save mobile battery")
 
 This simple but brilliant habit can make a huge difference in keeping your days organized and stress-free while everyone else is frantically scrolling through their phones.
 
