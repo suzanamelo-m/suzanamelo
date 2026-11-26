@@ -1,15 +1,17 @@
 +++
 date = '2025-10-29T19:34:17+02:00'
+lastmod = '2026-11-26T12:00:00-03:00'
 draft = false
 title = 'The re:Invent Queens’ Guide: Tips You Should Know Before Landing in Vegas'
 tags = ['AWS', 're:Invent', 'guide']
+showDateUpdated = true
 +++
 
 ![re:Invent Queens](/img/ReinventQueensGuide.png)
 
 If you’re attending AWS re:Invent for the first time, get ready, and I mean _really_ ready.
 
-The event’s massive agenda includes over 1,000 technical sessions, hands-on training, and more than 60,000 attendees. Learning from veterans’ experiences will definitely enhance your week and help you avoid rookie mistakes that could impact your best moments.
+The event’s massive agenda includes over 2,000 technical sessions, hands-on training, and more than 60,000 attendees. Learning from veterans’ experiences will definitely enhance your week and help you avoid rookie mistakes that could impact your best moments.
 
 Besides finding tips about choosing and scheduling sessions effectively or navigating between venues, most re:Invent guides also remind you to stay hydrated and wear comfortable shoes. Seriously, don’t ignore this one!
 
@@ -43,7 +45,7 @@ For affordable snacks, toiletries, and bottled water, Monica recommends the Walg
 
 ## 👟 More Practical Wisdom from the Road
 
-[Thembile Martis](https://www.linkedin.com/in/thembile-martis/), Community Manager at AWS, has traveled to re:Invent from both South Africa and the Netherlands, and she’s learned a thing or two along the way. Her tips are a perfect blend of practicality and experience:
+[Thembile Martis](https://www.linkedin.com/in/thembile-martis/), former Community Manager at AWS, has traveled to re:Invent from both South Africa and the Netherlands, and she’s learned a thing or two along the way. Her tips are a perfect blend of practicality and experience:
 
 ![Thembile Martis](/img/Thembile-reInvent.jpeg "Thembile blends practicality and experience: long socks, refillable water bottle and energy snacks")
 
@@ -56,7 +58,7 @@ For affordable snacks, toiletries, and bottled water, Monica recommends the Walg
 
 ## 🗓️ Plan Smart, Save Battery
 
-[Amelia Hough-Ross](https://www.linkedin.com/in/ameliahoughross/), an AWS Community Builder in the US who has attended at least eight re:Invents, shared a genius tip for keeping your schedule under control and your phone alive:\
+[Amelia Hough-Ross](https://www.linkedin.com/in/ameliahoughross/), an AWS Community Builder in the US who has attended at least nine re:Invents, shared a genius tip for keeping your schedule under control and your phone alive:\
 “Make a paper copy of your schedule with all your session times and locations. It’s so much easier to access than constantly checking your phone, and it saved me so much battery life. I also include the after-parties I’m registered for, so I can plan where I need to be in real time with people.”
 
 ![Amelia Hough-Ross](/img/Amelia-reInvent.jpeg "Amelia attended at least eight re:Invents so far and always makes a copy of her schedule to save mobile battery")
@@ -83,10 +85,10 @@ After long days of walking, networking, and Vegas’ desert climate, your body w
 
 “I always pack a few sheet masks. A 15-minute break with one, and I start the day looking fresh. It does miracles!”
 
-![Linda Mohamed](/img/ReinventWITmeetup.jpg "Linda and I hosting a Women in Tech meetup at re:Invent next to a stand offering haircuts for men")
+![Linda Mohamed](/img/ReinventWITmeetup.jpg "Linda and I hosting a Women in Tech meetup at re:Invent 2024 next to a stand offering haircuts for men")
 
 She also has a fun suggestion for event organizers:\
-“Last year, Suzana and I hosted a Women in Tech meetup next to a stand offering haircuts for men. How about a space for women to get their nails done or blow-dry their hair for the event?”, asks Linda.
+“At re:Invent 2024, Suzana and I hosted a Women in Tech meetup next to a stand offering haircuts for men. How about a space for women to get their nails done or blow-dry their hair for the event?”, asks Linda.
 
 ## 💄 My Personal Learnings
 
@@ -102,7 +104,7 @@ Finally, based on my own experience, don’t forget to pack your meds and eyedro
 
 ## 💡 Tips from an Expert
 
-[Farrah Campbell](https://www.linkedin.com/in/farrahcampbell/), Head of Modern Compute Community at AWS in the US, is heading to her ninth re:Invent, and she confirms: the dryness in Vegas is _real_.
+[Farrah Campbell](https://www.linkedin.com/in/farrahcampbell/), Head of Modern Compute Community at AWS in the US, is heading to her tenth re:Invent, and she confirms: the dryness in Vegas is _real_.
 
 She brings or rents a humidifier and uses it religiously every night, along with eye patches and face masks.\
 “Otherwise, my skin starts cracking by the second day,” she says.
