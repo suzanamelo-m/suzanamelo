@@ -104,7 +104,7 @@ Finally, based on my own experience, don’t forget to pack your meds and eyedro
 
 ## 💡 Tips from an Expert
 
-[Farrah Campbell](https://www.linkedin.com/in/farrahcampbell/), Head of Modern Compute Community at AWS in the US, is heading to her ninth re:Invent, and she confirms: the dryness in Vegas is _real_.
+[Farrah Campbell](https://www.linkedin.com/in/farrahcampbell/), Head of Modern Compute Community at AWS in the US, is heading to her tenth re:Invent, and she confirms: the dryness in Vegas is _real_.
 
 She brings or rents a humidifier and uses it religiously every night, along with eye patches and face masks.\
 “Otherwise, my skin starts cracking by the second day,” she says.
