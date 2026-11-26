@@ -45,7 +45,7 @@ For affordable snacks, toiletries, and bottled water, Monica recommends the Walg
 
 ## 👟 More Practical Wisdom from the Road
 
-[Thembile Martis](https://www.linkedin.com/in/thembile-martis/), Community Manager at AWS, has traveled to re:Invent from both South Africa and the Netherlands, and she’s learned a thing or two along the way. Her tips are a perfect blend of practicality and experience:
+[Thembile Martis](https://www.linkedin.com/in/thembile-martis/), former Community Manager at AWS, has traveled to re:Invent from both South Africa and the Netherlands, and she’s learned a thing or two along the way. Her tips are a perfect blend of practicality and experience:
 
 ![Thembile Martis](/img/Thembile-reInvent.jpeg "Thembile blends practicality and experience: long socks, refillable water bottle and energy snacks")
 
